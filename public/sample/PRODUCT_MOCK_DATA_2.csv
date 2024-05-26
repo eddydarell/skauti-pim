@@ -1,0 +1,1001 @@
+product_id,product_number,product_name,product_width,product_length,product_material,product_color,product_weight,product_packaging_weight,product_manufacturer,product_price,product_release_date
+1,60ddb7c5-9725-4ce9-8a52-8b31254f797c,Soup - Verve - Chipotle Chicken,25.23,59.55,wood,Blue,17.2427,7.85,Ailane,725.53,7/4/2000
+2,9cde79b6-7ef4-4e9b-8c98-e11a20e103d7,Bread - Rye,1.9,92.52,plastic,Green,94.9013,6.83,Quinu,92.94,2/25/2021
+3,459a68b4-705b-4d86-a45a-e6098c55442e,"Napkin - Cocktail,beige 2 - Ply",68.17,72.83,crystal,Goldenrod,40.172,7.87,Tazzy,272.76,11/9/2019
+4,7cc657a2-7968-4f2d-9889-837e8f315db0,Pastry - Raisin Muffin - Mini,35.42,85.1,sand,Purple,147.5116,5.12,Camido,942.09,11/20/2003
+5,ebabed8b-ebd0-49c3-9236-4b7dca5582bb,Beef Ground Medium,13.12,85.69,stone,Mauv,87.7092,7.82,Thoughtbeat,207.45,6/18/2006
+6,0a38b691-dd64-4820-a256-90d94faebf2c,Flower - Daisies,93.05,51.47,glass,Yellow,165.8979,8.24,Photospace,280.07,11/23/2010
+7,bfd2e5be-74c2-4c8d-bccc-bd628f47867d,Longos - Grilled Salmon With Bbq,62.59,29.35,crystal,Blue,16.7947,6.29,Jatri,569.01,10/13/2003
+8,584738de-9a4e-4375-895a-7ff5ff0175ec,Bread - 10 Grain,94.19,61.07,sand,Orange,29.2238,6.03,Quatz,496.01,5/15/2003
+9,f8bd51aa-a3f1-41cc-a8cf-c0faf8ebb4ad,Beef - Prime Rib Aaa,5.15,68.22,marble,Khaki,44.9267,8.66,Quatz,470.16,7/7/2019
+10,11da1ecf-fd92-47c3-aa5f-7daa887b1af3,Egg Patty Fried,80.7,97.68,metal,Teal,64.6837,5.86,Dynabox,406.22,9/30/2021
+11,2466e718-7e98-460d-b410-d4251a2088bb,Containter - 3oz Microwave Rect.,67.63,46.31,wood,Purple,123.833,6.23,Gigashots,669.89,5/28/2021
+12,e533edfc-e8f7-409a-9bce-1ee8daa30b05,"Beef - Rouladin, Sliced",36.78,33.69,marble,Orange,188.1638,6.68,Topicblab,306.03,12/18/2019
+13,9a35d71f-2093-49be-86f3-85e6bf512429,Bagels Poppyseed,17.7,86.65,fabric,Khaki,85.2485,7.09,Leenti,486.39,11/30/2001
+14,adef34c4-de2f-4851-8b78-722c920b0860,Sugar - Monocystal / Rock,69.69,93.99,marble,Green,47.9219,9.95,Katz,425.11,3/23/2003
+15,a77a90e4-3a37-47ef-b1e8-e39def1e8357,Fiddlehead - Frozen,85.79,26.75,marble,Blue,169.2179,7.42,Thoughtstorm,227.41,11/3/2013
+16,264a8fcb-1841-482c-b655-1b257af4a4e9,Garlic Powder,89.2,85.67,marble,Fuscia,94.3901,6.75,Skinix,799.18,2/1/2009
+17,6e9270f9-1282-4553-bbba-5e908f983ee6,Versatainer Nc - 888,17.14,65.63,glass,Teal,173.937,5.8,Dynabox,255.32,2/1/2016
+18,b94f990d-b1c9-4af5-bdd9-4759c5609db2,Shichimi Togarashi Peppeers,88.33,38.47,sand,Goldenrod,147.2459,9.88,Fanoodle,187.46,6/19/2022
+19,3751295b-c041-4a8b-a20f-ebd01efbd662,"Pail - 15l White, With Handle",49.57,14.37,marble,Violet,179.8438,8.37,Chatterbridge,755.86,6/2/2005
+20,c490af89-989f-4e7b-a980-50aac13bdeb5,Energy Drink,38.08,55.53,sand,Green,22.5257,9.4,Gigaclub,952.88,7/12/2019
+21,a6bb3bde-135a-45a1-a8d8-816711b27a8e,Wine - Montecillo Rioja Crianza,27.68,43.34,plastic,Pink,183.8893,5.29,Devbug,244.45,2/3/2000
+22,aa7370dd-af17-4c55-bc07-aefbdc9d56fa,Pate Pans Yellow,66.8,60.4,stone,Mauv,85.0163,7.95,Twitterworks,672.43,2/3/2001
+23,8d0d8597-9b8f-44de-b5d9-3b1396ea5276,Jam - Apricot,94.6,10.5,stone,Turquoise,107.3511,8.25,Myworks,353.74,2/27/2016
+24,5f63ae83-1807-4ff6-8559-57b74e8b92ea,"Bread - Bagels, Mini",13.26,38.48,sand,Orange,80.8404,6.57,Tazzy,852.31,3/20/2003
+25,4b94165a-ef83-42a4-b9f9-0f953afca411,Beer - Blue,81.39,36.45,marble,Crimson,43.9751,9.89,Buzzdog,547.16,1/11/2015
+26,4d7cb178-37a5-4c96-bb48-4a727efff232,Sultanas,97.54,29.51,metal,Crimson,133.5409,7.99,Skimia,52.38,6/4/2008
+27,b163011b-ab41-4298-a325-45c4347fe5eb,"Ham - Smoked, Bone - In",33.1,66.65,stone,Pink,197.6432,6.06,Flashspan,774.47,5/23/2002
+28,c25f7fd7-e716-4a71-b8ac-4ddb1d89d58f,"Flour - Corn, Fine",35.73,82.47,glass,Turquoise,79.0373,5.4,Aivee,402.66,11/20/2018
+29,d59716fd-9b84-4079-bbbf-7eab510b3f25,Beef Cheek Fresh,39.07,15.39,wood,Indigo,81.0828,8.93,Riffpath,285.3,10/4/2017
+30,93f068c3-0f81-444c-9f2e-b60f1ffb33e0,Appetizer - Smoked Salmon / Dill,33.95,22.58,crystal,Red,69.9019,,Realcube,670.53,12/13/2016
+31,8160a138-d619-48c7-aa07-59d377a6fe83,Wiberg Super Cure,78.35,30.48,glass,Indigo,174.1718,9.03,Jabbertype,106.7,10/28/2021
+32,5b0d933e-6b67-400c-bb62-226c9f516923,"Sauce - Soya, Light",88.57,36.9,crystal,Red,123.8333,5.55,Zoomdog,421.15,4/21/2003
+33,ded62f74-b49e-4bdd-aa93-5cd9c9fcd067,Bread Country Roll,2.65,78.0,stone,Crimson,163.8321,8.11,Wikivu,648.99,7/4/2008
+34,21a5f52d-c743-41e8-8c7d-cd99d4682fb6,Vinegar - White,63.81,45.9,glass,Goldenrod,54.782,8.34,Jabbercube,845.44,3/16/2005
+35,c853a13a-8323-46cd-aadc-f21ce8e9e3c2,"Halibut - Whole, Fresh",97.64,64.09,stone,Goldenrod,61.8723,6.06,Oyope,445.35,7/11/2009
+36,a287f1a1-beed-4941-957f-0da1297c9992,"Brownies - Two Bite, Chocolate",1.94,33.33,crystal,Green,98.7205,7.46,Dynazzy,424.11,4/20/2000
+37,58e0e3a6-09ba-4bc7-af20-c9d69d89fd4e,Hold Up Tool Storage Rack,78.76,85.52,wood,Puce,139.1722,9.01,Livefish,57.11,8/24/2005
+38,7d75da07-76c7-4141-8752-f285c3f7f9c4,Sauce - Vodka Blush,66.08,97.12,stone,Puce,130.8447,5.74,Skidoo,466.58,1/12/2006
+39,249f020c-812c-4555-8101-e6abea5fdecf,Energy Drink - Franks Original,68.31,79.94,metal,Green,64.8099,7.95,Pixope,277.55,5/28/2012
+40,560b92ef-0dfb-4b63-a307-92f4840c98d1,"Coconut - Shredded, Unsweet",3.32,34.86,fabric,Fuscia,21.8119,7.04,Divanoodle,631.24,5/13/2015
+41,24182c37-4950-41b3-9013-53bd5de092e0,Dried Peach,84.68,80.65,stone,Red,120.5982,,Rhyloo,31.92,11/23/2008
+42,aa57baac-c7a6-4a12-9ab8-dcc221fbd580,Instant Coffee,31.77,9.64,sand,Maroon,105.8003,7.56,Quatz,260.44,11/16/2020
+43,ddd6caeb-1a8d-4158-abac-8263c107cf3d,Steam Pan Full Lid,92.9,44.51,marble,Khaki,16.3192,8.19,Voonix,436.12,4/29/2014
+44,f0a2f527-e69d-4c65-bc2b-68fe69dd7752,Bols Melon Liqueur,49.84,2.73,glass,Pink,65.1152,6.46,Tagopia,282.34,3/23/2016
+45,96e613e3-98ed-434b-8ffa-a36e335290d7,Parsley - Dried,15.27,72.66,plastic,Orange,175.0732,5.93,Photojam,184.23,8/1/2010
+46,452e1e08-41fd-4735-8c1b-2de84a3c5b54,Cream - 10%,74.7,81.55,crystal,Orange,40.3945,6.16,Zoonoodle,147.74,7/17/2010
+47,e4d7a7fe-25f5-4c0b-8a49-a6ccc186df03,Sauce - Plum,27.72,95.8,sand,Maroon,165.4411,8.34,Jaloo,340.88,10/14/2017
+48,c0229801-ff4d-417a-b389-ec2ecddd5d2c,"Tart Shells - Barquettes, Savory",19.82,25.97,plastic,Khaki,144.9191,5.12,Zazio,188.53,1/12/2018
+49,c9eb1134-9ef4-46a0-99fa-83f41fd0996f,Oil - Shortening - All - Purpose,67.5,50.56,glass,Mauv,19.009,8.61,Twitterworks,465.2,1/23/2004
+50,a247b93e-6d5e-400d-8edf-389f92f4af6d,Cheese - Mozzarella,79.68,68.52,crystal,Orange,178.3749,6.87,Youspan,492.34,4/3/2013
+51,1eb4ba49-cfd5-4440-a8fb-922fa2e1be2b,Cheese - Brick With Onion,8.39,22.56,crystal,Purple,59.7559,7.87,Voolith,709.67,12/8/2016
+52,22f1c171-8abd-42c8-8508-09e36f325447,Veal - Knuckle,87.46,55.84,sand,Goldenrod,48.4041,6.45,Oyondu,170.56,9/7/2012
+53,f468dad0-9848-45f6-b705-673a0ed6caf9,Capicola - Hot,17.19,89.25,sand,Green,54.4873,9.55,Wikizz,916.4,1/13/2001
+54,0075c63b-a5a6-47fb-aaba-674ab6812ee8,"Soup - Campbells, Chix Gumbo",86.73,27.8,metal,Orange,180.3159,8.53,Tambee,781.75,1/27/2020
+55,6c1c6440-4883-470a-bc7e-99e29c7fcf91,Silicone Parch. 16.3x24.3,17.35,91.94,wood,Puce,75.6166,7.09,Yakitri,839.13,7/8/2015
+56,f7e7b5ee-b40e-4e03-a6e1-1e3845faaf83,Milk - Condensed,14.64,26.4,stone,Maroon,79.8437,7.43,Flipstorm,639.35,1/29/2009
+57,2ab462db-42c0-4e0e-9347-d8eb6121f1be,Rosemary - Dry,41.06,35.52,glass,Fuscia,12.3877,7.95,Fatz,714.51,4/26/2022
+58,68b47064-cce2-4f68-bb2b-a20435ce92df,Peach - Halves,40.64,58.22,sand,Pink,181.3419,9.97,Wikibox,391.43,6/29/2003
+59,9881687c-e8ab-4272-8261-e6155c5df8a9,Pork - Belly Fresh,39.56,34.5,glass,Fuscia,115.7502,8.23,Voomm,726.47,3/29/2004
+60,5ebf836f-5373-46cd-bd3b-9f929cf8e737,"Tortillas - Flour, 8",24.78,44.98,marble,Mauv,122.5048,9.14,Fivechat,273.52,12/23/2000
+61,103679d3-4076-4cef-839a-abc730f32a39,Cranberries - Frozen,97.4,24.06,sand,Teal,24.0164,,Zooveo,63.26,1/21/2017
+62,494ded3d-799c-4ed9-8e9e-90cf28330782,Juice - Orangina,20.92,29.69,crystal,Pink,73.7767,9.71,Aimbo,314.01,8/5/2015
+63,fd747347-edb8-4d41-9151-d27962203e8a,Sprouts - Brussel,38.17,94.25,plastic,Mauv,53.491,7.87,Tagfeed,442.02,1/9/2014
+64,5d8881fa-774d-45d3-95dc-d4579eff432b,Wine - Chateau Timberlay,41.77,9.71,crystal,Red,63.4451,7.72,Cogilith,554.97,7/25/2013
+65,b99dd357-b70d-4ce2-a8a7-ef1c07c8288b,Carbonated Water - Raspberry,89.99,60.5,stone,Aquamarine,96.4272,7.87,Dabtype,623.39,1/28/2022
+66,05eeb42a-d861-49ce-b388-6fd7c0573418,Beer - Fruli,52.98,84.53,metal,Indigo,112.433,5.25,Kaymbo,141.08,9/27/2017
+67,8f4e1914-5b48-43de-82bf-f4c6455c42f9,Food Colouring - Orange,70.41,82.84,marble,Orange,119.7677,9.69,Kaymbo,526.98,10/3/2000
+68,cdf20b77-bc22-4371-8ee7-55d9812ac77b,"Artichoke - Hearts, Canned",90.25,86.91,fabric,Purple,51.8231,8.61,Skippad,694.97,8/8/2011
+69,6185f605-74b3-4489-9648-f28e260741a6,Bread - Raisin Walnut Oval,16.94,51.0,wood,Indigo,102.9221,8.44,Gabcube,599.4,12/21/2021
+70,285423d6-3779-44ed-b9cf-ce281d5d9dda,"Beef - Chuck, Boneless",45.21,65.83,stone,Violet,103.615,9.7,Flashspan,714.98,3/21/2015
+71,db6fe46d-d18d-46aa-8405-3a43e3a91223,"Bag - Bread, White, Plain",71.66,39.68,fabric,Khaki,158.1115,5.46,Skynoodle,749.83,12/19/2002
+72,0f254779-5524-42fa-bf09-de253bbe4904,Table Cloth 62x120 Colour,57.16,31.73,metal,Puce,123.8118,5.75,Reallinks,704.34,10/26/2008
+73,9b49272d-948b-4a6c-8ec1-06efab19d327,Scallop - St. Jaques,73.81,70.89,fabric,Khaki,163.7053,6.04,Meevee,253.7,10/10/2019
+74,7c07dc40-6d35-4247-b2e8-f373cb0f531d,"Wine - Red, Antinori Santa",32.42,50.69,stone,Maroon,86.0106,9.2,Aivee,624.77,10/7/2013
+75,6b97c85c-13d1-4e8b-b5f3-8e7f9a5a2658,Juice - Propel Sport,71.88,23.6,fabric,Teal,37.4842,7.05,Twitterwire,689.77,12/26/2003
+76,3d6e38a5-7e9b-4fa5-b134-f2aa526f3065,Scallops 60/80 Iqf,75.55,62.85,crystal,Turquoise,69.3348,6.65,Devpulse,738.59,4/5/2011
+77,305d4db2-4406-4554-af8e-479fd8051c35,Apple - Custard,23.58,58.75,plastic,Blue,80.2667,8.22,Gabspot,362.15,11/2/2005
+78,eaa24024-993a-41ab-8529-4ebb662d62c5,Clementine,98.12,80.08,glass,Yellow,152.8495,6.45,Demizz,723.25,9/29/2019
+79,8321c930-031f-4a8b-8385-cf8ebdb595d6,"Napkin - Dinner, White",99.93,22.57,plastic,Pink,76.506,6.85,Skyble,428.96,5/4/2015
+80,5c057ddf-e8a5-45da-b667-ddcc95e359c0,Trueblue - Blueberry,39.13,47.83,wood,Mauv,134.1638,6.19,Topicstorm,16.79,8/23/2000
+81,93529d22-429a-4a18-a04b-3205bf5a8ba6,"Crab - Back Fin Meat, Canned",84.94,30.13,plastic,Orange,173.321,5.54,Skibox,496.56,8/20/2015
+82,c41b41c9-f587-4465-9482-f4b77a6f0eb9,Bagel - Everything Presliced,63.9,92.21,marble,Khaki,14.8566,7.96,Eabox,565.27,7/12/2006
+83,35b93f85-e91f-40cf-97f6-79e19844d017,Bread - Raisin Walnut Oval,36.54,97.88,wood,Maroon,10.2318,6.18,Buzzshare,153.81,8/9/2009
+84,ca5b9417-ceb9-4f8b-bd65-f676c9480c38,Gatorade - Xfactor Berry,13.9,68.77,fabric,Aquamarine,30.7306,7.88,Aibox,986.18,12/6/2005
+85,138aa32a-63ff-4b26-856a-76e0b8179952,Veal Inside - Provimi,33.11,18.09,metal,Purple,70.0372,7.26,Riffwire,551.11,6/15/2007
+86,f097fe6b-7e29-4a34-8f30-beb2654b21d4,Ostrich - Fan Fillet,81.61,11.17,glass,Aquamarine,144.284,8.17,Pixope,310.26,6/24/2014
+87,926eafca-dc48-497e-894a-e534b59a7c46,"Beef - Rib Roast, Cap On",29.37,16.8,metal,Crimson,167.2146,,Trudoo,250.79,7/16/2000
+88,26f4f6c1-44d4-4c9d-8312-c12eabdc3e16,Chocolate - Semi Sweet,55.31,35.8,crystal,Puce,171.0236,5.16,Trudoo,143.16,5/19/2018
+89,14490243-ec45-48d5-94cc-ea02e7875a00,Dasheen,93.61,50.2,stone,Fuscia,145.3892,9.97,Gabtune,827.75,4/4/2011
+90,1d17dc29-0fae-4d59-9c29-d8d903704f1e,Wine - Winzer Krems Gruner,48.02,30.54,wood,Khaki,165.5259,6.14,Zazio,372.68,12/5/2007
+91,fd35dc46-4dd0-4214-b229-3897099acba8,Country Roll,62.17,20.76,glass,Crimson,162.4245,7.41,Pixope,455.55,10/29/2003
+92,a7be8f1f-8b67-4260-ae64-615736354e74,Cheese - Comte,21.82,35.01,crystal,Orange,32.8135,6.34,Vimbo,395.72,9/25/2013
+93,f67ae823-e19b-4882-9591-07f1c276b7fc,"Bread - Bagels, Mini",24.47,76.74,fabric,Indigo,143.8648,6.58,Trudoo,603.18,11/9/2003
+94,035a356d-879a-455d-91fc-1e0f22dd8ccc,Wine - Magnotta - Belpaese,70.78,4.62,stone,Pink,30.8638,6.74,Layo,462.06,11/17/2015
+95,1f55e52b-4031-4240-a934-1de68d171ae8,Cheese - Grie Des Champ,20.58,78.65,plastic,Blue,28.3884,9.68,Skinder,384.98,6/8/2008
+96,d60ecae9-7bd7-400c-a68a-0a0a2258bb53,"Pepper - Paprika, Hungarian",72.61,59.23,wood,Puce,67.5568,9.9,Babbleset,933.61,2/4/2005
+97,f4fbe647-4a0c-4a24-a185-6b9670bf7e3b,Nantucket - Orange Mango Cktl,63.97,22.68,stone,Yellow,63.5819,5.0,Flashset,224.64,11/2/2008
+98,6c081e5e-f28d-463d-8a0e-78c26eb67a3b,"Pasta - Elbows, Macaroni, Dry",96.23,9.95,metal,Blue,26.3118,9.01,Youopia,266.78,7/26/2015
+99,492bb909-9174-4550-a553-689e60cf1b6b,Milk - 2% 250 Ml,87.76,2.45,wood,Crimson,87.0419,8.72,Skalith,32.35,12/23/2007
+100,11723592-12c4-4181-9468-fafaa46efc3a,"Lettuce - Romaine, Heart",56.05,59.1,stone,Turquoise,135.4462,5.7,Tagchat,211.72,5/17/2022
+101,9297cd5e-77d4-4951-a951-47b13e1ada9b,Jameson Irish Whiskey,13.87,50.1,stone,Goldenrod,82.3679,7.09,Topiclounge,629.38,8/26/2014
+102,04581671-946d-4e52-9d7a-5974f3024cff,Beer - Labatt Blue,10.42,51.81,fabric,Pink,21.4429,8.3,Demizz,279.76,4/15/2007
+103,c100f5a3-694f-4b70-b9a2-7eec815e7c0a,Buttons,83.69,60.47,marble,Mauv,20.8649,5.7,Skimia,871.24,4/16/2019
+104,07326887-cae2-40df-87bc-672ee03746ed,Sandwich Wrap,50.32,53.01,marble,Fuscia,49.3352,7.27,Thoughtstorm,919.44,4/24/2001
+105,6646b42a-59fe-404c-b81c-94dd3c330075,"Pepper - Chipotle, Canned",82.65,23.43,glass,Indigo,116.0753,9.04,Oyope,708.46,8/8/2010
+106,5345fecb-0151-4a8f-a242-9906dd536c2d,Turnip - Wax,34.38,44.27,plastic,Khaki,69.7837,9.17,Realbridge,117.44,1/4/2018
+107,a058f821-d3c0-48b3-b988-54bb972aab5f,"Roe - Lump Fish, Red",35.48,99.86,sand,Puce,68.1012,5.71,Wikibox,988.35,5/19/2009
+108,3ef6e29b-c17d-4f8f-a1a7-9ac4737e5895,"Napkin - Beverge, White 2 - Ply",97.15,31.08,fabric,Goldenrod,81.8827,7.11,Feedmix,575.31,12/23/2001
+109,431b07d1-7ff6-4ab3-8af5-1b0366ca31d2,Creme De Menth - White,11.57,50.44,plastic,Purple,28.1156,5.45,Ozu,274.63,5/8/2018
+110,e7d635ba-93e9-40cb-88f2-0c67e7709df2,Cheese - La Sauvagine,8.88,23.75,crystal,Fuscia,30.9543,9.65,Browsebug,503.31,5/20/2012
+111,2fef81fd-2147-4758-bf1e-148dc104d260,"Dill - Primerba, Paste",17.82,96.24,marble,Indigo,83.7805,7.47,Gabspot,891.09,4/24/2021
+112,04cac673-516b-48fe-aa0b-e6f789cd3650,Oil - Hazelnut,48.87,12.1,crystal,Puce,105.9495,7.32,Zoonoodle,743.15,1/7/2011
+113,6d48ff9c-64ab-4dfd-8114-3c2907d80e49,Pasta - Orecchiette,48.23,71.55,wood,Aquamarine,145.0232,7.89,Quire,978.83,12/25/2016
+114,7f420e39-bdf2-458c-ad99-9655ca4d96c1,Apron,94.51,53.76,plastic,Purple,109.4288,8.8,Oyope,200.43,9/25/2002
+115,f5dad25f-5367-458b-a723-655153334610,"Marjoram - Dried, Rubbed",16.19,4.61,plastic,Pink,45.6822,7.13,Minyx,341.66,8/27/2016
+116,1dcd5504-c83c-4c78-948b-63471b61f2bc,"Beans - Kidney, Red Dry",94.69,90.53,fabric,Goldenrod,195.547,5.41,Yotz,196.19,3/18/2015
+117,987be298-35ef-47cb-9273-dc79c4b623ed,Nantucket Pine Orangebanana,44.79,96.84,metal,Khaki,150.3386,6.08,Meemm,740.54,10/2/2017
+118,d16b2f52-bd1a-4992-8207-d4b8ad120dd9,"Butter - Salted, Micro",30.51,82.39,glass,Maroon,129.851,8.42,Leexo,911.52,10/5/2001
+119,ce3649e0-2549-49b3-9602-a6081c5f9cb4,Anchovy In Oil,1.55,29.07,stone,Khaki,84.7973,9.35,Tambee,513.43,5/9/2022
+120,6e276afd-29c8-4458-9c0d-099bad3c8dba,Salt And Pepper Mix - Black,38.86,26.26,stone,Mauv,74.4074,7.41,Realcube,613.53,11/13/2016
+121,a8ccd5c2-5e15-4f35-8f97-10731082d69d,Bar - Granola Trail Mix Fruit Nut,5.65,12.87,wood,Yellow,177.1633,7.02,Rhynoodle,809.72,4/4/2004
+122,d71e3b44-20f1-4c1d-8758-59cb167d2042,Flour - Cake,39.4,52.7,fabric,Yellow,144.1596,5.4,Photofeed,201.77,2/4/2001
+123,b32e95e5-6f0d-4262-84e6-1c13737e91ca,Apples - Sliced / Wedge,21.26,35.49,wood,Fuscia,90.603,5.89,Fiveclub,225.36,12/21/2000
+124,187280c1-8e2e-43c7-a0a9-385d81b4c6f5,"Beans - Kidney, Red Dry",78.43,54.19,metal,Aquamarine,56.4025,8.47,Kwimbee,919.27,11/20/2016
+125,0f9f3c50-71fe-443e-8a1a-2f92b0875e13,Beef Ground Medium,26.15,75.95,crystal,Aquamarine,70.0552,6.96,Topicstorm,357.13,9/16/2007
+126,17e473c3-f27f-4406-bbbc-9782613051da,"Mushroom - Chanterelle, Dry",86.14,48.62,crystal,Puce,22.0534,9.87,Avaveo,449.68,5/22/2011
+127,b55684dc-2436-41e2-bad5-5f27a2c2d4c6,Breakfast Quesadillas,41.03,66.2,crystal,Khaki,119.7987,5.27,Centimia,289.45,4/6/2008
+128,d18ef17c-d78a-4c6a-a90a-e1797b3013a2,Crackers Cheez It,78.41,29.74,marble,Turquoise,82.3865,8.99,Tambee,700.21,3/18/2008
+129,a51316f6-3248-42d2-bf40-1182466046e2,Cheese - St. Andre,43.53,69.12,glass,Pink,40.8249,5.16,Brightdog,724.16,7/16/2015
+130,4de5d9d6-d69a-436a-8bff-4d71b7c2b127,Pie Pecan,97.86,81.31,sand,Turquoise,190.7799,8.79,Shuffletag,866.09,7/24/2001
+131,5c6ecf3d-9a9a-4ef9-98a7-ad440677deee,Spice - Peppercorn Melange,53.49,37.69,marble,Khaki,21.1493,7.38,Blogtags,298.08,2/12/2020
+132,26adc8d7-ef79-4f72-8655-e27e930c2558,Brandy - Bar,98.84,12.14,sand,Orange,135.9719,5.92,Roomm,567.06,4/2/2020
+133,f6ad56cc-27ba-4a61-896b-8bdc04563db9,Sausage - Breakfast,93.95,25.86,plastic,Fuscia,41.723,7.58,Geba,748.66,7/15/2001
+134,53802354-e741-4639-ba57-96f225a5144f,Wine - Blue Nun Qualitatswein,65.53,91.18,plastic,Yellow,186.1504,9.12,Skivee,357.44,4/12/2013
+135,007376e5-755c-47e5-aa91-d31c1c54892c,"Corn - Cream, Canned",4.58,73.57,wood,Orange,142.9144,6.21,Shufflebeat,480.98,2/10/2004
+136,51835a8b-9908-4f62-85a6-bfc8b604c591,Squid - U 5,68.37,61.86,stone,Turquoise,37.8656,9.88,Vimbo,321.59,8/3/2006
+137,09f62134-34c4-4bc4-ba48-a5596192b844,"Crab - Dungeness, Whole, live",62.39,2.53,plastic,Blue,34.3056,7.75,Kayveo,868.92,10/20/2017
+138,87722b6d-f854-4420-867c-b6d78e90d38f,Ice Cream - Super Sandwich,62.77,89.4,glass,Fuscia,47.0077,9.87,Bubblebox,513.98,2/22/2012
+139,e68db480-6f1c-4af7-a730-6963cbf99c98,Yoghurt Tubes,5.15,68.55,wood,Indigo,193.9037,8.31,Edgeify,404.87,12/15/2009
+140,038b3d7f-580e-495f-99b1-917dfc83b225,Soup Knorr Chili With Beans,77.71,83.75,crystal,Aquamarine,82.9221,7.74,Voonix,333.55,7/31/2021
+141,023a7189-c002-4231-b855-69b0f86a43dc,"Lentils - Red, Dry",27.14,50.98,plastic,Green,112.2733,6.97,Oyoyo,57.04,12/4/2011
+142,37e4f6ae-7c33-4680-ba37-b0abb6f3ac42,Grapes - Black,11.03,70.61,stone,Indigo,114.8654,6.82,Plajo,165.4,11/9/2007
+143,b3f177fd-78df-4b62-becc-31d8d3fb5155,Gherkin - Sour,77.14,20.34,marble,Orange,91.7966,7.68,Jazzy,221.16,1/1/2018
+144,f1675552-5f82-4bdd-a3b9-db9c8f5d7929,Meldea Green Tea Liquor,22.75,53.37,metal,Green,153.5188,8.17,Gabcube,977.67,5/13/2019
+145,c1de199e-c8d8-486b-baa4-3878b9fb4f12,Soup - Campbells Tomato Ravioli,10.81,61.46,fabric,Red,97.4766,9.33,Pixope,790.29,12/10/2005
+146,6f3df949-f314-4b4a-955f-a3284a9d1570,Pate - Peppercorn,86.68,2.59,sand,Goldenrod,14.5057,7.58,Kwideo,113.83,10/15/2004
+147,dbd9c6a5-48b5-44a1-8641-9e3c8938d516,Pumpkin - Seed,25.11,63.26,wood,Indigo,177.7885,6.61,Jayo,234.32,4/10/2001
+148,c6a257fd-3f60-4ebd-a651-d005853fcf20,Salt - Seasoned,61.68,29.7,wood,Crimson,110.9393,7.27,Skyvu,565.53,12/9/2022
+149,96bd1484-92af-4e72-a42d-f005264f4597,Cookie - Oatmeal,33.69,7.62,marble,Purple,15.1412,6.22,Viva,780.19,2/27/2005
+150,460d59a2-1cd0-4ee6-912c-eae001d21123,Gooseberry,3.46,43.85,marble,Red,116.1006,5.84,Livetube,985.63,3/20/2017
+151,0d766512-1a6f-472a-b7fc-fd32d276c498,"Capon - Breast, Wing On",25.86,91.56,plastic,Aquamarine,100.8563,9.23,Zava,728.87,9/18/2000
+152,12183f05-75af-49cf-b869-2a353f1b59c4,Magnotta - Bel Paese White,34.96,9.87,stone,Violet,60.3947,,Gabcube,523.07,12/28/2012
+153,582ae7b7-785f-4e09-8c2a-29e2bcc8bfe1,Rabbit - Legs,11.26,14.99,sand,Turquoise,72.0889,5.09,Gabtype,108.65,6/10/2017
+154,0894d125-1ba5-4518-b722-3829a34a0861,Pepsi - 600ml,75.5,3.17,marble,Indigo,41.2691,5.8,Photolist,120.9,8/4/2003
+155,a7ef2cb1-04c7-4329-9e10-8261cae77c07,Sauce - Thousand Island,49.12,76.3,glass,Yellow,112.5708,6.1,Rhynoodle,200.89,8/16/2004
+156,0a5c9d7e-3648-46be-a5f7-add4829bcb33,Crush - Cream Soda,73.29,47.11,wood,Aquamarine,175.0406,7.14,Meevee,585.64,5/19/2013
+157,3b9fef37-1fb6-4beb-be0e-d1f7b5c6b5c4,Compound - Mocha,55.23,39.93,crystal,Teal,191.2765,9.21,Quatz,204.61,7/21/2021
+158,31c7ed4f-fffd-4486-a40a-fa41d730049c,Muffin Mix - Blueberry,16.03,88.15,stone,Blue,116.5907,6.91,Babbleblab,862.67,11/17/2011
+159,a73c86d9-a58a-4e1a-acaa-274983d3010c,Table Cloth 120 Round White,87.23,78.35,glass,Crimson,167.4657,5.18,Mycat,184.92,9/27/2021
+160,f819cbd7-2668-4782-a0ce-54b8fbb4d39c,Lettuce - Baby Salad Greens,7.64,99.75,fabric,Yellow,63.0815,9.31,Meemm,657.35,1/20/2019
+161,ff1546bc-8287-4dca-841e-4a636f6dbddd,Stock - Fish,20.5,73.56,marble,Indigo,120.9108,6.58,Avamba,200.32,1/18/2014
+162,922efa17-1c2d-4433-a642-67085894ffe3,Butcher Twine 4r,23.27,12.82,fabric,Indigo,129.9744,6.19,Einti,942.65,10/2/2013
+163,fed91310-4eb9-4c25-a86c-f72353ac1681,Blue Curacao - Marie Brizard,64.99,14.3,wood,Indigo,12.8035,9.41,Vinder,104.76,4/8/2006
+164,b99f00f9-121c-4227-a9b6-30574de00aba,Chinese Foods - Plain Fried Rice,6.71,20.11,fabric,Mauv,67.5091,9.37,Linklinks,430.94,9/16/2007
+165,a77a1ac3-215d-472d-83e4-e612278e0916,Wine - Pinot Noir Pond Haddock,62.11,56.41,crystal,Violet,147.4958,8.33,Skalith,481.45,2/14/2009
+166,92698a41-af42-47d2-b460-27b3c3225dbb,"Gingerale - Schweppes, 355 Ml",87.93,48.11,fabric,Fuscia,177.9398,6.86,Vitz,611.64,4/29/2021
+167,165becdc-35d2-49c9-bd9c-12de321c4b39,"Tomatoes - Cherry, Yellow",77.32,94.21,sand,Khaki,149.9275,8.35,Skimia,657.92,7/17/2012
+168,bef088b4-3223-499c-a426-94b5dba2afaf,Whmis - Spray Bottle Trigger,50.44,32.16,marble,Puce,106.6965,9.04,Buzzbean,564.53,10/4/2017
+169,d3f82b1a-ea42-457e-9514-34a319911dd2,"Wine - Red, Pinot Noir, Chateau",46.38,67.12,sand,Maroon,197.1444,8.44,Jaxnation,740.13,9/27/2003
+170,a3fd582d-6825-4035-b887-c81dc3ccb5bf,Wine - Niagara Peninsula Vqa,15.66,98.07,plastic,Puce,103.6734,5.76,Livefish,246.47,10/2/2008
+171,568e8c06-a50d-452c-a2a0-d8cf9b1cff5c,"Lettuce - Romaine, Heart",66.97,80.38,plastic,Turquoise,150.5587,6.61,Zoomcast,130.06,7/17/2017
+172,156632f0-db56-478f-9394-6dd57d2dc911,Arizona - Plum Green Tea,57.85,69.85,marble,Yellow,189.0533,,Trudeo,227.02,10/29/2011
+173,cf0a0166-4521-4fe4-91e1-7bc06ae8efb4,Gherkin,8.77,70.59,wood,Fuscia,156.3579,7.0,Agimba,782.88,2/27/2006
+174,b5d79c4d-9c50-48e4-b02e-00ce569195c1,Cheese - Cheddarsliced,11.91,55.75,plastic,Teal,81.7591,8.81,Tazz,648.3,1/9/2003
+175,096c8c09-7413-41a3-81be-013f2cf18ba2,"Tart Shells - Savory, 3",15.71,5.41,metal,Turquoise,74.1582,6.72,Pixope,229.81,4/20/2001
+176,3a48bf6e-bb3e-427e-a824-68e0f6c712e8,Nantucket Pine Orangebanana,45.35,63.03,plastic,Maroon,82.2529,8.31,Skyble,861.38,2/10/2004
+177,759868f7-67ef-4ff7-a838-bc53281ddaa5,Garam Masala Powder,23.5,36.12,stone,Mauv,104.0481,8.94,Kwideo,777.14,6/17/2007
+178,ad3212f0-7464-4fc8-9320-9c8beb9bb851,Chickensplit Half,31.03,75.2,metal,Violet,59.2156,6.86,Ntags,570.16,6/20/2007
+179,09227a35-68cd-4906-a79d-c4107bbbed70,Salad Dressing,29.0,18.49,glass,Khaki,38.812,6.87,Kamba,55.04,8/10/2006
+180,671f69d5-7d59-43c9-9a1b-bd3960cd1a0d,Wine - Sauvignon Blanc,10.32,66.73,crystal,Violet,89.4491,5.25,Livetube,393.1,9/26/2005
+181,a608e01f-bd0b-4cfc-8b3b-e7058730b468,Mix - Cappucino Cocktail,40.52,84.9,plastic,Yellow,179.2685,7.97,Tavu,636.7,6/24/2018
+182,5fcb7730-7cbd-4da5-80e9-2444d30acbca,"Bread - Multigrain, Loaf",81.9,8.21,crystal,Orange,28.2176,8.76,Tekfly,320.99,2/24/2014
+183,b7ab2ca6-efd5-4e80-9822-bde5aebb8692,Sherry - Dry,60.24,5.95,glass,Green,187.8899,7.95,Rooxo,573.54,10/29/2006
+184,0d115a6b-77e1-48a6-868f-e4492a4fb841,Bread - Italian Corn Meal Poly,70.23,77.72,wood,Teal,101.2294,6.59,Zoozzy,825.17,4/28/2007
+185,56ea610c-cf41-46cf-a524-881b363a7d62,"Bread - Bagels, Mini",79.47,30.37,marble,Indigo,197.3671,7.14,Mycat,459.27,5/28/2019
+186,912be9b8-df67-494f-8dba-5a93fd0c849b,Soho Lychee Liqueur,19.15,92.45,crystal,Maroon,68.1428,,Skyndu,448.49,8/5/2010
+187,bebc4fad-e35a-420c-91ac-40fd24820b05,Mustard - Seed,31.5,57.69,sand,Yellow,111.0,9.09,Roodel,786.0,6/19/2017
+188,5d41be20-0e6e-425d-883a-faaa73d6bdb5,Sping Loaded Cup Dispenser,80.96,10.15,glass,Teal,39.5136,7.63,Demivee,627.49,1/9/2022
+189,9d6bb33e-a25f-41cc-ae01-27d5cf8cdf19,Soup Campbells Split Pea And Ham,73.84,26.48,stone,Fuscia,183.7774,5.23,Meemm,733.68,12/22/2022
+190,3d22131b-d69e-48f1-b2af-6ef310c1ca74,Catfish - Fillets,37.59,20.54,glass,Pink,113.0456,8.97,Quinu,590.34,3/26/2000
+191,e8f410e4-e8ef-4cff-9d4c-dd159a2d4b0d,Seabream Whole Farmed,65.31,16.0,fabric,Orange,129.0891,5.52,Yozio,757.75,11/4/2003
+192,dfef4457-011a-4646-8da6-8704a5e8ded5,Oil - Margarine,39.93,67.2,fabric,Puce,195.082,9.34,Devbug,246.87,10/1/2004
+193,f7171d9c-bfcf-4e6b-b95b-6b02790b4857,Table Cloth 120 Round White,93.57,76.02,sand,Blue,148.5087,6.54,Zoombox,413.29,3/2/2002
+194,0a287bfc-726d-4a25-927b-e824636f1685,Cranberries - Dry,56.23,30.4,metal,Maroon,60.3251,7.78,Meezzy,301.38,4/8/2005
+195,caf725f4-e595-4a15-bdf3-511e2a8a9765,Cinnamon Buns Sticky,10.16,97.95,stone,Goldenrod,181.5168,7.16,Topicware,996.47,1/27/2017
+196,a5b30de1-96d2-4171-92ae-9f42f6115674,Skirt - 24 Foot,59.54,46.46,wood,Teal,88.5632,6.86,Devbug,29.37,3/29/2009
+197,8ec903b3-13ad-48c0-b6f7-4278812c578b,"Squash - Pattypan, Yellow",8.69,25.42,sand,Green,73.1552,6.43,Buzzster,705.58,12/5/2006
+198,0755264a-2b61-48ce-b2c7-0cc86c1f2074,Sugar Thermometer,40.14,90.58,stone,Mauv,117.1172,8.37,Skyble,669.57,1/5/2017
+199,eaed6e21-8ffa-4a11-83bc-b6d0b5ede268,Soup - Campbells Chili,58.15,12.53,stone,Blue,120.1689,8.83,Edgewire,738.97,6/11/2021
+200,fd8124b0-82b4-4d5c-9fcd-48909253d24c,Corn Meal,56.06,49.4,stone,Teal,96.1552,7.51,Oyoba,443.37,11/6/2006
+201,8e130ebb-d647-45e9-a530-b393a8f85c9f,Bread - English Muffin,16.43,9.89,marble,Puce,37.5095,9.47,Pixonyx,365.3,5/3/2001
+202,a07253db-fdb4-4ec8-86d6-4e8b2e69d7b2,"Salsify, Organic",12.18,33.88,metal,Fuscia,111.1195,8.4,Eayo,18.59,8/18/2002
+203,96c37eac-761b-4396-a46e-c2f816fee509,Cheese - Mascarpone,66.12,92.7,marble,Orange,77.827,8.82,Cogidoo,434.03,5/1/2004
+204,1bd43d02-b655-41c6-94e6-07637ba0485a,Crab - Meat Combo,18.66,29.67,stone,Aquamarine,31.584,6.51,Gigazoom,924.12,9/20/2022
+205,091c49dc-88e8-4b09-98d3-59a61b1a1f5b,Hummus - Spread,2.12,38.71,marble,Khaki,101.7021,7.7,Feedspan,561.1,11/27/2020
+206,1c486f6b-9caf-40ba-a1b2-9c380efe3a27,"Fish - Soup Base, Bouillon",19.17,43.67,sand,Maroon,183.4322,9.39,Lajo,651.92,1/11/2006
+207,11bcc87c-ec82-4cec-b023-63348708a5bc,Tea - Lemon Green Tea,37.58,3.42,wood,Purple,198.1746,8.58,Oozz,762.53,10/30/2017
+208,4942d723-f28e-46a0-a30b-387a32573d7c,"Mushroom - Shitake, Fresh",3.82,77.63,stone,Indigo,177.1539,7.28,Kwinu,66.45,10/13/2013
+209,ad83f62c-bc2f-4123-8cb5-0e502ba5c516,Pastry - Mini French Pastries,63.42,60.51,crystal,Pink,15.6074,6.42,Edgetag,283.05,5/30/2009
+210,4bdcefcc-2359-4e38-b139-014542e633ff,"Beef - Rib Roast, Capless",55.41,34.43,marble,Orange,24.3416,7.47,Skipfire,138.29,2/25/2017
+211,4ceae1b5-5626-4732-ac9a-ffd39b56d946,Nantuket Peach Orange,27.75,48.65,fabric,Aquamarine,195.142,8.87,Edgewire,357.79,4/16/2015
+212,e6396f56-86e6-4be2-96c7-1df4ffc39004,Pastrami,41.75,93.22,wood,Blue,168.5968,6.73,Pixonyx,151.52,8/4/2013
+213,da0ee0f3-c180-42cf-b192-768071ceffc7,Puree - Mocha,82.91,36.26,fabric,Blue,90.3478,6.29,Fanoodle,83.38,9/9/2000
+214,e9b367cb-743e-4382-a58b-3d479147c272,Bacardi Breezer - Strawberry,95.8,58.49,marble,Green,97.0723,9.08,Feedfish,634.19,12/5/2006
+215,d19c5439-f84a-4453-b212-1d00d22b977e,Sauce - Salsa,38.04,71.86,glass,Puce,144.0632,8.14,Fatz,547.96,9/4/2014
+216,48543e78-c2eb-4312-9682-63f16a0a273e,Sugar - Individual Portions,47.67,38.25,plastic,Puce,95.955,5.84,Gabcube,310.69,1/8/2009
+217,35f54ad8-8984-4290-a7e6-3b9749f0bb7c,Tea - Decaf 1 Cup,91.1,96.29,wood,Fuscia,24.5451,8.29,Ooba,180.44,9/4/2006
+218,ac78d4d3-362e-4119-81af-fd3492c9f7aa,Juice - Ocean Spray Kiwi,99.28,21.78,plastic,Indigo,192.3183,6.91,Izio,225.78,2/3/2019
+219,30014f0c-b0fc-4ee7-9750-b8f18c37a44c,Propel Sport Drink,37.44,82.35,metal,Pink,54.6511,8.8,Wikido,522.25,1/24/2020
+220,68333ac5-1c38-403e-8c9b-d570cdecde8d,Evaporated Milk - Skim,4.86,48.1,metal,Orange,51.8959,6.22,Demivee,765.85,9/13/2017
+221,d0dea9cc-6db6-454b-b6f7-18a2898e1d3f,Cheese - Ermite Bleu,98.0,82.7,marble,Maroon,180.8355,6.0,Gabtype,362.52,2/20/2021
+222,30affec4-05d7-41a1-b0bf-dddde20be62a,Potatoes - Pei 10 Oz,53.13,57.75,stone,Goldenrod,109.842,6.33,Photobug,469.65,7/14/2004
+223,79d39ecc-78d0-45ea-a974-121b04c1cd43,Dawn Professionl Pot And Pan,42.59,30.59,metal,Teal,93.8986,8.0,Jazzy,553.94,5/6/2011
+224,5a91c61a-a07d-4d9b-9174-748316555a2f,Onions - Red Pearl,31.45,62.87,marble,Crimson,97.0722,5.2,Lajo,263.57,1/30/2003
+225,3b6384d2-2984-4851-b188-a9685b543ce3,"Stock - Chicken, White",25.69,26.04,plastic,Violet,40.12,9.49,Voomm,481.69,11/27/2015
+226,3486a5f3-04bc-4515-b81a-961d8ebaeddc,Clams - Canned,22.6,28.54,fabric,Mauv,154.9446,6.46,Oloo,689.89,11/29/2022
+227,3e69f377-98e9-4502-95fe-0d4bb1b4e525,Chocolate - Semi Sweet,41.47,25.11,sand,Green,48.4293,5.06,Fivechat,247.19,3/3/2016
+228,7b564801-7905-4a73-a5b9-ff707b07a950,"Cherries - Maraschino,jar",56.8,6.36,marble,Blue,64.482,8.56,Youopia,678.41,3/30/2000
+229,efebcc61-fab7-44e5-b0f2-bd9226ad1c9b,Carbonated Water - Blackberry,42.43,75.06,sand,Purple,102.4144,6.97,Trilith,153.44,2/26/2022
+230,96dc5378-350d-4dd4-8c8c-3121d65d5af3,Chef Hat 20cm,2.27,28.17,crystal,Yellow,80.3832,5.4,Plambee,960.02,12/18/2009
+231,1e1e9da2-b132-4e2b-a262-ba00b7acfeb2,Blueberries,96.6,5.49,wood,Green,85.3678,7.16,Camimbo,982.95,11/20/2014
+232,72e11a47-efb2-4fef-961f-cd03bda01213,Truffle - Whole Black Peeled,55.21,23.35,stone,Orange,65.4066,7.49,Centizu,418.32,5/24/2007
+233,8c4cfa7c-eccb-48f4-a716-81ba8a70e2ff,Figs,52.86,80.76,crystal,Fuscia,23.811,8.47,Mydo,419.5,3/14/2016
+234,2fa95a43-9df7-42b8-9fd6-539c54744d0e,French Pastry - Mini Chocolate,39.51,94.76,sand,Crimson,173.5226,5.61,Vinder,971.06,5/10/2008
+235,fcc2381f-8623-45d4-923f-531e6651f4b8,Orange - Tangerine,81.5,58.86,crystal,Green,32.8276,9.88,Feedfish,699.08,4/6/2018
+236,3044fd7f-10e5-453f-8bcd-cb25b472bc2a,Beef Dry Aged Tenderloin Aaa,51.41,53.58,wood,Yellow,56.8874,6.74,Zazio,110.22,11/14/2015
+237,db3e2a53-a853-4825-a3fa-e74d4f9ede33,Bread - Hot Dog Buns,76.52,12.24,glass,Aquamarine,180.4952,8.03,Fliptune,54.8,3/12/2001
+238,7ef002c3-af6f-40fc-9c4e-6ecbff0197c7,"Bread - Sticks, Thin, Plain",60.88,6.46,plastic,Fuscia,135.9727,,Yakijo,455.52,1/3/2013
+239,cfaa4481-0452-4f2f-96c9-f6f5c31a2b04,"Cheese - Brie, Triple Creme",60.2,33.87,sand,Fuscia,192.9704,5.15,Skippad,311.86,9/29/2012
+240,acd1faf7-fa56-4a56-b64c-d76be2b686a8,Peppercorns - Green,53.55,49.84,sand,Green,131.4775,8.21,Muxo,765.85,12/8/2001
+241,f89d248a-c2a1-4c26-84b3-1a9212d6987c,Soup - Campbells Broccoli,69.53,8.81,fabric,Maroon,21.7581,9.63,Divavu,469.76,4/8/2012
+242,39f8299e-2ebf-42a8-937d-568ad4aca9fc,Beans - Wax,46.62,52.41,stone,Pink,132.26,9.3,Skilith,869.47,12/2/2000
+243,bdf7dc49-312a-429f-bd25-9344f0b40a2c,Lettuce - Curly Endive,43.29,92.64,crystal,Puce,129.7136,9.66,Zoomlounge,913.35,3/12/2014
+244,35b47ddb-360c-49d6-9cab-1f0f089ea50c,Vol Au Vents,57.78,19.9,marble,Maroon,32.3952,6.75,Skivee,479.87,8/2/2004
+245,0690faa2-fe8e-458d-ab91-ca51b8674663,Muffin - Mix - Mango Sour Cherry,93.55,9.01,fabric,Orange,180.6741,7.08,Zoomcast,927.7,8/20/2009
+246,30b87461-3299-4d15-84fa-79e3266d436d,Beer - Paulaner Hefeweisse,56.0,19.45,wood,Puce,67.8325,6.43,Gigabox,653.9,9/4/2018
+247,bf270809-89c4-468d-8669-f361add91f63,V8 - Berry Blend,66.81,43.31,wood,Indigo,125.659,6.57,Riffwire,87.8,2/27/2009
+248,8c9b53aa-4839-42b7-864a-b038ee856ba0,Beer - Creemore,68.55,10.21,fabric,Puce,186.5049,,Ozu,799.85,5/22/2006
+249,20aab5ed-4bf0-4f3f-ae92-542dc9bac5a9,"Bread - Roll, Whole Wheat",1.7,62.47,metal,Violet,16.3458,8.74,Jaxbean,119.55,6/12/2013
+250,7520dffb-fd92-4460-911f-56a81e0ef215,Soap - Mr.clean Floor Soap,27.5,87.76,stone,Red,50.146,6.33,Feedspan,539.94,5/23/2009
+251,ef292240-8dc5-4f0d-b5d1-8080db0cf0b9,Apples - Spartan,9.12,35.69,glass,Aquamarine,185.1357,6.98,Skyndu,984.09,10/18/2005
+252,14bda009-85ff-4f67-b7db-1a0fbb6e1dce,Ice Cream Bar - Hagen Daz,5.36,38.98,stone,Teal,114.1745,5.92,Meetz,470.1,5/30/2011
+253,f509faba-5767-480d-b861-b5c9032771cc,Juice - Apple Cider,18.69,8.54,sand,Puce,39.1656,6.31,Izio,204.3,5/11/2005
+254,69a556a0-99b6-4f6f-a822-a09d223b2d76,Capers - Pickled,82.65,13.88,sand,Turquoise,84.5972,6.07,Vinder,722.79,3/25/2005
+255,fdc98944-c83e-43b0-af7c-e2fb803c7ab6,"Star Anise, Whole",75.42,41.67,glass,Maroon,169.7898,5.74,Yodo,710.05,2/24/2010
+256,c68535b4-db7e-44ad-8cd1-f2c0db48bfb6,Bacardi Breezer - Tropical,54.59,91.34,wood,Teal,152.4106,7.0,Abatz,464.14,1/10/2004
+257,44a2f9b7-6d38-4414-9dee-f7c3894ad8c6,Extract Vanilla Pure,40.05,71.08,crystal,Aquamarine,143.3803,5.76,Zooxo,449.38,1/24/2015
+258,a419352f-afe0-46cd-8258-e7cd69867839,Chocolate - Mi - Amere Semi,23.66,82.68,metal,Indigo,177.6244,8.1,Youspan,57.16,8/12/2001
+259,63d02e5c-5af0-46a9-a675-cb82dbec7897,Truffle Cups Green,92.37,20.55,fabric,Violet,32.5238,7.45,Quinu,389.85,8/3/2011
+260,68b742f2-b74e-48b1-a1fc-7e0192d1054d,"Pasta - Lasagna, Dry",90.02,97.4,glass,Blue,193.3624,6.21,Yabox,841.03,6/16/2013
+261,661688df-cd56-44b0-ac67-91bff02bdfa9,Chervil - Fresh,95.27,13.52,wood,Yellow,16.4179,7.76,Camido,479.05,9/9/2021
+262,58ffe9d9-5526-4354-9e79-70981052cf26,Cheese - Bakers Cream Cheese,13.88,25.52,metal,Orange,42.4616,5.76,Meemm,961.64,6/17/2018
+263,12cea187-9ff6-40a8-8290-1ee70c89dff3,Bread - Sour Batard,44.91,85.36,sand,Goldenrod,94.8288,9.3,Bluejam,45.16,1/8/2007
+264,5297169c-34fd-41b3-a2e2-1e4efbc0dc6b,Pepper - Chili Powder,36.57,69.37,sand,Fuscia,25.2887,8.56,Ooba,53.59,6/23/2016
+265,15d95f57-5efe-4eff-84be-54ff0480ac89,Wine - Segura Viudas Aria Brut,18.58,17.94,plastic,Red,169.4042,9.86,Centimia,424.45,1/11/2006
+266,5c065a52-651c-4d87-b272-ede24a723cc1,Sprouts - Brussel,62.41,8.07,glass,Orange,199.2273,9.33,Pixope,217.45,12/10/2008
+267,d37fbbed-72a6-4ddf-b400-049697a3fbdf,Foil - Round Foil,97.52,99.59,glass,Orange,163.674,9.73,Browsebug,236.83,1/14/2009
+268,685f0891-43a2-4d90-a3ac-3157f2f7824a,"Pasta - Fusili, Dry",42.73,21.65,marble,Indigo,12.9468,6.97,Eabox,167.78,3/11/2020
+269,57e90f92-1d11-48ce-bd70-fbbbfe061bc0,"Pasta - Detalini, White, Fresh",68.86,9.12,plastic,Maroon,120.3366,7.94,Oyonder,385.24,7/30/2006
+270,02920edc-2966-4a96-bf0f-a22861eedf50,Wine - Rosso Toscano Igt,77.65,87.27,glass,Crimson,144.1548,7.4,Brightdog,585.08,5/9/2007
+271,4500afa9-811d-440a-b716-fc7328873b0a,"Corn - Cream, Canned",30.37,91.83,sand,Mauv,108.3728,7.83,Lazzy,800.72,2/23/2004
+272,d64204b4-c29f-4f05-98e8-7884c37bcede,Liquid Aminios Acid - Braggs,41.14,36.23,sand,Puce,174.9825,6.13,Pixope,601.25,9/19/2000
+273,d777acac-6261-4503-87bf-3c407b95369f,Coffee - Dark Roast,27.26,57.0,plastic,Teal,153.0855,6.54,Babbleblab,926.57,10/1/2018
+274,f0d39f33-7428-40bf-ba87-d7c137ed7bdd,Peach - Fresh,43.42,46.62,plastic,Pink,114.0581,5.95,Fiveclub,407.02,3/19/2012
+275,4e1e18b5-6196-4cea-a7a6-667a8ecf80ec,"Doilies - 10, Paper",95.29,90.69,plastic,Green,36.8193,9.29,Brainbox,860.13,11/10/2001
+276,f3a97f4d-0ca0-4539-91de-30189fbf16e2,Wine - Riesling Alsace Ac 2001,38.62,53.04,fabric,Yellow,129.3594,8.31,Yambee,151.79,8/10/2020
+277,fe1db9c2-3e2b-4c73-b2f2-2bb09fc538b3,Pork - Hock And Feet Attached,96.67,51.88,crystal,Goldenrod,91.8429,,Fliptune,271.81,6/26/2008
+278,f688a562-3623-4ad0-93a2-c3d3fd6ca36e,Goat - Whole Cut,23.39,21.53,wood,Pink,190.853,5.53,Flashspan,296.35,7/16/2018
+279,81c4cc11-cc2e-4cce-a21c-05479146dc7d,Spring Roll Veg Mini,31.84,25.34,wood,Crimson,72.1945,7.38,Realpoint,275.2,9/12/2012
+280,a34a3a3e-b5f7-4876-9a4d-66f057527b21,Cake - Mini Potato Pancake,65.77,78.42,glass,Purple,21.076,7.75,Oyoba,660.32,4/6/2008
+281,4bcd3e6e-8ac2-4ec5-b536-8e53989b0db7,Goldschalger,40.42,58.49,metal,Goldenrod,38.969,9.68,Devcast,861.45,9/15/2017
+282,697d78da-d8e3-4081-a378-2deb2ca0045c,Scallops - 10/20,80.02,38.9,wood,Violet,120.0136,8.08,Wordtune,130.75,7/29/2007
+283,fbae803d-66ff-47ab-937e-acf4eb73bd1c,"Bar Mix - Pina Colada, 355 Ml",30.47,51.22,crystal,Blue,16.998,,Browseblab,996.88,1/14/2011
+284,19f26ab3-60cd-4850-89da-1f33f5f4dcbc,Fond - Neutral,50.76,90.77,marble,Crimson,87.3053,5.94,Skinder,824.2,8/28/2016
+285,4f427fff-3567-4179-8642-d947fdced68a,Hot Choc Vending,80.34,52.74,marble,Maroon,197.3269,7.87,Skaboo,112.45,7/6/2021
+286,ec8f36fd-95a9-4e34-80a3-3d59c3b2bdab,Tomato - Tricolor Cherry,41.58,41.57,metal,Violet,127.3356,9.24,Photolist,853.78,11/6/2007
+287,f35749bb-5cd5-4383-aef5-feb62f518404,Gelatine Powder,58.41,1.56,plastic,Turquoise,75.4047,7.95,Gabtune,714.22,2/9/2014
+288,68b4ca61-baf7-4ca1-928d-ca0d116245ff,Yeast Dry - Fermipan,57.72,63.1,crystal,Indigo,22.499,5.17,DabZ,646.24,3/16/2017
+289,b9f95ae0-5413-432d-8a9d-edc585060bc6,Cakes Assorted,5.87,8.32,glass,Yellow,33.6224,8.4,Wikido,871.55,2/24/2000
+290,bde55d27-1eb7-446f-ba33-a6cc1d6f5fef,Sprouts - Baby Pea Tendrils,42.87,89.7,glass,Khaki,97.7966,5.74,Gabtune,652.21,4/1/2009
+291,e50df4a6-05e7-43d1-8c88-c3acbcd337b6,"Yogurt - Strawberry, 175 Gr",32.98,46.96,metal,Red,62.422,8.8,Skiba,124.64,1/31/2008
+292,42ac7070-4f69-40d3-9007-3a7495e7c2ed,Onions - Cippolini,30.79,32.44,marble,Teal,33.2942,9.82,Flashdog,232.51,6/19/2017
+293,4dc5270d-6fa1-4c77-9307-e24612059b8f,Salt - Celery,77.23,28.17,fabric,Pink,35.4378,7.39,Tagpad,920.85,7/27/2005
+294,d87e72a2-b370-4470-9704-c18014e09cbd,Chicken Breast Wing On,46.86,90.04,metal,Khaki,140.3206,6.38,Npath,499.18,10/10/2001
+295,65417b52-4d11-4d31-ac4d-6c49aabebdc8,"Lamb - Whole, Frozen",89.26,88.64,metal,Maroon,165.0882,6.03,Skimia,380.5,3/3/2022
+296,c551739d-f733-4a18-b9bf-8468f889c758,Dried Apple,65.09,20.43,plastic,Puce,112.3877,7.85,Oba,37.43,1/22/2007
+297,72c87ab9-298a-483c-b02a-2fccb94067b6,Celery,53.15,89.77,crystal,Pink,116.5333,5.04,Topicblab,533.21,1/28/2018
+298,0286bc14-aacc-4c45-b978-079770e9dec3,"Oregano - Dry, Rubbed",61.01,44.96,sand,Yellow,87.3028,7.86,Shuffledrive,260.74,10/21/2020
+299,417f9bbf-b350-4bb6-8209-17a3675f3ba6,Truffle Cups - White Paper,90.94,23.68,crystal,Yellow,152.372,5.65,Flipbug,957.69,9/29/2000
+300,39114fc9-4870-4289-b4cb-9c899c528c14,Bok Choy - Baby,87.74,19.77,stone,Khaki,123.4509,8.59,Zoonoodle,257.06,1/8/2012
+301,16f0312d-e16d-4cd8-a285-ae9a4a9fcdd5,"Sauce - Black Current, Dry Mix",18.52,43.83,stone,Aquamarine,172.8274,5.19,Quamba,168.82,12/12/2015
+302,e76d348e-0e77-4c3e-a951-fa9db9b13b29,Cloves - Ground,72.11,98.94,marble,Red,77.0107,9.74,Youspan,38.6,9/20/2002
+303,dac24e6c-9149-4164-bef6-dfe4e7979ede,Sauce - Thousand Island,84.16,6.71,stone,Maroon,127.5954,7.43,Divanoodle,836.47,3/18/2004
+304,a7221994-c29d-4109-9721-2f164bfd4d14,Steampan - Half Size Shallow,31.84,17.88,wood,Khaki,191.0045,9.06,Trudoo,101.66,1/30/2020
+305,f1fdc18c-8ebe-4aa4-aa9b-7053519cd033,Pastry - Lemon Danish - Mini,52.11,53.2,wood,Yellow,69.7044,6.67,Kazio,758.76,6/16/2022
+306,810b90c2-ba2c-45e0-b17f-5120dc7c4b67,Tarragon - Fresh,62.72,33.76,plastic,Yellow,75.8519,8.53,Chatterpoint,60.97,7/26/2003
+307,69850c40-3bf9-41df-9f88-fe095faea926,External Supplier,80.03,44.53,plastic,Fuscia,13.1417,8.32,Vimbo,337.15,4/24/2016
+308,6eac0a50-59d0-42f9-94ca-695709ddefc4,Kellogs Cereal In A Cup,28.78,91.11,crystal,Green,150.3326,9.88,Jaxnation,282.8,5/7/2000
+309,60cccacf-0c24-4fe3-b44c-b2994fc1757b,Wine - Fontanafredda Barolo,39.29,19.6,crystal,Orange,167.1258,9.89,Lazzy,202.16,1/7/2006
+310,f50914af-c61d-4bb2-8425-5a9720a0f051,Wine - Jafflin Bourgongone,81.33,99.74,marble,Fuscia,148.0224,5.23,Dabvine,476.03,10/31/2013
+311,6f1fdfd9-b659-464f-b041-033ef5b6e6d8,Lady Fingers,61.53,96.58,marble,Orange,161.5316,6.77,Wordify,389.38,3/9/2022
+312,26046891-56c5-4d87-b57f-b7b08df9f7ab,Rice - Jasmine Sented,14.35,77.49,fabric,Turquoise,139.1204,9.91,Tagpad,785.95,11/10/2000
+313,96f3e567-fc89-465d-b21c-a1abe98d778e,Cod - Fillets,27.94,99.55,glass,Yellow,97.3791,9.46,Rhynyx,380.31,7/16/2000
+314,3c333446-dad2-416c-8320-96890391e576,Eggplant Oriental,29.34,77.92,fabric,Khaki,171.5043,9.41,Edgeclub,873.95,1/12/2010
+315,8c36cc60-4216-4ccd-b201-5825b6a92be9,"Lamb - Leg, Boneless",38.14,4.47,wood,Goldenrod,146.2119,6.3,Camido,61.5,1/13/2021
+316,e7569800-7a94-4c47-9b25-81330e55772f,Duck - Breast,92.2,3.77,marble,Blue,23.9577,8.04,Dynabox,762.65,7/2/2019
+317,370da38b-6bb3-493d-810a-3872cefd2544,Bread - Raisin,71.92,43.99,marble,Green,48.574,7.97,Meemm,98.19,5/7/2012
+318,2c6ead3a-964c-417b-a13a-f2e2eb0a8d4c,Syrup - Kahlua Chocolate,10.19,10.16,fabric,Puce,43.3596,8.46,Pixope,76.36,5/4/2012
+319,8c0a6001-7eda-4693-a28a-4782907f8164,Cream - 18%,55.56,52.63,glass,Red,154.1437,8.61,Lazz,562.5,11/8/2018
+320,ee50fe44-d449-4319-b122-45d5479795cf,Mussels - Frozen,23.11,78.51,crystal,Teal,10.1382,8.43,Vitz,424.78,9/12/2012
+321,943f43db-cfbb-46da-938d-852028b72dee,Lamb Leg - Bone - In Nz,97.92,21.34,fabric,Yellow,56.1695,8.7,Thoughtsphere,684.14,6/16/2005
+322,d0cb314e-d7f4-4305-8d68-be288b711ac8,Bay Leaf Fresh,82.69,43.05,fabric,Goldenrod,67.199,7.56,Buzzster,464.96,7/6/2021
+323,08bee131-321b-4ef8-a5fc-8fbb54fe4359,"Coconut - Creamed, Pure",21.96,94.13,crystal,Khaki,194.2714,9.17,Pixoboo,654.31,3/19/2014
+324,ff87ee0a-653a-4b67-99a8-ab4c3ae388bc,Wine - Vovray Sec Domaine Huet,70.63,34.87,fabric,Pink,90.0235,7.5,Eire,537.47,1/1/2000
+325,6be53efa-858e-4b5b-9f7c-97dcbb750b48,Milk 2% 500 Ml,53.49,56.94,plastic,Maroon,55.5359,7.49,Dabshots,376.62,9/6/2006
+326,82744a72-3e03-432c-b109-eff9ec3c3049,Steampan - Foil,2.41,46.11,sand,Puce,23.6436,7.61,Voomm,622.4,9/18/2012
+327,1373a023-1be9-46ea-b7f6-c950954d7b5f,"Wine - Red, Marechal Foch",37.04,38.61,sand,Green,184.3271,9.72,Bluezoom,295.86,6/25/2006
+328,4ef79032-5182-4031-aa5f-85e9610fe086,Isomalt,99.47,40.45,wood,Blue,124.7346,6.45,Fatz,963.5,8/1/2002
+329,e3999de0-11e7-4975-b0b3-845d136c5775,Milk - 2%,77.61,76.1,plastic,Maroon,169.4014,9.61,Tazzy,440.19,12/28/2003
+330,77fe34e5-ced7-4aa7-9fd0-bda06f69d358,"Ham - Smoked, Bone - In",57.92,89.85,metal,Purple,167.9108,8.05,Vitz,119.61,10/6/2020
+331,2ab7283e-e433-4fa1-9cb4-045742e6014f,Pastry - Trippleberry Muffin - Mini,9.51,92.05,wood,Purple,115.563,8.34,Devshare,881.87,8/5/2018
+332,cd47b5df-d5b3-408b-95f1-8b08092443fe,Pork - Side Ribs,31.0,77.04,sand,Maroon,121.2293,6.8,Mynte,825.65,2/12/2019
+333,d72730a5-9e45-4bb7-ac0a-f70435eb5150,Nantucket - Pomegranate Pear,26.53,82.05,stone,Maroon,31.6537,8.97,Eayo,124.15,12/24/2020
+334,41d9a6fc-6829-4173-9a6e-d743b3a63a26,"Stock - Chicken, White",28.21,30.82,stone,Yellow,105.5759,,DabZ,745.62,6/25/2006
+335,fa0b13af-e29d-4fd9-8893-677e90bd447b,Carbonated Water - Blackcherry,41.77,62.44,marble,Yellow,166.3556,9.39,Thoughtworks,832.65,8/22/2013
+336,d677317e-0467-4978-8239-c320562c9a9d,Kippers - Smoked,9.74,37.8,glass,Indigo,137.2267,6.14,Jetwire,503.1,5/21/2006
+337,87f68415-e17b-41ff-88f8-de96ec0499a4,"Potatoes - Instant, Mashed",29.88,70.95,plastic,Aquamarine,194.1814,6.41,Podcat,853.08,11/21/2011
+338,6fb6dbb9-bc15-41e7-92f0-fe09f367af6c,Rice - Long Grain,55.24,82.66,plastic,Puce,41.3667,5.52,Aibox,802.76,5/25/2002
+339,a27e2522-f5ba-40cc-9f75-c6ec9b666815,"Wine - Red, Lurton Merlot De",8.38,32.42,crystal,Pink,196.7668,9.79,Shuffletag,757.31,10/27/2022
+340,fc04bb06-a1f6-4ef8-9a92-b5b010a795a3,Bread - Corn Muffaleta Onion,31.18,83.64,sand,Pink,94.7688,6.16,Rooxo,451.74,6/5/2019
+341,befcfde6-3abc-4799-b691-fd114079319e,"Juice - Tomato, 48 Oz",3.76,35.47,sand,Yellow,68.6551,8.51,Tanoodle,379.75,7/5/2020
+342,1db1a76a-2169-4540-9d65-54105dd65f40,Wine - Beringer Founders Estate,61.59,33.74,wood,Red,192.925,9.85,Oba,210.68,7/22/2013
+343,3ce85e4c-07ce-427c-a3f4-9d5dfc2a0c5c,Langers - Ruby Red Grapfruit,16.11,36.01,plastic,Teal,106.7762,5.12,Kare,327.72,3/14/2016
+344,81ce2d97-414e-475e-97ff-54007c7ce4c6,Smirnoff Green Apple Twist,72.15,28.2,marble,Turquoise,163.6943,6.15,Skinder,38.32,10/23/2011
+345,b8d79296-d259-4429-99f0-049c00cd7699,"Cheese - Brie, Cups 125g",98.82,36.41,fabric,Red,198.5009,5.67,Shuffledrive,197.53,2/2/2015
+346,9e6ab173-4500-4a42-8213-bde61cbca20a,Sesame Seed,80.43,61.65,wood,Pink,115.4755,6.62,Quamba,986.97,12/27/2016
+347,fb112889-20c4-4d86-ab5b-6d3cd68c9697,Strawberries,24.91,2.75,stone,Purple,167.1708,5.56,Ainyx,988.07,10/29/2006
+348,b6ff25e6-1d41-4d27-8480-21e998e9cc79,Energy Drink - Redbull 355ml,19.44,18.93,plastic,Green,103.1858,5.94,Teklist,313.84,6/8/2010
+349,a5937864-5238-4e72-9113-056aca386328,Sansho Powder,36.39,56.21,plastic,Maroon,120.3119,9.49,Gabcube,14.68,11/26/2018
+350,8b01b3b5-41cf-4eb3-bdf7-86a4faf3f411,Wine - Blue Nun Qualitatswein,57.37,19.99,marble,Pink,97.1478,9.64,Twinte,462.85,12/12/2005
+351,17465659-2d40-45a1-9f9f-8dee61bf9ad4,Appetizer - Southwestern,65.4,78.5,metal,Green,187.7186,6.24,Edgeclub,386.64,3/20/2015
+352,8a6f4b89-ea39-48b2-adfd-710881eed396,Thyme - Dried,95.36,10.78,wood,Goldenrod,137.1247,8.83,Roodel,183.4,12/16/2001
+353,b15b6aa5-9d1b-49e5-b84b-b4f63bbadb76,Sauce - Thousand Island,41.07,16.65,sand,Violet,195.8092,5.85,Zoombox,894.57,6/5/2022
+354,53316197-881b-4fe1-8a6f-111945cd5dce,Sprouts - Baby Pea Tendrils,44.34,94.37,wood,Mauv,50.1861,8.48,Thoughtmix,608.18,7/11/2015
+355,f1ab7df1-753b-4365-8553-4926dbbce933,"Coconut - Shredded, Unsweet",42.21,17.99,stone,Khaki,18.4753,5.58,Rhynoodle,805.75,2/19/2020
+356,7d1421ca-70c4-44d2-bd6e-b7177e76062b,Eel - Smoked,60.03,82.88,wood,Crimson,153.7165,9.68,Chatterpoint,707.17,4/19/2009
+357,82fa4aa1-55e2-41cb-a2fb-f52e917cec4a,Pheasants - Whole,38.27,75.87,stone,Mauv,133.4537,5.66,Edgepulse,94.11,9/2/2016
+358,1bd1228e-7e94-4859-be90-c8513ec29e7f,"Sauce - Soya, Light",74.27,18.59,glass,Puce,145.8324,,Yotz,392.32,12/10/2017
+359,b23f2d20-28cf-4aea-85fa-26054212eae0,Eggplant Oriental,53.52,65.67,stone,Fuscia,87.5815,9.75,Topicware,772.81,1/16/2006
+360,3857724c-f162-4657-b060-00ad65791176,"Veal - Inside Round / Top, Lean",25.52,26.62,metal,Violet,98.5458,9.41,Tagtune,838.72,10/6/2010
+361,7db89f12-bc7f-4721-a13d-0bbe5c7e79d2,Foil - Round Foil,36.37,70.0,crystal,Blue,34.1251,6.84,Skiba,693.91,1/17/2008
+362,8e6886fb-5826-4540-b7bd-30730ce52bab,Coffee Guatemala Dark,83.25,71.15,wood,Blue,78.5231,6.76,Browsezoom,870.09,1/19/2020
+363,df3dfe2d-f2e4-47e2-83dc-1687f8620571,Bread - Focaccia Quarter,56.87,93.85,metal,Aquamarine,31.5327,5.67,Skynoodle,961.18,9/2/2013
+364,8702f018-038e-46f7-aff5-39022743cef3,Soup - French Onion,11.31,65.96,fabric,Red,69.1332,8.86,Chatterbridge,826.53,7/9/2014
+365,16455e69-3472-4d51-bf82-db6d152f31a2,Muffin Mix - Blueberry,18.13,44.95,marble,Fuscia,33.1383,6.93,Wordpedia,940.4,6/21/2011
+366,bb48bfa8-71e2-4ec7-aedd-969187164cc3,The Pop Shoppe - Root Beer,8.85,16.08,fabric,Green,65.4511,9.34,Oyoba,824.54,12/23/2010
+367,3180f814-9ba3-4e0c-a5f1-d740d44b3a15,Veal - Heart,75.0,76.26,crystal,Maroon,153.1228,9.54,Blogspan,508.68,8/3/2009
+368,50836cf3-bf49-4814-9fb2-9e5f1d54bc2a,Skewers - Bamboo,47.76,27.94,marble,Mauv,168.6933,5.55,Eimbee,429.25,10/4/2018
+369,e8c3ce3b-cc04-49b1-8d39-e4da8bbbd69d,"Bread - Pita, Mini",57.58,29.44,sand,Yellow,141.3824,7.29,Dazzlesphere,151.94,11/4/2001
+370,b9ac8ca4-f1e7-4ce7-bfa2-dba53477103d,Bananas,49.08,93.0,fabric,Green,121.4119,6.26,Zoombox,995.35,4/2/2012
+371,4f5384eb-f603-4c60-9e23-69e021c0673f,"Soup - Campbells, Lentil",71.61,13.28,fabric,Crimson,128.6691,9.36,Linklinks,435.23,4/29/2003
+372,45d7b79a-5202-4a0f-9b99-92d2f1998d74,Juice - Apple 284ml,88.06,1.86,stone,Green,23.3561,9.76,Skyvu,709.94,4/22/2004
+373,1df3688e-fb81-4bd5-b77c-02db2669fa29,Longos - Chicken Caeser Salad,46.91,16.82,stone,Khaki,53.3733,7.16,Flashdog,251.96,1/12/2007
+374,0434640c-c501-4ab0-a99a-01b44d5669d6,Tumeric,33.31,86.38,marble,Khaki,76.9729,7.25,Oyondu,960.69,11/12/2013
+375,5699bbd0-60dc-41e8-bf8e-c2697b822213,Spinach - Spinach Leaf,70.44,48.21,metal,Violet,125.6706,5.82,Mydeo,91.96,5/31/2003
+376,ca202faa-7620-4836-92c7-4a729f31fd2d,Apricots Fresh,7.43,85.14,wood,Mauv,158.4759,7.48,Browsecat,128.55,2/25/2019
+377,12399b0f-13ea-4e3e-811c-7e403234ef2e,Steam Pan Full Lid,9.11,58.59,crystal,Yellow,154.5881,7.56,Zoonder,528.43,12/8/2006
+378,dcd754ba-f8b8-4268-b343-d2e19a4af330,Wine - Penfolds Koonuga Hill,21.52,66.09,crystal,Mauv,161.4205,6.3,Gabtype,523.49,10/29/2006
+379,c7de9cc9-f0f9-458c-aaf5-e755c4dfa376,Sansho Powder,11.52,54.58,crystal,Violet,59.8845,8.24,Bubblemix,641.82,12/17/2009
+380,ca7b1547-ff22-4a73-a096-e9d231d8e510,Oil - Grapeseed Oil,34.29,34.34,crystal,Fuscia,176.3662,8.43,Browsebug,312.6,2/20/2015
+381,0d3aadc0-ed99-435a-9451-3a35d6fba7e6,Tuna - Sushi Grade,92.48,77.33,glass,Puce,149.3437,5.6,Feedbug,758.9,10/10/2015
+382,fffc7aa2-d4b2-4086-a63d-e0bc77b08e24,Longos - Chicken Curried,64.94,88.57,plastic,Red,64.4745,7.76,Linktype,214.8,12/8/2015
+383,afb8763d-9827-40ce-a0c2-e24e6d41c87b,Pastry - Key Limepoppy Seed Tea,85.47,19.96,metal,Indigo,51.0543,6.27,Demivee,918.56,4/28/2007
+384,ac3ab184-70d8-4a06-ba87-2656491e84bc,Trueblue - Blueberry,47.72,93.76,crystal,Orange,192.339,8.37,Twitternation,706.96,3/20/2020
+385,2f1cf5cd-8a6a-49a5-9817-cf53040f09d9,Juice - Orange 1.89l,16.2,22.3,stone,Blue,107.8102,6.64,Babbleopia,207.88,4/8/2018
+386,9c38d849-0c8f-4115-a156-61499d805e78,Chinese Foods - Pepper Beef,59.64,72.56,glass,Red,67.2681,9.15,Eayo,821.42,4/16/2022
+387,5197758c-823b-465d-8ed0-abad4dc56cb8,Buffalo - Striploin,59.08,53.17,fabric,Fuscia,172.0854,6.51,Dabvine,489.09,8/22/2020
+388,d023010c-985f-43dd-b309-5233e12a089d,Wine - Gato Negro Cabernet,13.48,67.04,fabric,Khaki,163.3338,7.22,Vidoo,868.05,11/8/2006
+389,f2e28e8d-ef4d-4606-8672-b29dc1e2ccbb,Samosa - Veg,39.25,25.15,fabric,Aquamarine,161.6758,7.76,Flipstorm,5.45,11/30/2000
+390,d69a4b62-fc60-4f42-bea3-3d10c7353bdb,Duck - Whole,42.31,60.06,stone,Indigo,184.4029,8.61,Gabvine,617.63,1/11/2017
+391,0e8de14b-eaa7-48ac-bc82-732cc9f588b5,"Fish - Scallops, Cold Smoked",38.11,37.34,plastic,Green,86.1525,7.29,Youfeed,677.69,8/16/2003
+392,8531a6bd-c75c-40d8-b6b3-6fdfbc714aae,Cheese - Swiss Sliced,92.16,89.44,wood,Pink,142.7186,9.12,Edgeclub,256.8,10/16/2010
+393,5da65247-978c-42b8-bfcc-c0df0d3c8769,Cranberry Foccacia,95.06,22.98,wood,Violet,152.4166,9.59,JumpXS,299.17,1/18/2021
+394,f828598d-7a19-430a-9721-d0376019c4e0,Bamboo Shoots - Sliced,36.05,11.21,plastic,Pink,82.1456,,Quinu,911.48,7/6/2014
+395,07086581-bc48-4265-ab65-beec405c87a1,Lychee,11.02,47.74,sand,Yellow,120.0005,,Katz,524.26,1/7/2015
+396,f1efbf70-1280-4c5e-8444-0af7271e8018,Salt And Pepper Mix - Black,58.43,58.03,sand,Mauv,30.8275,5.35,Roombo,333.68,6/25/2015
+397,4f0877f5-b235-4421-9623-d9ad4ab24f06,Cheese - Parmesan Grated,52.87,58.0,metal,Teal,167.7675,8.26,Agimba,248.97,6/27/2000
+398,0317e227-af10-4e95-85ba-52ae101243c6,Hold Up Tool Storage Rack,50.75,47.07,marble,Maroon,183.0227,8.4,Thoughtblab,837.62,3/22/2015
+399,08eac56f-6ef2-4527-8bdb-0b69b7cfb0a9,"Vodka - Lemon, Absolut",91.62,87.66,plastic,Violet,78.4336,8.86,Midel,841.81,5/30/2000
+400,68278400-5d71-46ee-b58c-7aeb7ffb6f46,Cream Of Tartar,16.03,91.89,metal,Turquoise,72.1026,9.47,Browsedrive,331.48,4/22/2009
+401,90076321-3059-4e0a-a427-e18fb12e19c6,Mussels - Cultivated,77.86,22.29,sand,Red,82.3833,7.96,Linklinks,384.49,12/16/2021
+402,857acdc0-8140-43fd-834f-ca03a34862c4,Aspic - Light,68.15,8.35,marble,Blue,179.6506,6.08,Fatz,681.0,5/18/2022
+403,1579879b-869d-4219-b1b2-3bceaf8a5500,Milk - Skim,30.69,11.07,plastic,Red,24.2667,6.53,Voonyx,256.78,11/30/2017
+404,109a4606-f775-4a56-bb7f-b2d8b58659a8,Nantucket - Pomegranate Pear,85.12,74.91,plastic,Goldenrod,79.0636,9.64,Thoughtbridge,423.22,3/4/2018
+405,7ff31686-8f25-4a70-aa98-c87ee02eef43,Shichimi Togarashi Peppeers,34.31,90.12,sand,Puce,90.2852,7.59,Shufflester,671.25,5/23/2007
+406,085df81d-d6a0-4eaa-b0cb-227ab37f4fc1,"Cheese - Brie, Triple Creme",38.17,79.84,wood,Maroon,102.9412,5.6,Zoombox,523.87,8/23/2003
+407,1e5fdb31-1940-4e0a-8fa6-84bc237f37c9,Sausage - Meat,91.99,39.78,sand,Crimson,124.0734,8.75,Agimba,998.99,2/21/2022
+408,578306b7-a24a-4d69-9640-1dbdfe5c5758,Cookie Dough - Oatmeal Rasin,29.43,77.97,stone,Red,104.5963,8.17,Skivee,905.54,5/22/2005
+409,dcb4dfe1-4890-4f9d-a2b8-e91589b33b9c,Nantucket - Carrot Orange,54.89,44.77,metal,Yellow,50.062,8.54,Feedmix,526.64,10/16/2011
+410,d0a93ce9-bc10-4bb7-b6f9-e63dc6ec111d,Cookie Double Choco,43.77,20.13,stone,Puce,75.0165,9.78,Twitterworks,979.55,10/1/2010
+411,b1246b69-44ea-4ba1-92a5-a01bb5d95ee0,Oil - Macadamia,52.8,34.94,plastic,Maroon,186.7359,9.6,Tagchat,491.93,4/21/2021
+412,4b5c184a-92c9-4a14-be5b-a8b2784cd025,Green Scrubbie Pad H.duty,34.72,90.05,crystal,Purple,47.0207,9.37,Demimbu,896.85,2/24/2012
+413,3f371ce2-ddac-4c87-80c3-8e0ae22a30e8,Potatoes - Yukon Gold 5 Oz,10.31,70.26,sand,Indigo,71.1743,9.94,Skalith,451.3,10/1/2018
+414,930391d3-e124-406d-9fd3-c551157ba6c4,"Basil - Primerba, Paste",84.65,86.84,plastic,Red,128.1608,7.95,Eadel,77.7,11/2/2001
+415,e950cd7c-2b30-469d-9037-f266b07ef617,Nantuket Peach Orange,41.55,31.83,crystal,Khaki,188.7977,7.13,Ntags,381.86,4/30/2010
+416,c9aac0c3-e95d-444e-bdbd-10a558c65362,"Oranges - Navel, 72",54.64,7.77,marble,Maroon,31.2819,9.68,Topiclounge,819.05,7/7/2003
+417,7f89a781-6b34-4a58-a864-be3ee05f82b0,Beer - Molson Excel,93.14,58.26,metal,Fuscia,19.5408,5.02,Wordware,921.87,10/25/2009
+418,aa905eee-8fc6-4fc1-a261-1cdf7b69ff0c,"Gingerale - Schweppes, 355 Ml",78.72,52.38,marble,Maroon,83.4641,5.64,Yata,676.07,4/8/2000
+419,cc0225e7-71f1-4e3a-94fe-dabb02201302,Cabbage - Savoy,26.62,97.03,wood,Indigo,35.3627,9.14,Eamia,282.27,11/28/2001
+420,e9849429-c853-4fab-9f2c-a2b6f2c40633,Longos - Penne With Pesto,54.65,34.6,sand,Blue,43.7824,8.08,Flipstorm,854.45,3/7/2018
+421,6a5bde78-c7b4-4cb8-9e88-44c1029eada8,Greens Mustard,74.73,63.82,marble,Khaki,122.4522,9.42,Skynoodle,83.85,7/15/2007
+422,1a301b23-5b4d-4b79-9774-147d118fdd72,Wine - Alsace Gewurztraminer,36.95,32.11,metal,Puce,24.4582,6.86,Divanoodle,727.15,11/6/2014
+423,d7127d62-0707-4ff1-8536-2feeda279fec,"Vermouth - Sweet, Cinzano",44.66,3.18,glass,Indigo,89.6032,7.71,Meezzy,837.15,9/24/2001
+424,2d72c703-cdab-4ce9-b916-c12e0e68b288,Dish Towel,12.16,8.14,stone,Green,167.2159,6.22,Latz,927.27,11/15/2018
+425,083cf610-d3f7-4b35-928f-d915f8314da7,Pastry - Chocolate Chip Muffin,77.09,84.74,sand,Green,77.7868,7.45,Demimbu,670.81,9/13/2006
+426,4a2f391c-f218-4146-bef3-00643a30cddc,"Beef - Cooked, Corned",11.69,78.15,sand,Yellow,193.139,6.79,Jatri,86.54,11/16/2018
+427,92f919c7-8786-47e3-80f0-e181c76dd56e,White Fish - Filets,64.72,17.66,wood,Orange,80.4979,5.31,Tagchat,538.31,2/5/2016
+428,dcfe84f9-1047-431d-93d7-aa8ae1e06cc2,Wine - Pinot Grigio Collavini,27.2,7.32,stone,Teal,65.2671,,Dynabox,107.74,3/10/2017
+429,3b7cdee7-938f-4838-8a95-9525ac5eecad,Wine - Two Oceans Sauvignon,40.76,68.57,wood,Crimson,181.4179,9.81,Thoughtmix,790.87,6/15/2004
+430,0dba9e90-9b71-4011-8ce7-2e9658d5eb20,Rice - Brown,57.39,37.73,fabric,Khaki,130.4388,6.58,Voolith,332.05,1/19/2011
+431,fac97f51-b6b4-4065-b76c-0721db485931,"Lamb - Whole, Fresh",38.83,10.05,sand,Aquamarine,134.5906,7.57,Camimbo,921.74,3/7/2012
+432,fd78c5b7-b7fc-4513-af9a-62ab3a5774be,Ham - Proscuitto,66.67,97.68,plastic,Mauv,195.8082,6.78,Yata,689.75,12/25/2012
+433,005ec93f-c505-4394-90b6-938025fb55de,Rice Wine - Aji Mirin,73.11,79.31,marble,Goldenrod,189.8434,8.12,Zoomdog,906.31,5/15/2003
+434,5c9a82da-e293-4237-9d34-82f719eaa9a5,Cheese - Augre Des Champs,13.75,19.09,marble,Khaki,138.3686,9.37,Browsetype,233.61,5/8/2004
+435,53f915da-1544-43f2-8a07-b9f964aa3222,Vinegar - Balsamic,87.3,3.72,fabric,Yellow,14.0924,7.23,Cogibox,152.41,10/1/2019
+436,3b021661-9bc7-453a-a863-7ba0eea09827,Scallops - In Shell,71.51,64.26,fabric,Red,171.3574,8.03,Jaxworks,21.07,1/31/2015
+437,d7b63edb-bc4f-43d6-ad7f-0dd9ae8a1507,Nut - Macadamia,62.32,38.26,fabric,Green,101.7041,8.6,Meevee,294.69,1/23/2005
+438,9c7eb491-bbb7-4800-a647-bc55c0260993,Mace Ground,73.68,93.83,fabric,Puce,88.4357,8.29,Cogibox,281.83,9/25/2000
+439,9e3c1646-348e-4e87-9ad5-2e0723178827,Sobe - Cranberry Grapefruit,45.89,64.16,glass,Blue,75.019,6.38,Zoombeat,718.75,10/2/2019
+440,d103cf8a-8c4c-43a9-af1e-fdd752d862bb,Filling - Mince Meat,32.56,7.51,stone,Teal,130.0868,6.27,Zazio,855.03,12/13/2016
+441,3561505e-cb45-4091-bd55-d0b02b325772,Pie Pecan,94.53,50.12,crystal,Puce,74.9109,8.64,Twitterbeat,277.95,8/17/2010
+442,8c06e9fd-ea64-4fea-8b5a-7c34fdcf27cf,Spinach - Packaged,12.72,35.27,glass,Purple,26.8334,5.51,Quinu,716.02,4/11/2000
+443,bf717e56-f9ce-4318-aa3d-5016d85d3b00,Sage Ground Wiberg,71.39,20.8,sand,Fuscia,161.8321,7.29,Eimbee,868.76,8/24/2018
+444,4909e84b-ef26-4076-b10d-94c470a6d090,Wine - Dubouef Macon - Villages,70.48,17.5,glass,Orange,93.2516,9.47,Aimbo,629.23,5/19/2017
+445,799d8ab8-9e2d-4f9e-81b5-6104c6210218,Pate Pans Yellow,99.27,4.51,plastic,Mauv,41.8943,7.19,Gigabox,726.6,12/24/2013
+446,78264dc7-f4ea-4b3b-9e00-fc81fe3c843e,Bread - Focaccia Quarter,82.02,89.47,sand,Yellow,62.0253,7.59,Realfire,793.66,6/1/2020
+447,0582abef-9be1-460a-affe-5e1d786c7397,Cheese - Roquefort Pappillon,96.06,92.43,glass,Pink,186.1482,8.78,Voonder,872.88,7/25/2013
+448,3a7ba696-3078-448e-9914-0509ae4d3d13,Wine - Chateau Bonnet,46.0,61.68,crystal,Pink,151.282,6.23,Eare,7.97,6/30/2011
+449,16e721ed-94b4-4f1d-a395-088cd88dc5f9,Muffin Mix - Carrot,12.1,92.19,glass,Mauv,44.8104,7.0,Mita,287.17,1/17/2009
+450,3779b54d-8e7b-4d1b-a7de-5d9398563fbe,White Fish - Filets,30.31,98.54,metal,Aquamarine,18.9027,6.64,Aibox,757.29,4/22/2019
+451,fa3a1aeb-1840-43b2-9b04-3bfff2a75714,Wine - Malbec Trapiche Reserve,42.66,71.87,plastic,Red,193.6189,8.73,Aivee,332.24,4/15/2016
+452,dab005bb-6cba-4504-835a-61302c1273b6,Eel - Smoked,70.75,86.1,sand,Goldenrod,90.5771,9.62,Skinix,187.65,11/2/2007
+453,f39fcf2d-e8d8-4956-9721-d539006eea5f,Wine - Placido Pinot Grigo,93.49,7.78,sand,Indigo,157.7346,6.56,Jamia,37.53,11/17/2020
+454,bda4e2e0-d3d5-41c4-bef4-165c8f95fc6b,Flour - Masa De Harina Mexican,38.65,16.8,marble,Pink,183.2515,7.23,Cogilith,70.02,5/28/2016
+455,8f5dce15-8e58-45e8-a82c-3e975a583557,Appetizer - Veg Assortment,39.13,27.01,glass,Teal,20.4612,7.95,Avamm,773.68,5/9/2011
+456,753e0689-0e30-4234-9d0c-dd3ad2c9537d,Ice Cream Bar - Rolo Cone,89.83,89.4,crystal,Crimson,24.876,9.09,Youopia,474.45,4/3/2017
+457,4d465c83-c78f-492c-915e-81f8b9f69c53,Calvados - Boulard,1.89,47.89,metal,Khaki,159.2618,9.94,Kare,975.49,3/22/2019
+458,3293edb1-8721-4199-a893-8a00247ccf7b,Flour - Strong,52.36,83.76,marble,Pink,58.203,8.91,Quaxo,119.37,3/12/2011
+459,c909f509-1f00-4047-b1a2-c5a50d540b03,Lobak,21.13,20.69,marble,Blue,19.5772,,Avamm,119.78,12/8/2002
+460,faba2c9e-7f31-4b44-b3fc-6f4a2b428cfd,Lettuce - Red Leaf,62.6,94.39,glass,Maroon,174.3749,9.57,Wikibox,465.05,4/25/2008
+461,d5bf4057-6899-4985-b2b4-641cba0273a1,"Lamb - Whole, Frozen",97.12,67.53,sand,Maroon,51.3564,7.2,Oyonder,699.56,6/6/2020
+462,25a28b3f-3642-4ee8-bbee-444d81631000,Chips - Potato Jalapeno,60.54,91.98,metal,Maroon,167.842,8.3,Jamia,720.78,10/8/2005
+463,7b708780-d338-4e8b-9000-0297ae40f85b,Beer - Blue,36.7,1.52,plastic,Mauv,112.1369,9.28,Eadel,14.72,11/5/2010
+464,ecf36eca-4bd8-4eca-9157-cedf9045a8d2,Puff Pastry - Slab,44.79,79.09,sand,Purple,173.3689,7.37,Blogpad,59.3,12/10/2000
+465,c434bb80-5594-4f74-8ae3-d60c1dec54c2,"Halibut - Whole, Fresh",81.71,8.0,crystal,Blue,135.1188,,Devpoint,65.74,9/20/2015
+466,0d1df4f4-828a-46f6-b950-1105f7d2e852,Dried Peach,67.75,25.59,marble,Orange,90.9544,5.88,Voomm,757.21,5/14/2000
+467,2d80445f-2542-4445-a352-913a2fd3c9a0,"Tuna - Canned, Flaked, Light",74.19,92.37,fabric,Puce,149.518,5.49,Edgeclub,990.91,3/6/2015
+468,21b9b73b-8911-4cbe-a167-de215650b0b2,Egg Patty Fried,5.52,27.76,sand,Yellow,80.2012,8.64,Zoomzone,167.02,2/16/2003
+469,f4a29d99-d8ab-40b6-bda3-63a07868bd3a,"Pepper - Paprika, Spanish",18.11,45.58,stone,Pink,193.5607,9.23,Realfire,293.51,8/1/2008
+470,a665b6c2-57f9-4323-a15e-e21e310cf77b,Nescafe - Frothy French Vanilla,76.95,30.0,crystal,Crimson,15.4137,8.02,Skippad,853.12,1/23/2011
+471,65820f56-5952-4291-b6b3-30f2afbb0c27,Bag Clear 10 Lb,42.92,45.38,sand,Puce,85.7726,5.69,Jabbertype,39.4,1/18/2003
+472,a4825c73-343d-45ab-909b-50f2dc24c7b4,Chinese Foods - Chicken Wing,50.44,29.47,fabric,Pink,35.1235,8.0,Browsezoom,659.94,10/7/2000
+473,69fc14c6-515d-456d-a12e-af8cda6814a5,Cheese - Cheddar With Claret,27.79,55.13,glass,Puce,93.126,5.18,Jabbertype,498.0,9/18/2003
+474,3c6ef94c-bc29-4ec0-9558-88765b9365b3,Chevril,38.96,59.88,metal,Aquamarine,76.6298,7.72,Photospace,354.5,9/5/2012
+475,c8374b62-c460-42e5-a65e-592c739a5fcd,Longos - Greek Salad,97.42,37.19,glass,Turquoise,97.6749,7.17,Thoughtstorm,984.12,12/24/2013
+476,f55dc76d-cbb4-4b1e-9bf1-e4d9db8a51f2,Buffalo - Tenderloin,49.91,44.93,wood,Purple,55.9834,8.11,Blognation,578.24,4/7/2001
+477,9d5e0b72-2233-4aa5-a865-c91024a89c66,Puree - Kiwi,77.6,62.3,metal,Maroon,83.8247,7.71,Tambee,802.17,7/2/2012
+478,881246c2-d0a4-4b30-83e9-6da38c67f071,Muffin Mix - Blueberry,37.1,93.52,glass,Violet,69.9498,5.46,Photobean,992.8,5/20/2020
+479,b9f76d73-1f0a-43ff-802e-7016075c14eb,"Wine - White, Pelee Island",55.37,32.87,wood,Aquamarine,37.7676,8.21,Midel,608.69,3/28/2016
+480,18ce1082-6356-4e73-912e-2d5d211b9afb,Bay Leaf,1.91,1.98,metal,Khaki,96.2177,8.96,Babbleblab,431.4,9/12/2005
+481,a62c14cf-4e36-471b-af31-15c0f823813b,Sea Urchin,9.81,88.53,sand,Green,99.7686,6.51,Realfire,689.24,1/27/2013
+482,dbf2d2a6-431d-47fd-8982-20c417baa7fa,Cleaner - Bleach,40.12,68.08,stone,Yellow,38.1892,6.4,Skinder,424.01,7/29/2007
+483,2cc33595-da58-4e57-b5e6-b1b5f700b724,Veal - Ground,8.44,43.16,sand,Goldenrod,146.687,8.02,Zoomlounge,488.59,8/5/2020
+484,0e0c869e-87af-4414-92a0-6ea938343c9a,Water Chestnut - Canned,16.94,16.44,stone,Yellow,124.88,8.88,Oyoba,280.24,1/3/2020
+485,40870925-24af-4ee8-9fb5-94939021c8c6,Curry Powder Madras,85.96,93.56,glass,Orange,96.8122,7.22,Gigazoom,636.23,6/28/2014
+486,300c98b6-ff38-4478-a980-8a74910f8ba2,Turkey - Ground. Lean,53.19,20.31,metal,Maroon,141.1785,7.69,Quamba,14.82,3/21/2009
+487,a743c0aa-5aa9-4fc3-a1f2-38a9c24a8a5a,"Lettuce - Romaine, Heart",51.16,16.75,marble,Green,133.0214,9.44,Eazzy,721.81,5/16/2003
+488,63b87dcd-e517-45c6-8ea8-6ffd15735774,Sauce - Hoisin,84.86,81.87,plastic,Goldenrod,189.0464,8.83,Devshare,599.85,10/13/2010
+489,4703075c-d3c1-4da5-87d9-985b6c42c8e9,"Wine - Red, Antinori Santa",23.27,56.23,metal,Crimson,145.5326,6.2,Jaxbean,103.11,2/4/2001
+490,29216ca1-9d74-40ac-af23-bb97ca237a65,"Wine - Magnotta - Red, Baco",17.33,25.15,marble,Aquamarine,24.1618,6.92,Meeveo,531.56,12/15/2013
+491,15f82a94-2fe2-42bb-ae36-cc08ee359a58,Beef - Prime Rib Aaa,23.48,75.96,crystal,Maroon,53.1401,7.92,Linktype,160.95,11/9/2006
+492,8f0448d9-efe3-455d-ae19-0bd980c7bebd,Bowl 12 Oz - Showcase 92012,38.56,88.06,glass,Yellow,91.5546,9.6,Cogibox,643.5,11/2/2017
+493,f4ad4616-0998-4d19-8bad-bcbc89c04adb,Cookies - Englishbay Chochip,90.83,15.56,stone,Purple,199.0927,6.57,Jaxbean,339.24,11/9/2004
+494,5f8c6e6f-432e-4f91-889f-1865c231d937,Soupcontfoam16oz 116con,79.72,35.6,metal,Aquamarine,195.9018,7.6,Thoughtmix,898.78,11/14/2020
+495,9df673c1-87a5-4a2f-bbbd-fdaaac4f5159,Mint - Fresh,90.75,66.27,plastic,Goldenrod,137.9372,5.74,Kanoodle,88.0,11/10/2022
+496,300c2dbb-d4d6-4f78-86e6-c9b36e09c8d0,Soy Protein,91.22,21.55,plastic,Puce,54.1922,7.73,Npath,767.41,11/20/2022
+497,ccdf2d7d-513e-4839-a5d8-e196621ea803,Banana - Green,52.27,86.32,fabric,Purple,120.0299,5.17,Jetwire,722.39,3/20/2010
+498,e60099a3-64d4-4e33-a78f-23764694aa8f,Soap - Hand Soap,45.24,11.82,glass,Blue,138.2761,6.65,Meevee,856.07,2/26/2007
+499,fe2ee0b0-1d5b-4ff3-b085-665aa61f4b1a,Pepper - Pablano,90.19,7.98,metal,Violet,124.9628,9.33,Tazzy,183.4,11/5/2021
+500,f5fc07a6-9571-43db-926e-2e869587f8eb,Muffin Batt - Choc Chk,54.11,50.42,metal,Red,143.2187,6.77,Katz,242.77,4/8/2003
+501,b31ee409-7c7f-407a-abb4-6b16b875e51b,"Oregano - Dry, Rubbed",6.96,44.37,crystal,Goldenrod,139.887,9.09,Divanoodle,269.38,12/9/2010
+502,629d30a7-9ed0-4cdc-8846-23d55ff11bb2,"Water - Spring Water, 355 Ml",60.63,98.11,marble,Fuscia,34.5023,8.2,Digitube,48.66,5/24/2014
+503,6a6b43e1-c519-486d-a589-37bbd28020fa,Spic And Span All Purpose,9.01,25.91,metal,Fuscia,88.1337,8.23,Shuffledrive,519.67,1/3/2008
+504,ff65a881-d2fd-404a-bcdd-37fee88c8626,"Wine - White, Concha Y Toro",22.9,1.59,plastic,Purple,178.2167,7.88,Skalith,266.01,5/2/2001
+505,b4bac7fc-00e6-4236-ac25-cd8400125aac,Cheese - Feta,74.24,54.61,fabric,Indigo,190.414,8.18,Jayo,623.01,8/14/2021
+506,3c55d0d7-971f-48b3-b107-79f577b537da,"Pepper - Julienne, Frozen",84.13,15.34,fabric,Green,198.5236,5.43,Vinte,420.75,3/15/2006
+507,5e059256-5333-422c-b215-6cc11aa343ce,Coriander - Ground,94.58,74.01,plastic,Turquoise,67.1427,,Devcast,154.01,4/29/2014
+508,d374f6ca-2598-4e75-b954-f3497d3e0a09,Pepper - Chilli Seeds Mild,19.11,20.23,crystal,Violet,30.4846,6.66,Meevee,206.03,6/17/2013
+509,ae9c51d6-0ffb-4732-bb20-91efb49256ba,Bread - Olive Dinner Roll,33.14,29.47,marble,Orange,49.461,9.99,Divavu,357.2,8/4/2014
+510,2db369a4-69b1-42ce-8f30-b4771a77c0c8,"Pasta - Linguini, Dry",74.92,30.45,metal,Teal,116.1743,7.3,Quimm,955.39,10/16/2009
+511,f6676a1f-a01f-45a7-bfb0-3b62869cb6f5,Cheese - Brick With Onion,86.01,51.93,fabric,Indigo,102.7842,7.91,Chatterbridge,675.88,1/1/2000
+512,82acbdd6-01b6-49f4-9293-aa5b28d6801e,Wine - Cotes Du Rhone Parallele,77.28,69.02,metal,Aquamarine,94.5535,9.26,Edgeify,598.96,4/2/2022
+513,f5fea657-df3b-4382-be4b-5f2901a3862f,Pants Custom Dry Clean,23.08,89.91,crystal,Turquoise,90.0357,8.83,Meetz,628.91,9/30/2011
+514,ec0d1dd3-3e37-4dc6-96a0-b1eb2c09d63d,Veal - Striploin,64.33,49.73,plastic,Green,101.6118,8.39,Youopia,1.05,3/27/2019
+515,1fc439de-96c4-4749-b0b8-ccc4e7e4f814,Wine - Piper Heidsieck Brut,33.61,56.52,fabric,Teal,172.7265,8.18,Linkbuzz,887.56,9/9/2021
+516,2a5296ae-bf45-4d46-97e8-839a59a044c4,Bread - Rosemary Focaccia,78.91,34.2,plastic,Puce,118.3138,7.61,Oyope,623.6,9/10/2020
+517,f4544172-097a-4a3d-b259-26ff36bf780b,"Wine - Red, Cabernet Merlot",53.07,34.11,stone,Red,160.6015,9.54,Meejo,133.32,5/4/2006
+518,d554e0c3-7217-4555-b607-4997f96a852a,Cherries - Fresh,81.85,84.69,fabric,Red,71.5695,9.7,Tanoodle,604.47,7/14/2008
+519,22d9d803-4b70-4050-981e-8e2f6c7afb01,Chocolate - Semi Sweet,22.17,3.8,plastic,Maroon,163.4672,7.46,Aimbu,653.93,5/10/2016
+520,09ccef91-8ffc-4ac8-b97a-33a2ba4bfcb9,Bread - Bistro Sour,38.83,82.64,plastic,Maroon,32.5035,8.03,Centimia,722.99,12/3/2003
+521,0b8b963c-3f1a-4068-9484-2a5ada0ed444,Cheese - La Sauvagine,44.06,90.4,sand,Turquoise,41.0902,6.74,Voomm,673.91,1/4/2014
+522,6ed54bc8-f49c-41d9-9a4e-063d0d2dda6b,Veal - Inside,50.86,99.19,sand,Purple,37.2431,6.53,Thoughtblab,623.01,3/1/2000
+523,0edd9860-77ac-4291-b62d-b14444589c17,Cognac - Courvaisier,19.77,4.17,glass,Turquoise,36.4782,7.04,Skidoo,588.6,12/13/2015
+524,f1615a34-c61a-4f86-9ff3-ba97c9ff8b62,Shrimp - Black Tiger 6 - 8,60.25,17.19,sand,Green,65.8136,9.02,Meezzy,560.85,10/22/2011
+525,5201bc68-0be3-42fe-be08-d5dc401f108e,Triple Sec - Mcguinness,51.8,65.93,stone,Maroon,105.6813,5.01,Wikizz,811.75,10/24/2001
+526,bf549459-4e2b-469d-a3f3-bfa0944949c6,Chocolate Eclairs,68.11,6.03,fabric,Turquoise,45.7682,7.89,Edgeify,776.31,3/18/2000
+527,7b4e2952-c0f9-4d7a-8d5c-cc3b94265de5,Cinnamon - Stick,66.98,88.17,stone,Turquoise,120.7515,6.93,Zoomcast,795.61,5/21/2008
+528,24c2a84e-fa33-4d8f-bc2e-0eed910dacf4,Chicken - Tenderloin,13.74,28.18,plastic,Crimson,112.7713,7.16,Brightbean,422.04,1/28/2015
+529,1f4b3268-abe8-4399-b4e7-69bec913dcd1,Tequila Rose Cream Liquor,85.79,28.87,marble,Crimson,109.08,6.68,Gabspot,104.93,11/20/2002
+530,fdf3fef2-9b53-472c-b79f-9339d7da53db,"Rice Pilaf, Dry,package",17.45,25.75,wood,Teal,22.4655,6.01,Izio,250.02,9/6/2014
+531,34dd7811-1366-41fd-b58c-fc4b3c48a433,Island Oasis - Cappucino Mix,17.02,43.77,stone,Turquoise,23.1158,8.7,Rhycero,18.78,9/1/2006
+532,36af58ae-4b41-400e-90ec-0e09dd383d8a,Ecolab - Balanced Fusion,82.56,24.85,crystal,Crimson,89.2313,5.63,Skyndu,449.82,9/7/2001
+533,2e35c5de-037d-42ca-950f-08860216c17f,Wine - Lamancha Do Crianza,94.1,6.51,marble,Khaki,78.7338,5.97,Tambee,902.71,8/2/2005
+534,e11b53c2-7827-49fc-bf34-d7db33b0bfe4,Bacardi Raspberry,55.57,48.7,stone,Blue,168.2658,8.3,Brightbean,536.66,6/22/2020
+535,c38fe4c7-2bdf-4dcd-8887-c3afa8178a4e,Lamb - Whole Head Off,93.79,13.14,metal,Indigo,181.7656,7.26,Quaxo,199.3,6/17/2007
+536,2835f20d-39f9-46dd-9acb-cb70ec988a47,Milk - Chocolate 500ml,94.54,41.09,glass,Turquoise,129.9207,6.07,Zoomdog,962.28,10/18/2013
+537,26956efc-f60a-494e-b68f-ad8077fc513c,Mint - Fresh,70.98,76.29,plastic,Violet,43.6998,5.03,Devcast,172.82,3/2/2018
+538,20fca0e8-6182-464a-bfd5-eb180fa3bb70,Parsley Italian - Fresh,98.23,17.36,marble,Yellow,104.8301,6.79,Muxo,668.63,3/17/2011
+539,061cfc1a-4b6d-4160-8662-23014ed71ff5,Foil Cont Round,79.1,19.45,wood,Blue,35.2983,7.95,Wikizz,318.37,1/3/2022
+540,0b499662-7074-4714-8d2d-cb89fe7db672,Peas - Frozen,3.2,24.47,fabric,Maroon,19.1457,9.04,Digitube,941.0,8/12/2008
+541,ea4ac80d-f762-48c7-8fc8-fe83bf5768fd,Yoghurt Tubes,46.24,50.43,crystal,Turquoise,34.3302,9.24,Agimba,24.79,11/11/2017
+542,4ab6f777-f5e2-444c-9950-8347dd2c19ff,Everfresh Products,47.21,69.23,wood,Khaki,103.3609,9.21,Wikivu,954.32,1/2/2001
+543,253ddf6e-705d-420e-ac09-0cf2712528ae,"Coffee - Colombian, Portioned",16.08,96.85,sand,Teal,38.8278,5.52,Topicshots,663.85,1/21/2017
+544,23d4fa3b-3544-46d8-96b6-4a6713acd084,Dehydrated Kelp Kombo,48.2,50.13,sand,Pink,66.0667,8.0,Buzzster,14.58,8/29/2013
+545,9e2d6003-c9b4-4ec9-903e-9f25b7914d4a,Oven Mitt - 13 Inch,1.86,33.87,plastic,Crimson,14.4664,9.45,Jazzy,933.4,6/21/2008
+546,acb80af6-0b8e-4e58-b95a-ddc4732357f0,Juice - Apple Cider,37.56,11.66,plastic,Purple,63.2229,8.29,Rooxo,547.97,12/23/2022
+547,a3342ccc-9a0b-4005-8339-871ca7cd85a5,Sauce - Ranch Dressing,66.33,81.27,stone,Orange,107.7143,9.63,Vipe,893.49,5/16/2018
+548,291971f4-c73f-479b-8956-a9e52d6d37a9,Spice - Montreal Steak Spice,70.56,4.25,crystal,Turquoise,37.6321,6.87,Yodo,938.5,11/26/2006
+549,0e2b3475-f4b1-408d-a090-005fd395defe,Eel Fresh,99.78,43.25,marble,Goldenrod,167.9349,5.22,Mita,942.09,3/23/2017
+550,f05d5610-25aa-45b5-96b7-5cac68490d35,Jello - Assorted,43.15,20.64,marble,Orange,111.3403,9.63,Jaxspan,636.51,5/15/2012
+551,beba88ac-c50b-464d-bad5-1bca01a63e56,Wine - Prosecco Valdobiaddene,10.02,69.24,sand,Pink,170.9258,5.14,Photobean,737.23,12/6/2009
+552,83bf23c3-8c57-446b-8dd3-d6794f385383,White Fish - Filets,62.93,25.91,plastic,Turquoise,192.5979,8.15,Eayo,754.58,5/29/2001
+553,85b2a2c9-7235-45d3-b22a-967dcbafb5b0,Muffin Hinge Container 6,71.15,66.41,plastic,Red,86.3898,5.99,Yakitri,33.8,5/1/2018
+554,df476f8f-f635-43c0-a4ab-a1116049103b,Juice - Cranberry 284ml,87.76,90.55,fabric,Violet,86.8476,8.41,Lazz,994.73,8/13/2014
+555,0fe99403-456d-4085-9f03-874301128d3b,Gelatine Leaves - Bulk,47.47,20.25,glass,Pink,52.0882,8.37,Devpoint,998.79,4/27/2018
+556,d66bf40a-a0e0-41b0-bc48-541db94c4dd3,Oil - Shortening - All - Purpose,61.17,87.17,stone,Red,93.6155,9.99,Jabbersphere,512.13,12/25/2009
+557,5dcbfd63-8f68-40f7-ab14-f59bbca7a54f,Scallops - U - 10,17.91,84.0,fabric,Teal,99.6732,9.8,Skyndu,423.19,10/31/2006
+558,345da219-5323-4daa-8029-fe02b82252b4,Vaccum Bag 10x13,39.29,7.9,stone,Maroon,117.9259,5.89,Flipbug,65.59,8/23/2018
+559,820fd969-c70a-4917-b2dc-87f83d660d29,Cakes Assorted,98.88,74.05,sand,Khaki,74.1763,8.86,Twiyo,476.27,6/27/2006
+560,f243333f-3a2a-42b6-a603-69fe9a269853,Rice Wine - Aji Mirin,67.26,70.3,wood,Puce,174.1131,5.48,Tavu,474.78,9/1/2018
+561,cbbf6d5a-f27e-44fd-91a1-7053d03d07f0,Blackberries,33.79,25.79,wood,Blue,114.2916,8.16,Zoozzy,231.4,10/1/2000
+562,5c5e2bb3-3a36-4d2e-a6cd-95a944c0d971,"Wine - Bourgogne 2002, La",30.23,74.59,fabric,Crimson,198.3506,7.12,Tanoodle,32.22,10/24/2004
+563,e3ff86d5-423d-4828-8bc8-5e081e9d2248,"Salmon - Whole, 4 - 6 Pounds",89.66,46.86,sand,Blue,48.9347,9.82,Eamia,565.93,9/17/2001
+564,4d50eaf4-e7a3-4141-84a4-bf4a4cc42d37,Cheese - Blue,64.22,54.25,marble,Fuscia,135.5627,5.08,Bubblebox,601.15,11/1/2014
+565,2de29cb9-0d1d-4c1f-b4c0-004ce93639c3,Wine - Spumante Bambino White,79.03,55.38,stone,Pink,144.1875,9.09,Skyble,439.67,2/26/2021
+566,ef3b0403-01a4-4fa3-b10a-0eeaecc6dc93,Cheese - Bakers Cream Cheese,90.11,94.39,glass,Teal,199.1962,8.46,Demizz,969.11,1/12/2021
+567,9815aabe-d051-4222-82db-52be30981dfc,Coconut Milk - Unsweetened,71.25,34.99,stone,Teal,108.6283,6.91,Zoomzone,547.9,7/21/2003
+568,742c1681-0c19-4b70-8f41-abab4056a4b1,Cherries - Frozen,58.67,15.34,metal,Khaki,77.1837,8.86,Roomm,297.71,9/22/2004
+569,bb930d32-a09a-458b-9051-1d8dd3d9d6ed,Sauce - Balsamic Viniagrette,97.87,26.6,wood,Khaki,191.6044,9.57,Kazio,369.92,7/3/2011
+570,c039ad6e-8633-43ca-80fa-9c3e0474d848,"Coffee - Colombian, Portioned",6.5,60.16,glass,Aquamarine,157.199,7.45,Youtags,653.95,3/22/2006
+571,21728edd-f3fe-4360-af71-b391111403d3,"Pasta - Penne, Rigate, Dry",79.35,21.7,plastic,Mauv,65.7404,6.91,Skipstorm,643.43,1/14/2016
+572,8fb94a44-99b8-46be-921e-dfb3d95ed0bb,Salt - Celery,78.38,47.34,marble,Crimson,156.5712,6.33,Cogilith,541.39,1/26/2015
+573,cc61bff1-c8ff-446f-84c4-8168ac13eeed,Sobe - Lizard Fuel,19.32,46.35,glass,Green,57.591,7.04,Wikido,663.22,6/27/2010
+574,5ef83b9d-361a-4965-8fb5-74ddc0b18629,Wine - Beringer Founders Estate,45.0,33.71,stone,Yellow,161.3035,,Edgetag,605.22,3/25/2015
+575,981e9c63-4999-4613-be5f-b407bd393455,Nantucket Cranberry Juice,86.7,66.04,stone,Khaki,27.231,6.2,Latz,535.63,10/19/2011
+576,9bbdfe7e-7d07-4196-a387-789e31463757,"Chocolate - Semi Sweet, Calets",95.24,49.33,sand,Green,127.481,5.85,Realcube,48.08,9/22/2007
+577,f740f659-5aab-47ec-b9c0-709de5570c76,Sprouts Dikon,57.67,93.76,crystal,Violet,166.3787,8.9,Pixonyx,395.28,8/9/2011
+578,0b462482-849b-4a14-9e19-d5265a03b002,Tea - English Breakfast,38.38,29.7,sand,Aquamarine,95.0779,7.97,Trilia,275.24,6/9/2008
+579,0cba0c2c-1dd5-4c31-90be-4d96113a657f,Kellogs Cereal In A Cup,20.55,49.77,wood,Pink,31.5051,5.41,Tagcat,57.2,1/4/2018
+580,c6aa77eb-8da5-4d62-8ecf-b3451a80b25a,Potatoes - Parissienne,35.09,75.46,stone,Maroon,153.7885,8.32,Brightbean,364.36,7/12/2017
+581,85ec5231-1c3a-441b-be80-2e4a8f6efe8b,Mushroom - Crimini,30.86,94.03,stone,Goldenrod,131.9634,8.92,Jabbersphere,58.96,10/13/2013
+582,2350da0a-587e-4807-83c1-d52dd49ac05c,Coffee - Almond Amaretto,55.62,23.25,marble,Maroon,113.0526,9.34,Skilith,946.06,4/24/2000
+583,39065e22-800c-4667-8fc9-4305b90d8d92,Fib N9 - Prague Powder,79.24,85.0,crystal,Blue,128.7232,8.78,Vipe,106.9,4/18/2012
+584,b7695e51-c191-446e-ba11-83ff19ce9eb8,Wine - Dubouef Macon - Villages,87.68,40.17,metal,Turquoise,154.1999,7.11,Bubblemix,576.39,4/26/2001
+585,bcee2e8c-174d-4b9a-ac81-76885bd4d499,"Soup - Campbells, Butternut",12.0,70.04,sand,Green,153.2783,5.9,Kazu,276.58,4/30/2001
+586,77b9edc4-212e-424f-9cac-f4457c8bfbfd,Buffalo - Short Rib Fresh,67.66,72.55,sand,Blue,68.9708,5.48,Cogibox,350.53,12/11/2021
+587,c887fb40-4850-4aa3-893f-d7722fa9ff38,"Oil - Olive, Extra Virgin",71.65,79.21,marble,Khaki,192.8854,9.28,Buzzdog,387.09,12/14/2002
+588,3c5a7f00-d572-4af8-87e4-6f90589d594d,Pop - Club Soda Can,21.35,40.19,fabric,Orange,188.9845,9.94,Voolith,971.29,6/1/2010
+589,b9d31dfc-22a6-43d8-84c9-ca5cadba1310,Campari,32.16,83.09,stone,Blue,151.7904,9.29,Quatz,610.63,4/22/2017
+590,f390348f-c114-468d-9a43-0559a51c06ca,Wine - Periguita Fonseca,71.23,90.65,crystal,Purple,183.1789,9.45,Dynabox,934.83,12/16/2010
+591,5858ad3d-c6f6-46cf-aae6-da45e13d3145,"Pasta - Rotini, Dry",70.45,99.69,metal,Violet,72.5433,9.67,Edgepulse,849.1,1/6/2016
+592,aa6ef7b0-c085-4ef1-b7bb-4ee29a54aea3,Olives - Kalamata,62.08,13.15,marble,Yellow,133.7076,5.32,Babbleblab,117.88,11/9/2021
+593,2f90a9db-495e-49a6-916e-d97c0ebbd302,Pie Shell - 9,49.7,86.93,sand,Purple,148.2231,6.8,Livetube,275.91,9/15/2008
+594,932ee4ef-ee6d-4b2e-94ad-26aaa1065a01,Pork - Hock And Feet Attached,48.83,83.16,metal,Aquamarine,60.6166,5.72,Meevee,767.16,10/20/2003
+595,c31c74a7-d33b-4117-a9f2-7ab47b2bb593,Mortadella,1.88,62.66,glass,Violet,55.208,7.79,Nlounge,85.54,3/30/2017
+596,63f23b70-a842-4aed-a029-f271d7aec81d,"Lemonade - Strawberry, 591 Ml",2.25,48.6,marble,Pink,124.4644,7.71,Jetwire,763.1,2/2/2005
+597,831105f8-9039-45c2-bdec-e938a298e2e0,Ham - Black Forest,6.49,35.53,wood,Aquamarine,30.3635,5.76,Bluezoom,793.96,6/3/2005
+598,a772db5f-552b-4ad1-8aae-7438ae59b478,Pike - Frozen Fillet,95.26,50.97,glass,Yellow,93.7762,7.97,Meembee,65.18,1/11/2021
+599,1dbc2352-b0da-4ac8-9d92-824823a6919d,Pork - Bacon Cooked Slcd,40.36,67.78,glass,Red,17.3226,5.97,Brainbox,190.56,3/4/2012
+600,19ed1ba4-a68f-4fcc-80f2-326dbf79d062,Spinach - Baby,56.31,29.19,sand,Fuscia,123.4602,,Tagfeed,360.59,8/20/2020
+601,ff26e473-eccd-4d39-9b11-14bc536f84f4,Pepper - Gypsy Pepper,92.04,81.82,crystal,Blue,166.7058,5.63,Kazio,916.18,11/6/2007
+602,bd5a7493-4837-44f9-9278-38f15786bcf0,Langers - Ruby Red Grapfruit,35.0,75.71,glass,Turquoise,107.6814,6.98,Quatz,340.11,8/12/2000
+603,014d4ab9-eec0-4f8e-8853-f338bd07c6a6,Tofu - Soft,49.29,52.25,fabric,Mauv,102.3267,7.47,Feedfish,931.63,7/14/2001
+604,bc7d4784-b1d2-4c1c-8e62-9ae25a3d3b4e,Juice - Lemon,17.66,72.97,marble,Crimson,137.5516,5.81,Jatri,316.86,1/23/2015
+605,a5a9a6af-b3fe-4a93-8315-7bfc4e11bfcb,Wine - Sicilia Igt Nero Avola,67.51,10.03,marble,Orange,151.7117,5.73,Photofeed,712.49,6/4/2014
+606,03a268fd-cd14-49bb-bc1b-df3eaf9dd429,Spice - Pepper Portions,20.35,56.09,metal,Blue,42.6743,6.24,Realpoint,95.77,6/20/2009
+607,428472f2-afc9-40bc-86ec-c3b577cbcf2b,Cheese - Wine,27.79,40.83,plastic,Teal,125.6917,8.43,Demizz,537.1,7/22/2003
+608,529b6656-1af5-4aba-99b5-2bdb80395fc7,Sea Urchin,27.15,77.87,plastic,Puce,109.2482,9.19,Zooveo,977.52,6/20/2019
+609,b4ecea3e-4770-4fcb-be25-28b0f407894c,Carbonated Water - Cherry,87.15,60.58,metal,Purple,57.2128,6.52,Fadeo,115.06,6/8/2022
+610,966e37d0-6ca2-4c34-9a1e-44d115b1eeb6,White Fish - Filets,58.39,76.48,glass,Yellow,168.0084,6.56,Wikizz,113.3,3/8/2008
+611,035d71fc-a17e-453f-930b-ac870988d4ec,Cream - 35%,13.8,8.39,fabric,Fuscia,80.1941,9.88,Meevee,288.62,11/14/2008
+612,9ab82226-15ee-48b5-ab4a-a58afd465d24,"Fish - Artic Char, Cold Smoked",70.27,69.14,marble,Maroon,100.7063,8.66,Fivespan,102.66,3/20/2021
+613,5619ed47-b5d0-4f02-8621-6815b1024916,Tomatoes Tear Drop,91.81,61.39,stone,Green,126.5334,10.0,Quamba,482.82,3/10/2007
+614,c84ead27-4e89-4564-9c7a-a8497aa9bf0c,Cheese - Comte,95.08,13.94,crystal,Khaki,82.9412,9.85,Latz,652.2,7/23/2018
+615,d273b8e9-1a0d-40dc-8516-32d415644542,Icecream - Dstk Super Cone,60.38,1.86,plastic,Pink,15.8787,8.22,Oozz,536.95,8/13/2020
+616,36eac010-67db-4805-9b57-6c5bf0161d4d,Chocolate - Milk,4.0,24.78,metal,Pink,76.8438,6.78,Vimbo,176.11,9/20/2019
+617,6a1e5336-6f20-4f01-9b99-60cb5ecba7b5,Duck - Whole,68.02,71.0,plastic,Red,42.4736,6.65,Wordtune,754.88,2/2/2007
+618,3fe5f952-9486-4377-8e99-6e7e617918d1,Pastry - Baked Scones - Mini,26.6,87.23,wood,Crimson,104.8842,9.67,Dablist,365.36,3/13/2016
+619,8ba37b8c-08f2-445c-b758-72afac40833f,"Placemat - Scallop, White",73.39,35.18,plastic,Indigo,159.6206,6.4,Realcube,645.88,6/9/2008
+620,782c87c0-8a87-4f55-b3fe-67c84b0045ca,Bread - Granary Small Pull,88.96,61.65,marble,Aquamarine,120.2211,7.86,Realpoint,501.92,6/23/2017
+621,691504a4-c88b-4fb2-89d7-ec178c6e4d19,Juice - Mango,84.05,72.59,marble,Orange,39.4454,8.75,Kwimbee,649.34,3/9/2013
+622,68527fdd-c255-4584-9f64-450460956b87,Cheese Cheddar Processed,7.69,42.24,metal,Maroon,26.5565,9.37,Voomm,749.75,10/18/2014
+623,8ac6fc6e-9282-43d3-b0a1-cb8be6d6501a,Ham Black Forest,25.61,71.56,marble,Crimson,30.4295,7.81,Riffpath,537.28,1/3/2022
+624,335e9f5b-8caa-4658-8951-82dfe487c900,Beer - Rickards Red,93.76,66.91,metal,Yellow,96.3438,8.56,Devpoint,946.1,11/19/2018
+625,11da4f95-3bf1-4a51-ab87-9f147bbd00fc,Russian Prince,1.58,69.43,plastic,Pink,15.0689,9.55,Oyope,65.74,8/11/2008
+626,b43e5e49-68e4-4d16-b1b2-f3daa6ae24ef,"7up Diet, 355 Ml",8.21,24.59,plastic,Mauv,26.5381,9.72,Trilith,743.45,3/15/2003
+627,83cd05ef-bb19-44b1-be1d-0c40329df821,Versatainer Nc - 9388,51.69,44.46,stone,Puce,71.6614,6.17,Dynava,327.12,9/17/2012
+628,8752aec3-c7c9-47de-9bd6-2144cb720fa7,Cheese - Colby,16.4,99.95,sand,Crimson,96.7663,8.01,Zoomzone,526.32,1/29/2003
+629,a961e4c1-a992-43d9-a5c4-03b4e8f72904,Chives - Fresh,24.05,14.97,stone,Pink,36.5485,8.42,Oyoloo,706.2,10/18/2019
+630,0bffb4dd-5420-4c9f-bddb-18268fdff419,Venison - Ground,81.01,67.89,metal,Mauv,99.9641,6.74,Jaxnation,129.79,9/22/2015
+631,23a0a295-08e4-4243-bb7c-031e407b591e,"Bread - Bagels, Plain",13.9,83.51,plastic,Puce,181.8689,5.97,Oodoo,932.39,6/6/2005
+632,88e1fc6a-fba1-4e7c-a5c4-284ba7290ac9,Noodles - Steamed Chow Mein,49.76,13.41,fabric,Orange,199.9482,7.4,Agivu,212.35,6/24/2007
+633,daa6a38f-4c0e-4f2b-91e7-8f7dbb57a986,"Club Soda - Schweppes, 355 Ml",81.85,53.72,plastic,Aquamarine,103.4404,6.99,Devify,322.36,3/7/2017
+634,f156b698-1351-4664-9d77-f95e9af1b413,"Bread - Multigrain, Loaf",73.93,49.58,sand,Mauv,85.6744,5.96,Youspan,271.73,11/7/2006
+635,a7968d54-cc82-4d65-b142-2ec5b48c65e4,Pork - Bones,4.92,87.0,sand,Purple,14.1454,6.42,Roomm,63.56,7/4/2002
+636,f1976f9d-e63a-43c8-ad4c-234a84af3ccd,"Soda Water - Club Soda, 355 Ml",30.1,63.02,marble,Aquamarine,68.9888,6.65,Dynabox,235.27,8/10/2017
+637,940b2fee-7ec7-4fe7-b81f-e8797eb1f45c,Trueblue - Blueberry,21.7,3.0,fabric,Crimson,48.4498,7.46,Innojam,140.88,11/23/2022
+638,73700c7e-c5bd-43cd-9806-c5825f031fa3,"Wine - Harrow Estates, Vidal",28.81,18.44,fabric,Pink,166.1708,9.29,Skivee,980.01,12/20/2003
+639,79c364f4-4e57-4a27-aea9-015cd6ab53e2,Yogurt - French Vanilla,69.38,30.36,glass,Crimson,185.1371,,Blognation,467.67,7/16/2004
+640,e0bcb235-5a2a-4206-8084-1cdb1d9e4b63,Mahi Mahi,45.36,29.72,glass,Mauv,96.3809,7.14,Browsezoom,12.85,4/1/2011
+641,bf5399bd-bc80-4882-81c4-8adfba835c30,Pails With Lids,51.33,83.42,plastic,Aquamarine,180.2323,7.6,Dabtype,549.0,1/18/2022
+642,0596e276-af8c-46c8-93ec-f2588c8701fd,Snapple Lemon Tea,50.0,96.18,fabric,Maroon,178.7635,,Cogilith,742.04,5/7/2019
+643,ca31f9dd-3254-4195-ad3d-f119103dd26a,Anchovy Fillets,21.98,30.24,stone,Green,63.906,8.76,Voonyx,857.83,12/31/2013
+644,8d4fa90d-f76f-49aa-b609-c6b9275e3a4e,Strawberries - California,82.97,58.48,wood,Crimson,40.6637,7.59,Thoughtworks,822.84,10/21/2008
+645,e5f9d3be-1eb8-408b-a3a2-66ae8fcdf34c,Liners - Baking Cups,94.78,75.8,stone,Yellow,180.2406,9.93,InnoZ,791.37,3/11/2004
+646,508dd7e5-1579-45f2-bb5b-7dcce52b217f,Beets - Mini Golden,42.29,37.87,crystal,Red,26.6025,9.69,Twitterbridge,27.22,10/3/2022
+647,f1554a5f-89b6-4311-9655-a046b8389a22,Madeira,96.05,15.73,sand,Purple,79.5128,8.02,DabZ,964.26,11/25/2004
+648,0d05c9b2-ee96-4ee3-a6c4-9c6200996238,Pernod,63.81,10.92,marble,Pink,66.1149,8.79,Jabberbean,299.54,11/12/2018
+649,a073246e-85f9-482e-b52a-ab5917a18230,Island Oasis - Ice Cream Mix,92.84,69.71,metal,Maroon,64.8497,5.43,Thoughtstorm,378.29,5/3/2012
+650,a9c815db-fbfd-44f8-8548-babd7ed2871d,Mikes Hard Lemonade,2.71,3.55,marble,Blue,89.4887,8.02,Blogtags,810.34,3/21/2001
+651,50836a4d-d9a5-4aa0-b538-e5d7ac643a1a,Olives - Morracan Dired,24.5,53.74,wood,Teal,106.1278,7.09,Aibox,733.36,6/15/2019
+652,d21a6d85-a0de-40ae-a56c-e51fccf53c77,Chutney Sauce,94.21,20.85,glass,Indigo,45.5864,9.86,Photobug,164.16,7/14/2004
+653,7eaae36d-e70e-436b-8640-25e8520aca3f,Chocolate Bar - Reese Pieces,65.33,94.31,glass,Goldenrod,116.8058,5.35,Livefish,77.58,1/1/2007
+654,0d64b54b-c69b-43f8-b2d5-ccbac815eef3,Lamb - Bones,23.76,73.35,crystal,Green,140.5006,7.26,Zoomcast,796.42,7/12/2011
+655,0b70b296-1c2b-4409-ae11-e67f33707d46,Cake - Dulce De Leche,68.45,90.73,marble,Orange,85.8038,7.78,Devpulse,845.3,12/13/2019
+656,cc4c4664-2ef2-4c2c-b9ac-72b5446621ef,"Nut - Pecan, Halves",62.09,50.65,metal,Indigo,83.4733,9.12,Mita,59.35,9/30/2006
+657,09f10c53-f967-41d4-8f0e-fb35ee47c894,Coffee - French Vanilla Frothy,72.34,40.9,sand,Puce,177.3061,6.66,Demimbu,954.48,12/28/2016
+658,b9a5572f-6370-49f8-b421-849c3664fc91,Cheese - Valancey,48.81,23.25,metal,Mauv,135.7603,6.1,Centimia,995.86,2/8/2019
+659,9f537369-4c42-4fbb-87c7-7e94f4d6c3fb,Food Colouring - Red,35.1,25.7,metal,Khaki,65.6267,7.76,Brightbean,107.38,11/2/2010
+660,f6b06aa4-fa4f-4e1a-b2e2-ee4d68c8b799,Langers - Ruby Red Grapfruit,79.56,54.15,stone,Crimson,123.4357,5.71,Izio,785.85,8/24/2018
+661,83859cf7-ebf6-4f08-a349-643e56e0d791,"Potatoes - Yukon Gold, 80 Ct",33.65,30.83,marble,Red,124.056,8.72,Wikido,714.47,2/3/2005
+662,2740b56c-1789-4ad5-b1c2-6a811ae105bb,"Pepper - Paprika, Spanish",22.01,17.04,sand,Mauv,42.6825,,Dabfeed,240.62,6/15/2011
+663,25afa825-9919-41db-969e-8f764e856cd4,Veal Inside - Provimi,46.68,73.09,sand,Puce,145.8589,8.19,Linktype,445.03,2/7/2000
+664,587391e8-3955-49cf-b164-8a25805e411f,Island Oasis - Wildberry,32.22,61.59,metal,Crimson,109.8473,5.79,Trunyx,238.81,7/26/2015
+665,f8b93ca5-f6c5-41e2-a319-8e6dfe0487d5,Lid Tray - 16in Dome,28.77,10.32,marble,Goldenrod,66.9486,9.07,Oozz,690.96,3/12/2011
+666,844c52c6-6b9d-4cd5-ba5b-343d24fb0167,Lid Tray - 16in Dome,46.96,28.84,crystal,Goldenrod,183.5029,5.42,Skidoo,268.37,2/6/2021
+667,a41bd700-6ffa-4d5f-ace9-66bded4ae14d,Venison - Striploin,80.68,86.39,stone,Red,16.8118,9.41,Feedbug,615.66,11/15/2019
+668,155ac18e-d3d0-4ff8-b7d2-d1f97dab9e23,Pastry - Butterscotch Baked,53.37,79.07,fabric,Crimson,76.8985,9.98,Yakidoo,370.92,1/27/2018
+669,6f920223-2621-49bd-81b2-39af75f17207,Mix - Cocktail Strawberry Daiquiri,6.72,73.17,metal,Indigo,166.1,9.01,Topicblab,646.38,5/23/2017
+670,1cdb89ed-1862-4e4e-9e61-7f3bf36eca68,"Cherries - Bing, Canned",7.87,55.76,crystal,Yellow,83.6965,9.0,Camido,802.18,10/4/2012
+671,473a6b96-b371-4e5f-8a39-bc45a5195b2a,Appetizer - Chicken Satay,14.76,39.43,glass,Aquamarine,82.557,9.78,Skaboo,984.09,4/10/2010
+672,0881b337-d632-4f12-8e28-a6523d437664,Ice Cream Bar - Oreo Sandwich,84.9,6.51,fabric,Maroon,113.3818,8.87,Brainlounge,203.04,8/29/2014
+673,937b1bf1-e657-4733-939b-029f1e9a6e3c,Grapes - Green,41.0,59.2,crystal,Crimson,196.9206,9.56,Snaptags,795.36,12/16/2005
+674,2b69d429-9e4b-4373-8180-6503b9f5965c,Cheese - Mozzarella,15.72,90.81,stone,Goldenrod,79.1957,8.59,Oodoo,657.85,5/29/2006
+675,cb10017a-17d8-4cf6-8bc6-94d73a6d86fb,Kellogs Special K Cereal,21.63,60.9,glass,Mauv,182.4691,9.36,Flashpoint,658.32,10/18/2007
+676,ea3e0d33-9a06-42dd-9ff7-af73052b6442,Orange - Blood,36.18,25.07,metal,Turquoise,111.141,9.09,Edgeify,167.3,3/7/2009
+677,d73d4cc2-736a-4244-93e3-6d1cd52ca063,Lamb Rack Frenched Australian,88.93,89.17,glass,Fuscia,149.5222,8.59,Thoughtmix,976.42,5/31/2002
+678,b2784b1c-cdf9-4158-bcb6-0fe8a9f33902,Sausage - Andouille,85.48,1.39,marble,Purple,120.1293,6.47,Zoombox,930.67,5/14/2006
+679,13b9bba7-1412-4f4e-84b8-47f157ef291f,Veal - Eye Of Round,64.5,78.91,marble,Maroon,179.0405,9.81,Avamm,172.58,12/22/2007
+680,46908f8e-23b8-46d3-94a0-77acc564ebcc,Creamers - 10%,26.33,75.1,glass,Maroon,12.368,5.29,Jetpulse,60.94,8/30/2007
+681,c5a6602b-d542-4543-b1d1-baadaafdcb1e,Bread - White Mini Epi,96.42,98.87,stone,Green,95.6955,5.12,Flashspan,843.41,4/14/2015
+682,851fa274-0a9e-4fb5-8c2a-491aad1347db,Water - San Pellegrino,42.09,83.95,stone,Pink,82.2315,8.43,Tambee,694.55,4/4/2011
+683,a57587e7-c4b6-4d39-8bca-a952731b19f3,Pepper - Red Chili,99.17,87.43,marble,Mauv,150.6313,5.43,Yoveo,740.17,9/12/2015
+684,e96cf1ec-33b0-475e-aa92-f9a70cdae3df,Barley - Pearl,35.22,3.15,wood,Goldenrod,120.4616,9.55,Viva,580.09,8/13/2016
+685,2b00f544-1259-4f5e-86d6-a361628f4bbe,Veal Inside - Provimi,33.51,96.53,glass,Khaki,195.0578,9.88,Yotz,794.42,6/20/2010
+686,a37b3f36-b1f7-433b-b2e7-360f88b83fbb,Creme De Cacao White,62.05,28.11,glass,Crimson,49.7702,,Realcube,643.98,4/9/2015
+687,4c398112-1257-4897-a929-296250af76aa,Vinegar - Cider,86.08,38.8,glass,Red,187.0681,5.28,Babbleset,526.81,12/20/2005
+688,84bc7130-b311-403c-8516-4caf50ffc8fd,Wine - Pinot Noir Latour,11.73,71.64,wood,Violet,153.3452,5.23,Blogpad,464.72,11/7/2014
+689,f520807a-55d3-45e6-8647-b7b15db7b59c,Cilantro / Coriander - Fresh,86.06,72.99,wood,Maroon,140.1733,7.02,Trunyx,48.6,1/24/2007
+690,5736c50e-5a19-4453-8e2b-43a7f8c90836,Beer - True North Lager,86.2,77.71,fabric,Aquamarine,78.0772,7.04,Eimbee,439.64,4/11/2009
+691,be7e9e0b-28e4-4217-b875-9559e28f9298,Apples - Spartan,72.31,77.0,crystal,Yellow,117.8828,6.13,Yacero,761.27,5/12/2008
+692,cf2da6a3-933f-48ab-b553-f8c5a72568fd,Banana - Green,20.25,29.55,sand,Goldenrod,81.3645,6.95,Vinder,56.02,11/27/2009
+693,37764c3f-3181-4447-a060-b4027803f6ee,Wine - Casillero Del Diablo,47.98,28.32,fabric,Goldenrod,63.0634,5.58,Meezzy,969.9,7/28/2018
+694,b90a0175-2cad-4276-974a-5c6c03646b20,Filo Dough,15.36,25.15,marble,Aquamarine,84.6984,8.51,Wordify,207.96,5/15/2018
+695,8d2b1ea2-33a9-49db-a6e5-ef7a237bf9f9,Bread - Kimel Stick Poly,41.73,1.55,glass,Goldenrod,56.2921,9.16,Shuffledrive,602.44,3/20/2001
+696,011c1faa-944a-4adb-ba71-7e60635b777a,Blueberries,14.91,3.47,marble,Violet,47.3557,6.41,Voonyx,302.21,11/20/2012
+697,384f6c1e-16c3-4f21-b366-62a0c6c7b59c,Pastry - Raisin Muffin - Mini,94.7,49.43,glass,Aquamarine,138.7732,6.6,Janyx,483.81,9/27/2000
+698,c19561dd-c047-460a-a340-3bef46131c93,Beef - Inside Round,52.68,72.7,stone,Crimson,189.9756,8.02,Meedoo,521.76,6/22/2012
+699,c4e09f29-1ff8-4f9a-99d5-fb453a4a9963,Mackerel Whole Fresh,27.53,8.91,wood,Puce,117.5542,7.14,Tagfeed,922.83,10/26/2015
+700,70d48a17-6b8a-473f-a70a-b253fdd1efcf,Cheese Cloth,19.1,70.1,plastic,Green,33.4043,8.1,Yadel,204.23,11/5/2013
+701,2b8ed022-709e-482b-81e3-331de1a1ac40,Pepper - Cubanelle,6.21,45.65,plastic,Orange,163.1503,8.89,Babbleopia,241.4,3/14/2010
+702,043bae4e-1ee2-467b-b696-2227270b0b96,Fenngreek Seed,14.78,74.2,stone,Purple,46.6586,5.21,Mudo,512.93,8/20/2022
+703,937f34ef-b670-4802-ac2d-6057e0852983,Chick Peas - Dried,63.25,41.94,fabric,Purple,199.753,7.2,Vimbo,985.94,5/6/2012
+704,9bb747e6-e387-471a-8503-33f02c652efe,"Nut - Pecan, Halves",85.65,36.33,marble,Pink,121.2221,7.42,Oloo,577.41,2/19/2021
+705,561b3a99-06f5-4006-aed8-78fe4587d1ed,Juice - Orange 1.89l,4.11,33.88,metal,Mauv,63.3873,5.04,Teklist,5.07,3/22/2003
+706,181ae385-481a-4245-9921-872ac42cb991,Dill Weed - Dry,30.0,94.64,sand,Turquoise,27.6538,7.17,Skiba,621.56,7/20/2018
+707,6c253481-dd1e-4a18-89bc-82bf6d6e9128,Coffee Swiss Choc Almond,22.2,4.44,plastic,Red,31.3992,7.8,Thoughtmix,423.45,4/15/2008
+708,a16b3ad4-f35e-4851-a3d3-fbcd4ea91c71,"Wine - White, Riesling, Henry Of",71.92,85.67,crystal,Khaki,99.065,7.74,Fadeo,821.68,6/7/2002
+709,d547cfc2-92a7-48bb-8f79-f88c33b5581c,"Rum - Cream, Amarula",67.92,78.9,fabric,Teal,83.4602,,Buzzshare,200.61,8/19/2009
+710,7662c1b3-d98b-4397-a5fc-92ec7e03804b,Urban Zen Drinks,41.31,88.0,sand,Aquamarine,152.8667,,Topicshots,925.55,7/5/2013
+711,548e82ba-8f62-45a3-b0a9-aa36f430d02e,"Soup - Knorr, Ministrone",89.7,48.71,wood,Red,98.8532,6.11,Zooxo,278.82,9/29/2003
+712,54dd49ee-024f-4967-8e78-f5d620eb100d,Banana - Green,72.3,4.38,glass,Blue,75.9277,5.15,Cogilith,722.35,5/12/2014
+713,ccec1f1b-1859-4fcc-8b67-0d934fca975c,"Sugar - Sweet N Low, Individual",19.17,47.38,crystal,Green,39.523,8.58,Youfeed,915.16,12/13/2003
+714,e08081df-6f10-49e2-8510-471327646bc5,"Apple - Delicious, Red",75.49,8.58,stone,Mauv,116.2178,7.36,Muxo,584.57,7/31/2000
+715,ed2fd9cf-6f9d-49a7-8f27-f479f87bdbc4,Oil - Macadamia,97.81,23.87,plastic,Aquamarine,60.9504,7.48,Edgetag,817.02,9/22/2014
+716,95941194-3e0b-4992-9d2e-b7e9c455e592,Fruit Mix - Light,83.28,60.1,plastic,Pink,16.3083,9.9,Vinder,328.07,5/1/2018
+717,7261fe59-0753-49a0-92a3-71318f670bb7,Flavouring - Orange,68.37,32.66,wood,Mauv,60.8922,9.37,Kwilith,62.07,2/4/2017
+718,c3238829-35bb-4ee7-aea5-85795f352f91,"Mushroom - Porcini, Dry",92.18,43.26,glass,Teal,151.3046,5.61,Tanoodle,703.32,4/13/2000
+719,10a76f42-aaa5-4682-8571-2742e96eb16a,Curry Powder Madras,16.53,57.19,sand,Turquoise,94.3867,6.52,Blogtags,42.63,11/17/2000
+720,40cc730e-ce12-4293-852b-ba57d8c783da,Steel Wool,67.25,40.51,plastic,Aquamarine,99.2277,,Yabox,187.23,11/4/2011
+721,5a48caef-3de6-4dff-95cd-1fdb790b9a8c,Wine - Sogrape Mateus Rose,80.14,31.33,stone,Violet,81.2961,6.6,Eimbee,660.72,5/28/2021
+722,4fd63794-c5db-42bd-ab7d-690767405c77,Soap - Mr.clean Floor Soap,11.43,81.2,wood,Fuscia,149.5589,7.83,Gigashots,920.7,12/18/2006
+723,5164ace2-52d9-48ce-8f2e-33d58f5b9949,Molasses - Fancy,15.47,18.67,glass,Teal,135.2267,8.26,Edgepulse,550.76,1/20/2016
+724,0ca033cb-ab8f-4e4f-a2a5-6fff821a6d4d,Curry Paste - Green Masala,96.44,89.36,plastic,Teal,90.6968,6.32,Eazzy,413.85,7/23/2003
+725,83dea93e-cc7b-48f6-b92a-2185d001e579,Sauce - Vodka Blush,63.64,10.66,crystal,Orange,127.1986,9.46,Oyoloo,554.09,12/27/2008
+726,a1734864-970b-4dc1-ad63-c199f5088eb9,Cheese - Pied De Vents,30.7,97.08,marble,Purple,188.5003,5.73,Wordtune,377.04,11/23/2008
+727,81320bc9-c9fc-43d8-95af-be1e672f75d4,Island Oasis - Raspberry,20.26,85.62,fabric,Orange,164.2999,5.06,Oyonder,627.18,10/15/2001
+728,a817aea0-6e84-4e8b-821d-4e908cb7d386,Chips - Miss Vickies,69.24,76.99,wood,Pink,86.696,,Livetube,480.58,6/3/2017
+729,3ca13968-8eec-4c9a-b80a-553b264751d2,"Yogurt - Raspberry, 175 Gr",88.77,30.85,sand,Pink,113.7403,9.47,Oloo,952.61,4/28/2000
+730,02fbf594-59b2-4c57-9e83-0cffd1c0ba1a,Flour Dark Rye,94.47,60.21,stone,Aquamarine,22.0169,8.83,Vimbo,947.71,7/31/2000
+731,b9465c36-fc7d-4070-ac6e-347d912a1ca6,Edible Flower - Mixed,55.13,58.4,stone,Aquamarine,86.1777,,Feedspan,244.99,12/11/2020
+732,8d2869b6-8b0c-4196-a135-23a9fee53741,Calypso - Pineapple Passion,89.23,36.2,crystal,Violet,104.3092,9.23,Brainverse,167.06,7/19/2019
+733,9b172273-2c8d-4e15-9a6e-1b24f07e3139,Salmon Steak - Cohoe 6 Oz,48.4,17.78,crystal,Green,189.4954,8.73,Zoovu,160.46,12/16/2006
+734,69975d2c-7a12-4bbf-ad1c-1f669ea553b8,"Nut - Pecan, Halves",32.95,91.03,sand,Turquoise,26.3199,9.89,Yombu,985.56,2/20/2018
+735,d8e5d1f2-45b9-4e31-a805-44b310418c6f,"Soup - Knorr, Country Bean",87.87,14.67,plastic,Crimson,45.8572,7.91,Photospace,819.62,6/20/2016
+736,1a1fffbb-68e4-41c9-a77d-b05e561e4b33,Pork - Shoulder,93.19,42.3,stone,Orange,50.0723,7.6,Minyx,120.26,1/3/2010
+737,170f13b6-887f-4d31-99cc-dbed69f9b387,Pastry - Baked Scones - Mini,18.26,15.68,wood,Puce,144.5505,7.03,Flashdog,146.66,11/28/2021
+738,cc06b5e1-0e0e-405d-b283-545b29a48ce2,Sauce - Caesar Dressing,39.98,26.65,plastic,Orange,70.1064,9.43,Topicblab,619.83,10/5/2008
+739,b62987ab-6d65-4a7f-b5ae-8a0e7741cc98,Yogurt - French Vanilla,6.29,70.45,plastic,Aquamarine,85.1228,5.67,Jazzy,685.74,3/21/2003
+740,500795f1-470a-447b-ae0f-912113bdfd45,Ham - Proscuitto,55.71,83.58,crystal,Blue,139.3873,7.44,Shufflebeat,136.38,8/28/2009
+741,f077cb72-624a-48c5-bad4-ff7c12786de7,Longos - Grilled Salmon With Bbq,68.21,78.41,wood,Puce,128.4134,7.04,Bubblemix,451.48,5/2/2017
+742,f1095d32-00df-47a6-9e8d-4d830d18effd,Turkey Leg With Drum And Thigh,79.49,23.09,crystal,Fuscia,26.9837,5.84,Vinder,593.4,10/27/2020
+743,efe9712b-7209-4192-bfc1-be60fc39fe26,Cheese - Colby,19.7,17.12,crystal,Pink,134.1993,7.25,Snaptags,153.55,2/14/2010
+744,9238ad97-3396-403a-af46-c3b211a6ce31,Irish Cream - Butterscotch,3.81,13.84,fabric,Puce,34.7883,8.18,Yoveo,679.74,12/21/2020
+745,2493014c-44e3-4916-8f59-81da9900cd48,Bread - Raisin Walnut Pull,50.66,77.09,sand,Fuscia,185.9895,6.3,Meetz,375.66,9/1/2020
+746,71c41ee5-abe0-4fb2-9a00-5c175b9bcbe9,Pastry - Raisin Muffin - Mini,69.5,88.62,marble,Pink,95.0054,9.15,Quire,915.92,1/16/2002
+747,6379f929-ef1d-45b6-be07-09cf5f7a55be,"Chilli Paste, Hot Sambal Oelek",83.35,64.31,metal,Blue,121.4524,,Twitterwire,664.86,9/1/2000
+748,a37a3f40-f233-4eb3-8119-035210bc32ab,Rice - Jasmine Sented,49.56,7.7,fabric,Mauv,106.5161,8.04,Jabbersphere,291.85,12/6/2003
+749,e679e284-6a8e-4638-81d9-fe89dc336ea9,Bread Base - Gold Formel,24.86,37.4,glass,Turquoise,140.2734,6.58,Fadeo,615.93,3/14/2005
+750,1b24dd56-f42e-4fa3-bbd8-1df3a295d461,"Trout - Rainbow, Fresh",85.74,33.01,wood,Blue,93.948,6.59,Mynte,240.61,3/26/2020
+751,eea27137-50a9-4e0f-8f93-563481b96da5,Trout Rainbow Whole,39.98,31.28,marble,Blue,53.6814,6.81,Skimia,525.02,11/14/2001
+752,45d1bd82-6a88-4411-8490-225c250799d5,Daves Island Stinger,81.59,56.06,glass,Teal,175.0973,9.96,Realcube,975.75,5/27/2006
+753,e0c54f10-7107-47c0-b954-60f707bf282c,Mayonnaise,91.2,48.54,plastic,Goldenrod,37.9492,9.53,Gabvine,613.18,6/20/2020
+754,caf9aff8-64c7-4c5c-a7f3-9a1f0d96c310,Duck - Breast,3.75,82.02,stone,Pink,165.2897,9.48,Rhynyx,231.14,7/2/2019
+755,17224345-2aac-466b-820d-3e3c56da2279,Wine - George Duboeuf Rose,29.88,1.68,crystal,Purple,152.8013,6.88,Blogpad,414.94,10/19/2003
+756,ee95e2e6-b66a-495e-b234-72ceaf273161,Cookies - Englishbay Chochip,55.36,24.23,metal,Purple,12.2573,6.5,Shuffledrive,212.32,5/18/2009
+757,2073b033-4291-420c-affc-4f92788fefc8,"Orange - Canned, Mandarin",89.07,77.27,plastic,Puce,107.2443,6.84,Leenti,210.53,6/25/2022
+758,5860eb80-b995-4318-927c-77fc4e9adbf0,Wine - Rioja Campo Viejo,71.16,3.12,glass,Khaki,176.763,9.55,Avamba,2.44,2/11/2011
+759,68a36c36-a40e-4e2c-9d8a-4f0f9ffbf684,Phyllo Dough,67.71,2.14,wood,Violet,186.6097,9.56,Thoughtsphere,383.36,9/28/2000
+760,ceabc1f4-6cfa-48f2-a770-4e26b3600989,"Vermouth - Sweet, Cinzano",8.63,43.37,crystal,Blue,179.3091,6.21,Oba,958.25,7/21/2006
+761,1a41d64e-2869-4072-af15-221be67891e6,Goat - Leg,19.04,45.86,wood,Mauv,126.4436,7.95,Skipstorm,951.55,6/19/2010
+762,91fcc75a-3369-46b3-88b0-d5ecf7e370b7,Dried Cherries,76.39,77.39,metal,Red,50.3791,9.77,Zoombox,439.36,8/4/2006
+763,0c798f10-954b-4c5d-9c00-2696c9525b94,Wonton Wrappers,37.97,91.2,marble,Orange,125.4301,7.53,Buzzdog,438.84,8/17/2002
+764,a46053fd-9d68-4316-83f2-f6e5feb2879b,Squash - Pepper,99.42,52.31,crystal,Goldenrod,97.3687,7.53,Innojam,574.13,3/18/2014
+765,2ff2192c-7985-4e76-addf-61b8ae85cabe,Cocoa Feuilletine,43.6,88.77,metal,Violet,129.0351,8.74,Midel,384.01,2/13/2016
+766,55d8a920-20d5-41f6-b172-1fac4c18cbde,Loquat,15.04,93.89,glass,Pink,122.8473,8.96,Katz,835.13,3/13/2012
+767,41a8a261-7158-4436-afb6-f5387f566b54,Wine - Fume Blanc Fetzer,28.91,54.26,marble,Pink,139.3663,6.41,Quatz,178.29,6/11/2004
+768,0513d142-f8c0-4788-9f7b-08e71f5c5b8d,Oil - Sesame,41.16,6.8,marble,Fuscia,29.1411,6.5,Oba,803.82,5/25/2012
+769,34bc172c-2a1d-4991-b469-65a27fce5bda,Chips Potato Reg 43g,84.41,27.95,sand,Maroon,53.5492,7.4,Zoonder,371.79,1/30/2000
+770,d7efedde-82bb-4468-9b90-c2bf00343987,Tea - Green,32.17,34.55,fabric,Mauv,28.9775,7.58,DabZ,716.96,6/12/2017
+771,d910d40c-ec87-4c0b-bcf4-8b65b9b053ff,Veal - Inside,72.1,30.94,glass,Crimson,24.9921,6.25,Feedspan,950.97,2/16/2015
+772,efb82d69-73bc-4438-be8d-d811b5d84873,"Corn - Cream, Canned",61.67,71.27,metal,Pink,197.9603,9.61,Innojam,793.16,9/19/2022
+773,21ff6171-44c7-4b37-9e49-84a0730c5027,Appetizer - Smoked Salmon / Dill,69.84,66.88,sand,Khaki,48.4422,5.56,Devpulse,664.64,6/24/2003
+774,d3a1f0d1-c198-403e-89f9-5e78c44f8571,"Doilies - 8, Paper",49.7,11.01,metal,Violet,64.4825,9.01,Tekfly,746.96,9/20/2011
+775,6b79d0cb-e548-4718-84d5-0209b2d95e76,"Wine - Sherry Dry Sack, William",55.57,56.93,sand,Purple,157.0404,9.87,Yodoo,548.92,9/7/2012
+776,cc30c234-a763-4a6a-8693-6f23e79a7225,Duck - Whole,66.7,23.38,plastic,Indigo,42.9596,8.79,Topiczoom,636.07,2/26/2013
+777,26249795-7ea5-44ca-a14b-79524d460314,Seaweed Green Sheets,89.0,20.24,plastic,Khaki,160.6465,7.85,Yakitri,100.34,4/27/2018
+778,6364c140-081b-49be-8950-81c59d387d4e,Energy Drink - Franks Pineapple,15.35,50.1,marble,Mauv,61.3783,,Brightdog,699.94,8/20/2003
+779,8d020c1b-05eb-4c37-b535-c13d8defe2ad,Beef - Montreal Smoked Brisket,65.43,28.33,marble,Goldenrod,74.4033,6.91,Twinte,626.53,10/16/2007
+780,73c4ed93-7a9a-47c0-8168-b2f3812666e1,"Pasta - Lasagna Noodle, Frozen",93.33,77.66,sand,Purple,28.649,7.5,Realcube,110.74,4/30/2009
+781,66f33edb-6bad-4e95-8768-81dadde6057b,Chips - Potato Jalapeno,65.56,59.53,glass,Yellow,81.1864,,Chatterbridge,12.19,4/30/2019
+782,4df52cb2-7170-48f2-9fdd-6920b1fd5b34,"Cod - Salted, Boneless",12.74,60.41,plastic,Goldenrod,64.9801,8.45,Youtags,356.92,9/18/2019
+783,8e8feeb6-5926-4d1a-a94a-ebc686bbcb94,Dooleys Toffee,51.14,2.96,fabric,Green,186.109,8.36,Edgeify,488.6,1/13/2022
+784,8238381a-b51f-4bce-a5e6-e08b7572a9f2,"Pasta - Detalini, White, Fresh",4.42,59.6,sand,Crimson,33.3387,6.31,Digitube,746.6,5/5/2015
+785,335d3b00-1dc8-4220-9261-baa43056b364,Lid Tray - 16in Dome,60.3,89.85,metal,Red,192.1859,6.94,Thoughtsphere,173.36,6/20/2012
+786,06de3132-b2c3-42e7-9366-57a9fb0bcac7,Cookies Almond Hazelnut,95.73,48.01,glass,Puce,97.5872,5.19,Rhynyx,953.1,7/27/2018
+787,b7065790-c8b1-4167-914a-4bc8e0648211,Veal - Insides Provini,98.83,58.86,sand,Khaki,175.9979,7.14,Mudo,231.48,7/3/2014
+788,1d825b1e-b3ac-48aa-aae0-f29bbfbedf06,"Radish - Black, Winter, Organic",97.4,96.35,sand,Purple,134.7088,7.36,Twinte,219.03,5/2/2009
+789,454c53cc-7130-4cc9-9f21-7f0e35a08af7,"Lid - Translucent, 3.5 And 6 Oz",66.76,36.62,metal,Aquamarine,77.3764,5.9,Oodoo,22.55,7/13/2014
+790,da8b80eb-8d53-4285-aadf-19830e8d0503,Tequila Rose Cream Liquor,70.26,81.67,glass,Teal,36.0155,5.32,Katz,91.9,10/4/2021
+791,67b35c05-1635-4ab1-bb8d-8ab92f07892f,Tarts Assorted,20.45,62.16,metal,Aquamarine,111.9509,7.37,Avaveo,186.96,3/10/2009
+792,6fbb5454-7723-49d7-ac52-1d3f38099ed7,Ecolab Silver Fusion,75.04,38.83,sand,Purple,112.7971,8.17,Flipstorm,138.23,10/9/2004
+793,d81e94bf-41f1-42eb-9f87-ebfc1d49656c,Cheese - Perron Cheddar,45.93,73.33,glass,Violet,139.2905,5.97,Devify,89.53,10/8/2014
+794,4505917c-facd-4cbc-96d6-2b97c177bcd9,Muffin Batt - Carrot Spice,8.69,90.45,metal,Fuscia,71.5946,7.44,Mynte,397.43,7/11/2015
+795,b99ceea5-01ab-4c7d-918f-2943c35808a6,"Nut - Chestnuts, Whole",85.61,30.89,wood,Yellow,29.5324,8.74,Feednation,763.9,5/15/2003
+796,5e15f38a-8208-4646-9126-180bb289238b,"Beans - Turtle, Black, Dry",58.1,65.56,marble,Goldenrod,45.1023,9.32,Skyndu,636.69,2/19/2010
+797,785c758e-7720-4a1e-b6e1-4a55ca769e92,Squash - Pepper,87.21,39.79,plastic,Yellow,28.4133,9.65,Zooxo,727.63,7/3/2004
+798,7636f2d5-2082-4503-b36f-b6c418bf3de0,Mushroom - King Eryingii,91.11,25.18,wood,Orange,91.9955,7.16,Yotz,704.74,1/30/2006
+799,08329266-4002-4442-9d1b-f92e1f643d93,Bread Base - Toscano,48.69,75.41,marble,Orange,88.6654,8.09,Linkbuzz,423.53,10/28/2015
+800,793a48ba-3aa2-4741-9b37-dea101c59f6b,Flower - Commercial Bronze,57.9,40.26,plastic,Red,80.3144,9.87,Jetpulse,396.9,1/16/2011
+801,5cb8f4d9-43ce-4b5e-adc4-f123af20efff,Sour Puss Raspberry,48.14,29.13,stone,Crimson,173.1854,6.32,Devpulse,36.86,7/31/2002
+802,10fc4f0c-dcf8-4ea2-baba-bb3b8239796e,Curry Paste - Green Masala,55.29,70.33,plastic,Blue,169.977,5.23,Innotype,32.97,5/2/2010
+803,8a991197-94c7-41c1-bd32-633f0d314016,Wine - Jafflin Bourgongone,56.15,71.73,wood,Mauv,125.9925,6.39,Livetube,238.18,8/29/2016
+804,74b277ee-60aa-4cee-a73b-d33c9931f8fc,"Coconut - Creamed, Pure",29.91,49.16,marble,Mauv,195.5755,7.17,Eimbee,153.33,5/29/2018
+805,e3019781-1637-4185-8e61-be26bb0b04d4,Wine - Soave Folonari,18.94,47.45,crystal,Puce,86.3568,7.56,Zoombox,251.97,3/25/2012
+806,a8abccbf-4ef4-4111-abb5-07472e101e0e,Wakami Seaweed,91.24,94.81,wood,Green,118.2453,6.98,Babblestorm,120.54,2/4/2013
+807,cc0ada4b-b4f9-42b8-a922-9cc0a622ba7e,Wine - Riesling Dr. Pauly,29.82,67.19,crystal,Fuscia,37.9211,8.44,Fiveclub,455.63,3/21/2014
+808,0925c3b9-3606-41d5-ae76-013680d73f28,Bag Stand,45.28,74.09,crystal,Pink,123.391,6.65,Latz,469.11,10/14/2015
+809,c5dc4873-818f-4bb5-9010-e1df492892bb,"Flour - Buckwheat, Dark",32.72,23.38,glass,Khaki,107.4813,,Browsebug,966.06,5/1/2007
+810,0b0a17f4-7de7-4090-b6ab-748d69662b3f,"Juice - Apple, 500 Ml",70.03,34.2,stone,Mauv,35.7804,6.85,Eabox,696.5,10/16/2010
+811,6a5197b7-f9db-4eda-bb5d-6808d0bcd272,Flour - Rye,87.07,23.01,crystal,Fuscia,145.6063,9.72,Twitterworks,696.5,6/1/2019
+812,75fcef8b-e552-4657-8e5a-baafdfc2192a,Longos - Chicken Wings,26.32,56.36,glass,Red,162.848,8.36,Flashdog,534.93,3/20/2006
+813,104750e6-9056-4b90-9ed7-94ff144b79f4,"Mushroom - Trumpet, Dry",7.62,55.57,stone,Goldenrod,35.0529,6.02,Skiba,975.66,5/27/2019
+814,2d0dddfa-59ad-4bb6-bc3e-80cab202eb3b,Chinese Lemon Pork,19.9,3.79,crystal,Orange,103.8075,9.61,Zoomcast,586.48,9/13/2020
+815,d4e96f53-d763-4ff9-9335-d7b242714e2f,"Juice - Tomato, 10 Oz",2.96,1.25,plastic,Orange,166.9107,8.12,Yakijo,372.39,11/20/2007
+816,6fe22db5-d7dd-457b-b16f-0e63daa1b10d,"Water - Spring Water, 355 Ml",54.07,10.21,glass,Indigo,54.9705,6.97,Oyoyo,230.51,1/25/2012
+817,8abaa0dc-d1e8-467b-bde7-593ea19499fc,Rice - Brown,20.35,50.37,stone,Maroon,32.082,5.31,Snaptags,357.77,8/26/2006
+818,0f05d046-946c-4c23-841e-74f5eeb49138,Beans - Kidney White,67.27,34.8,plastic,Khaki,106.7868,8.5,Vidoo,786.95,10/20/2002
+819,f0de9efb-a70e-4251-9245-5d959273f6a1,"Peas - Pigeon, Dry",80.46,94.28,plastic,Teal,46.5643,9.65,Jetpulse,445.11,4/24/2002
+820,f253e4f4-dfc5-40db-bcc8-f91382eab555,Cookies - Englishbay Chochip,78.76,42.0,stone,Yellow,65.3815,7.29,Jayo,543.92,6/26/2012
+821,8c1c1555-1172-4c37-9228-83faf5035bb3,Fruit Mix - Light,71.53,95.39,marble,Turquoise,53.5979,6.57,Twitterwire,33.17,9/27/2018
+822,2d049150-f3a2-4da7-b233-56bdd4d590a4,Chocolate - Feathers,67.91,25.1,glass,Red,180.3647,7.27,Zoombox,387.8,7/14/2005
+823,eeab02f4-9f93-4e49-a550-785cc90a6c74,"Trout - Hot Smkd, Dbl Fillet",83.95,16.27,metal,Aquamarine,19.0543,6.35,Yadel,903.21,7/26/2021
+824,b79f4f23-ce3d-4812-a0b6-760180ac15a4,"Fish - Artic Char, Cold Smoked",32.3,42.06,stone,Blue,174.604,8.1,Quimm,396.29,8/5/2013
+825,03fb7e13-ef42-46e5-9c39-31afdf5fdcb6,"Vermouth - Sweet, Cinzano",86.54,23.93,sand,Crimson,109.2826,6.13,Tagcat,875.4,6/13/2005
+826,b2e73bcc-c8ca-4fab-83b9-4a0e7a5410b0,Dry Ice,86.47,39.57,crystal,Turquoise,46.6418,5.82,Yakitri,675.16,1/4/2008
+827,8c20b930-e7c7-4af2-853f-99e40378ec7e,Beer - Original Organic Lager,16.19,57.04,metal,Purple,105.6859,9.93,Blogspan,316.39,12/4/2015
+828,009af093-6a31-4f34-89fc-66713a957425,"Crush - Orange, 355ml",79.39,76.34,fabric,Fuscia,150.7675,5.65,Wikizz,887.27,8/24/2003
+829,69453de1-4276-46f0-9adc-829be0a07d25,Shrimp - Black Tiger 13/15,46.8,41.21,plastic,Khaki,63.5952,7.97,Tagtune,418.47,10/15/2003
+830,4d7874da-2ef9-4c9f-977f-acb24e1ec999,Bar Nature Valley,15.47,40.81,fabric,Maroon,140.9866,5.15,Youfeed,308.67,7/17/2007
+831,43e1fa86-db74-421d-b884-15accf890dfe,Flavouring - Rum,8.35,54.1,fabric,Turquoise,146.5776,6.14,Linktype,394.34,4/1/2008
+832,f1bdaf4c-0a8b-40ee-bcb4-cc11d6935707,Steel Wool S.o.s,33.37,22.42,sand,Violet,133.4402,5.03,Pixope,179.2,4/22/2013
+833,f5902b5f-57de-4ef3-a398-a65393a6651c,"Wine - White, Mosel Gold",51.22,26.57,wood,Mauv,43.8986,5.49,Zooveo,281.53,10/7/2016
+834,b8a2861a-1672-4c6f-b80b-adaf2ec3b4b7,"Stock - Chicken, White",3.87,97.01,plastic,Yellow,190.6188,8.21,Edgetag,44.1,12/26/2021
+835,b713046f-ed2e-4288-8122-e562a524a591,"Tomatoes - Plum, Canned",16.94,39.18,metal,Khaki,76.721,9.51,Gevee,394.48,11/3/2010
+836,64b84e14-e81c-4cbd-8966-ab05d162c357,"Pasta - Penne, Rigate, Dry",29.34,30.88,metal,Teal,112.5209,6.72,Flipbug,652.52,4/10/2000
+837,fd925263-f9c9-4c88-a18a-63b916a8e1b7,Coffee - Ristretto Coffee Capsule,19.55,89.83,fabric,Violet,45.6304,6.91,Buzzbean,711.45,5/25/2003
+838,0d8afec5-f015-4f52-a5fb-6b5704261700,Grapes - Red,19.74,43.02,fabric,Yellow,39.4693,5.15,Jabberstorm,98.79,2/3/2002
+839,1bb0f438-6361-484b-9b6d-8d22b1741e09,Grapes - Red,60.03,88.97,crystal,Crimson,83.1036,5.88,Jabbersphere,119.41,7/25/2013
+840,70d5bdbc-c39e-4293-b1fd-e8a85e965087,Rice - Basmati,33.4,86.85,stone,Yellow,108.254,5.11,Kazu,920.55,7/20/2007
+841,a35d7770-2382-43cb-b1a7-e4a12204429b,Glove - Cutting,35.74,71.59,glass,Purple,101.9234,5.98,Thoughtstorm,179.91,5/3/2001
+842,019d0755-1e89-45a5-8017-5742cb56f429,"Mushroom - Oyster, Fresh",79.36,48.19,stone,Green,20.0327,6.56,Chatterbridge,877.22,2/29/2008
+843,02a08815-9da6-47bd-bced-9aac877a199f,Soup Campbells Turkey Veg.,86.94,89.48,marble,Yellow,72.4789,8.2,Twitterwire,547.77,9/29/2005
+844,ca33843f-fd1d-4a25-a75e-b47e638ab5c1,Cherries - Fresh,66.53,87.99,marble,Orange,123.5832,9.67,Blogtags,254.13,7/29/2015
+845,a222b8de-ef0a-41bc-9fd2-8f6805aa76d2,Tea - Grapefruit Green Tea,92.71,24.03,plastic,Maroon,199.0759,7.69,Blogtags,979.35,1/27/2007
+846,c9bfc943-3066-4c16-9ad0-8a7ca073697d,Nantucket Pine Orangebanana,60.28,94.61,marble,Pink,72.7816,7.89,Zoonder,678.92,5/6/2001
+847,d72eae09-c9b2-4a21-b3b6-7cf81df033c7,Coffee - Decaffeinato Coffee,61.24,56.53,plastic,Turquoise,150.7172,9.55,Skyvu,904.25,12/10/2020
+848,9e9857ad-915e-4517-89bf-1fd264046ea5,"Wine - White, Riesling, Semi - Dry",2.38,83.21,metal,Turquoise,28.722,,Skaboo,21.84,5/7/2009
+849,64611bcf-7407-43fe-a3f2-2294dec37caa,Maintenance Removal Charge,88.18,79.23,plastic,Pink,114.2427,5.31,Linklinks,232.74,11/22/2021
+850,545e1825-65a7-4f55-9d11-2a0130ba843b,Beer - Moosehead,91.71,67.71,plastic,Purple,21.537,8.2,Nlounge,33.18,6/12/2013
+851,d3402e10-6d60-4c00-9fba-67fb0ac69097,Cake - Pancake,76.81,41.06,glass,Yellow,79.9309,7.25,Teklist,197.33,2/10/2010
+852,19597599-6504-406c-bd34-d9b8817b63ca,Flavouring - Orange,81.99,32.14,marble,Red,76.2473,,Layo,935.75,9/24/2006
+853,b1d2badb-1cb6-4ec0-927b-51bc88d705a0,"Trout - Rainbow, Frozen",30.56,59.49,marble,Green,33.5486,9.73,Blognation,767.84,3/8/2010
+854,0307bc20-4d87-4942-8de4-8e9ddf07dc87,Pastrami,31.55,73.05,fabric,Purple,28.4075,9.01,Feedfish,945.96,7/9/2002
+855,bc843852-73c7-4c8e-8830-41ceba08d1e6,Bread - Olive Dinner Roll,45.7,51.62,crystal,Maroon,10.6684,7.14,Realfire,732.41,10/26/2010
+856,d3bb9adc-d71b-46be-b396-92eef76a3de1,Lettuce - Escarole,51.37,27.7,stone,Purple,86.6583,8.35,Brightdog,369.12,1/23/2005
+857,fbf32864-5de8-4eb5-b59a-559515c18912,Five Alive Citrus,14.36,64.22,plastic,Yellow,138.3325,8.27,Rhyloo,652.2,1/3/2005
+858,e4386da3-01d1-48db-a25d-14d24f4f3be7,Cheese - Gouda,54.41,90.03,plastic,Goldenrod,94.5514,7.98,Eayo,218.2,5/18/2002
+859,f402d374-3ce8-4aa8-a020-34a6edbbcdbb,Soup - French Can Pea,61.72,42.45,glass,Violet,11.808,5.67,Fivespan,23.4,12/19/2018
+860,2163495e-f26f-41d4-8489-9b3b9ed1deed,Energy Drink - Franks Pineapple,18.54,43.06,marble,Turquoise,45.3025,6.72,Jabbertype,136.33,7/29/2015
+861,3971be39-8b64-4e7b-962a-98c1e30415dd,Mousse - Banana Chocolate,82.88,42.43,marble,Crimson,87.456,8.66,Meembee,256.8,1/6/2012
+862,8db5bbec-849b-4b9b-a554-4146b92a840b,Lidsoupcont Rp12dn,91.7,60.44,crystal,Mauv,113.4391,8.68,Lajo,266.27,5/1/2017
+863,2db79688-7ec3-4e48-b390-6aac765cbecd,Tuna - Salad Premix,42.57,6.02,marble,Indigo,133.2685,6.32,Demivee,937.65,10/2/2018
+864,a48452ae-b673-487e-9339-d33974eab898,Herb Du Provence - Primerba,22.12,43.29,wood,Crimson,29.1149,7.62,Browsebug,181.45,11/26/2022
+865,bdaa6c55-f03f-4d91-a0fe-0b9deb46ca33,Mushroom - Portebello,41.61,23.66,metal,Red,48.1978,9.97,Photobug,300.32,7/5/2016
+866,2b15772a-71cb-446e-8ce9-77d646ba4fe1,Bay Leaf,64.79,88.18,crystal,Orange,187.5351,9.94,Quire,957.51,12/16/2018
+867,dfd52ad7-fc0f-44e5-a52a-66c83fae49d6,Nantucket - Kiwi Berry Cktl.,26.14,80.21,metal,Aquamarine,32.3998,,Dabshots,263.69,7/17/2004
+868,5c5ada67-135d-4880-898f-b2d6fa6844eb,Bacardi Mojito,4.02,89.0,plastic,Puce,81.9339,5.61,Skimia,762.13,11/26/2019
+869,92e7d640-39b5-4a9b-a6b6-07ee1d21488d,Sterno - Chafing Dish Fuel,11.71,45.0,crystal,Pink,77.1027,9.09,Youopia,174.1,6/9/2007
+870,5cca5417-0145-44a6-87fb-186d74fe6a11,"Wine - Red, Mosaic Zweigelt",31.16,59.78,wood,Puce,134.6517,6.21,Fivebridge,531.21,11/15/2013
+871,0068cc66-1a6f-4321-8c28-a5909917f576,Glass Clear 7 Oz Xl,48.12,83.29,sand,Indigo,193.6272,5.44,Latz,423.66,1/22/2020
+872,e3210524-a6bf-4431-a90a-8c522b6a3f4c,Sauce - Demi Glace,76.51,30.68,glass,Khaki,102.2233,8.97,Zooxo,680.87,8/21/2013
+873,d1be0d8f-6795-4a8f-99fb-00348a5ee3fb,Lettuce - California Mix,89.21,25.45,plastic,Yellow,147.9183,8.89,Shuffledrive,737.29,1/17/2016
+874,6deda1f2-92b0-4794-b7b9-511ba79ba7bb,Icecream - Dibs,36.78,52.03,wood,Crimson,86.5298,7.25,Twiyo,912.62,6/22/2012
+875,a15388d3-bbc9-4c53-80ad-720f4b20daea,Barramundi,80.87,14.77,marble,Blue,32.6771,6.93,Eimbee,769.92,5/22/2020
+876,19b1b26b-4e8e-4de5-92e9-861c3eb98384,Cookies Almond Hazelnut,94.2,65.8,marble,Pink,181.1462,8.53,Bluejam,787.85,2/4/2015
+877,1a410d8e-d02a-4071-be1b-bab87316213d,"Asparagus - White, Fresh",13.34,48.14,sand,Pink,100.1629,8.06,Wikido,727.37,9/9/2010
+878,de99bbc0-df40-4f51-942b-21b691b40557,Muskox - French Rack,7.23,53.1,fabric,Fuscia,103.0147,6.38,Yadel,127.37,3/12/2011
+879,9ebfb12d-ede2-4bf1-b950-4bca6a44d065,Rice - Jasmine Sented,66.94,29.58,marble,Green,14.2965,5.79,Twimm,408.56,3/2/2000
+880,b1c7f4a3-ad76-4bac-9a26-f46ed99e4b39,Cheese - Cottage Cheese,66.22,42.3,plastic,Goldenrod,91.9553,7.42,Vipe,903.7,4/21/2009
+881,546a8149-7745-4a8e-9b28-ed5014692313,Sugar - Icing,97.26,49.43,metal,Violet,113.2758,7.18,Buzzshare,594.64,3/20/2020
+882,e2e8071c-f962-4718-ba3f-ed9a50f5dc33,Country Roll,92.73,7.09,sand,Teal,155.5211,9.69,Dabfeed,21.33,12/13/2010
+883,43454fa1-819a-4cbb-b1b5-083448ae7228,"Turkey - Whole, Fresh",19.37,17.29,crystal,Khaki,61.0634,8.25,Edgepulse,918.65,8/8/2007
+884,176f5b0b-6838-4bf9-82bd-4f1967535185,Beets - Pickled,45.0,22.11,glass,Maroon,65.3706,5.36,Kwimbee,781.72,4/22/2018
+885,2c10437e-417e-4f04-8f55-79834c395081,Bacardi Raspberry,1.87,79.01,metal,Turquoise,181.7278,5.53,Babbleopia,911.59,8/23/2001
+886,eb251bbc-da63-48fe-b0b9-7e2a0e5de6b6,Salt - Sea,37.64,74.22,crystal,Turquoise,20.8394,5.74,Browseblab,950.97,9/16/2010
+887,b8fbe9b5-7b4e-4e0a-9bea-2b2ef9fd43dc,Cheese - Montery Jack,21.87,18.04,plastic,Orange,182.7535,6.88,Cogilith,942.09,12/23/2018
+888,51d89c5a-1a7e-4ae6-b4e7-9a7338f83ef6,Juice - Orangina,40.8,48.73,metal,Red,156.7509,5.88,Tambee,72.25,2/14/2003
+889,362188d3-c43b-44ca-864b-30cbdb140baa,Wine - Niagara Peninsula Vqa,74.05,58.45,fabric,Yellow,34.0461,6.3,Blogpad,250.83,6/3/2008
+890,a44ca7bf-3dff-4928-814f-97d84f5a82ed,Pepper - Roasted Red,4.79,14.26,plastic,Fuscia,101.7045,5.36,Podcat,978.05,8/10/2022
+891,8756f492-93a7-4500-8eb1-f6cea6c1d28f,Beans - Fava Fresh,88.83,21.64,marble,Indigo,48.7592,5.57,Realblab,606.61,4/3/2008
+892,bf109f4a-0895-4a3e-b803-37a0484da210,"Beef - Rib Roast, Cap On",72.57,19.89,fabric,Violet,34.8634,7.06,Linklinks,554.87,2/25/2019
+893,d583f30f-2950-4192-843c-db6a57377306,Wine - Cave Springs Dry Riesling,98.39,54.67,stone,Purple,147.1469,7.53,Buzzdog,144.26,12/26/2019
+894,0458ace5-31cb-4370-af83-b3f23027862c,Muffin Hinge - 211n,91.33,39.76,sand,Puce,39.6291,6.97,Zooxo,443.5,1/13/2012
+895,27055429-0f2c-4e02-8727-59b103e2be8b,Appetiser - Bought,70.31,93.27,plastic,Indigo,130.9217,9.84,Divanoodle,981.43,12/9/2021
+896,7aaaa7b5-5cbb-4cf5-b6b1-c87185a1a81f,Veal - Knuckle,10.72,97.45,fabric,Orange,130.6595,8.73,Vidoo,506.04,9/20/2014
+897,4d14d47b-c82e-40ad-bf88-b367ca9aef2c,Soupcontfoam16oz 116con,78.17,10.28,crystal,Violet,37.6984,7.39,Jetwire,744.14,10/3/2021
+898,26357c7a-ebc2-4dfe-926e-bc7443a9d665,"Water - Spring Water, 355 Ml",88.65,9.88,crystal,Crimson,199.5297,,Meetz,131.32,2/10/2015
+899,53fe15bd-b5bd-4b30-9b3c-926cbf34e0a6,Bar - Sweet And Salty Chocolate,95.25,50.96,sand,Orange,80.6834,9.34,Roodel,99.76,6/9/2014
+900,2695dc63-9f89-4ba4-9075-d298c872a431,Salt - Kosher,27.43,16.22,metal,Crimson,98.1284,7.56,LiveZ,365.83,1/30/2000
+901,4cc11a31-015b-4e74-b06b-b5862acc8d6a,Mushroom - Morel Frozen,95.19,18.01,plastic,Green,196.7688,5.69,Voonix,888.53,1/13/2007
+902,75434edb-c1ac-4599-9402-8f4a8676e5a5,Vodka - Smirnoff,98.7,8.63,fabric,Mauv,38.8399,5.81,Voonder,580.91,9/3/2011
+903,6eddb9f8-07b1-4342-af5d-0b8165d5f543,"Red Snapper - Fillet, Skin On",85.82,49.65,sand,Red,106.7315,7.49,Pixope,715.78,12/9/2019
+904,038c47c0-edb3-42fe-ac7f-f93845f79fe8,Sprouts - Peppercress,99.78,82.49,fabric,Red,179.6703,9.2,Quinu,562.39,5/25/2013
+905,edfbd160-9d6e-4117-af25-0e122cc8c8aa,"Juice - Tomato, 48 Oz",2.27,43.32,sand,Puce,99.9549,9.74,Flipstorm,319.46,8/29/2012
+906,85a7755d-4344-4181-a5be-1fc21dbffa27,Coffee - 10oz Cup 92961,86.08,18.58,plastic,Blue,148.9991,6.47,Thoughtbeat,689.66,11/4/2010
+907,a5b01ec7-4f75-4eb7-b137-8cef2b417879,Jerusalem Artichoke,50.04,25.62,metal,Violet,33.5272,9.24,Linkbridge,672.16,6/16/2015
+908,6400d4cf-11ad-4f3f-a82f-e5183828765c,Potatoes - Idaho 80 Count,40.34,3.83,marble,Crimson,23.9787,8.19,Meevee,862.15,3/21/2009
+909,e80ff7e9-b7bb-446e-8b53-f2f37aba7c2d,Carroway Seed,53.9,84.93,marble,Crimson,34.3875,7.47,Buzzster,317.71,9/24/2007
+910,70168483-d584-4c1a-8028-49bdea787645,Cranberries - Frozen,85.37,7.92,plastic,Khaki,146.5892,5.57,Kwilith,699.14,11/30/2006
+911,8cfb55e2-411d-466e-9166-f3a48be4d58a,Foil Wrap,87.69,28.2,wood,Maroon,19.8509,,Lazzy,672.77,11/20/2006
+912,c55cd992-74f4-4336-9c8b-71c59bdc0ebb,Muffin Mix - Blueberry,77.79,71.34,fabric,Goldenrod,23.4787,8.88,Linkbuzz,546.06,11/9/2008
+913,20513473-da83-4437-8a57-b84c11804df5,Alize Red Passion,64.19,62.12,metal,Khaki,105.7227,9.5,Topicstorm,961.68,9/4/2020
+914,9415b6a3-3a85-4ea0-ac32-45b160142b52,"Wine - White, French Cross",7.69,8.9,fabric,Blue,178.8023,7.36,DabZ,81.84,8/23/2017
+915,1ffb8d5f-2c3a-497f-b2d2-5558f504fa29,The Pop Shoppe Pinapple,40.86,86.33,glass,Yellow,192.1661,9.46,Yombu,22.8,8/18/2007
+916,65c0771c-8eb5-48bc-a1d8-dd92beedcf31,Soup - Tomato Mush. Florentine,31.94,23.06,wood,Blue,107.5013,8.61,Skajo,51.2,7/3/2015
+917,7bec1e16-c47f-4364-b192-cbba4069c598,Ham Black Forest,20.25,87.97,glass,Yellow,120.2177,5.96,Voomm,243.75,8/5/2002
+918,931865b4-1d16-449c-8f85-570d9bf1ef8a,Mix - Cocktail Ice Cream,6.57,68.58,metal,Puce,196.4823,8.92,Blogtags,991.82,2/28/2016
+919,11fc081a-cef0-478e-8b05-3909379e7c38,Waffle Stix,21.09,97.52,sand,Indigo,47.8091,8.61,Wikido,244.66,1/20/2022
+920,1c300175-8d0f-4475-a3b5-09727641dd45,Beef - Top Sirloin,29.98,82.69,glass,Purple,143.6203,9.42,Browsebug,833.2,10/30/2007
+921,0da3a291-8aa4-4045-b0ec-096965c15b1a,"Wine - Red, Cabernet Sauvignon",97.49,93.81,marble,Maroon,176.6764,7.49,Wordware,943.91,8/4/2008
+922,eaaf64ac-e4d6-4780-a36e-ce36d81fc043,Pear - Prickly,36.63,11.47,marble,Purple,97.904,9.59,Jabberbean,762.78,11/30/2005
+923,5c174b7f-b06c-42ee-a4bd-e9e2811cda89,Bandage - Fexible 1x3,41.92,71.49,fabric,Goldenrod,140.6408,6.35,Fanoodle,47.62,11/14/2004
+924,e4dcd773-093d-479e-ab3c-eb2a7c84bb20,Mustard - Dijon,33.68,1.35,metal,Aquamarine,95.5381,6.43,Devshare,56.56,3/19/2012
+925,1a8aa47d-5045-4046-a53f-2b4d0964b506,"Pork - Butt, Boneless",43.93,35.27,glass,Mauv,89.5654,,Devify,701.01,4/3/2002
+926,049f4eed-95bb-4302-b304-7a3769d2ff69,Kohlrabi,6.1,30.52,wood,Purple,143.7293,9.21,Omba,862.19,2/17/2003
+927,1ff3917e-6ffd-4ee3-8a18-dc45ffaa482c,"Nut - Pecan, Halves",43.9,70.29,sand,Aquamarine,44.9307,5.46,Oloo,584.48,2/28/2014
+928,d9833e06-ab17-43d2-a7ad-ba3ee555bfae,Energy Drink Red Bull,67.88,93.57,plastic,Green,186.7375,6.42,Gevee,679.44,7/12/2002
+929,2ac8bba2-dc23-49b2-842b-ed90002e681d,"Fish - Atlantic Salmon, Cold",17.88,20.62,crystal,Fuscia,146.614,7.69,Voolith,82.07,2/16/2010
+930,08058536-f8b4-4c1d-95a8-3b0d9b8be1f9,Steampan - Lid For Half Size,74.43,11.75,metal,Teal,168.1522,7.25,Brainbox,675.76,9/10/2009
+931,b86ebd91-acca-4feb-8c5e-57cf7b83e59f,Beer - Guiness,71.43,13.56,sand,Khaki,88.0357,9.81,Mymm,943.28,8/17/2002
+932,a67fad3f-a2a3-487a-bc0d-1165f4446d51,Soup - Verve - Chipotle Chicken,32.89,38.23,marble,Red,117.1567,7.21,Kwimbee,980.9,9/27/2017
+933,19fa9440-98dd-41ac-8cef-977bb56f0315,Pate Pans Yellow,35.5,45.99,wood,Crimson,89.2419,6.45,Teklist,355.51,1/1/2001
+934,7f505249-0d19-48e4-a142-09b786350792,Soupfoamcont12oz 112con,60.23,32.34,crystal,Green,34.1631,5.44,Youspan,270.83,2/25/2015
+935,280c7acd-f262-4bbb-a316-bb5b2cfc854b,Boogies,21.63,53.49,plastic,Violet,182.1596,5.66,Jaxbean,602.39,9/12/2019
+936,3fc18063-6a33-4c31-b6ad-a1709301ba43,Cheese - Brie,72.55,35.58,fabric,Green,162.2296,8.0,Jayo,242.12,5/4/2012
+937,4aafa51e-26a1-4683-a62b-acd7fac9ae48,Sping Loaded Cup Dispenser,97.23,44.83,glass,Yellow,142.5983,5.39,Zoovu,793.06,7/12/2010
+938,3c530def-86db-467c-b99b-a7b057267f5d,"Water - Mineral, Carbonated",87.07,44.37,plastic,Violet,68.7316,,Yamia,708.91,8/28/2001
+939,d531ba9a-a912-4aee-8de5-0ebeab1ef600,Oysters - Smoked,36.13,88.44,marble,Orange,150.4518,8.49,Fivespan,300.25,7/4/2007
+940,7a1cdc00-5e0b-445c-8ce5-542cd80089ff,"Arctic Char - Fresh, Whole",31.69,33.17,wood,Maroon,31.4901,7.8,Dabjam,659.58,12/22/2021
+941,83a33262-c29d-4a8e-a86e-f5f2ee087883,Lobster - Tail 6 Oz,13.06,62.77,marble,Teal,111.9249,6.44,Myworks,176.51,11/7/2006
+942,daf59f20-c481-4e01-8c15-bb6c36e922a3,Rice - Wild,73.8,29.22,sand,Purple,171.6842,5.12,Dabtype,877.1,10/25/2012
+943,9d23fe93-6833-4e07-9fd8-ad004bb1b014,Beef - Top Butt Aaa,71.28,77.13,stone,Goldenrod,166.4238,5.67,Jaxnation,956.94,11/28/2007
+944,1cb0d859-e25f-429d-9f30-ee1944e0fa34,"Bread - Rolls, Corn",92.58,86.52,glass,Pink,64.7211,9.14,Pixonyx,639.07,11/20/2021
+945,4b72acae-e78e-44b8-9539-0e864ce00c30,Appetizer - Mango Chevre,4.21,88.7,fabric,Crimson,64.8151,5.36,Youtags,930.79,2/3/2015
+946,72f06bb3-4f31-4811-a68b-f066a8b919ec,Sauce - Alfredo,70.42,28.29,wood,Maroon,110.1128,6.45,Kwideo,769.99,12/9/2008
+947,19248105-3ca4-4122-8fd3-6f6d750d1060,Bagelers,62.03,88.16,crystal,Fuscia,23.7828,9.61,Youspan,528.84,11/11/2021
+948,fab2eef7-ddd8-4645-8c96-181af81dc6bd,Sausage - Chorizo,69.17,10.82,fabric,Violet,175.1906,8.05,Livetube,67.43,3/5/2013
+949,3e29f09f-66b5-436e-b89c-1250a46ef27d,Juice - Orange,79.71,60.24,glass,Aquamarine,112.5357,7.03,Geba,683.91,9/6/2009
+950,c624e64f-bfe1-400f-981a-957c7f8b5b9d,"Pasta - Gnocchi, Potato",22.64,44.69,sand,Teal,93.8955,8.54,Oyondu,997.48,4/5/2019
+951,aba150ca-6bf8-47f9-8a36-60d26a2d9e3a,Bread - Bistro White,15.89,99.64,plastic,Puce,23.103,6.26,Zoomlounge,473.7,11/6/2001
+952,e606fc3c-4dd7-452a-8a5e-33ae8db19975,Beef - Short Loin,21.27,2.69,fabric,Purple,157.0633,5.5,Zoombox,373.85,4/22/2000
+953,bf50f941-4a50-4cb2-b094-7cee03b6b196,Carroway Seed,88.9,53.28,sand,Aquamarine,28.6837,8.83,Meeveo,86.33,12/15/2016
+954,8c635ea3-0527-4728-99ee-7847ae2424c4,Flower - Commercial Spider,63.44,72.28,glass,Khaki,59.6873,5.13,Pixope,65.32,6/26/2002
+955,2702e9e3-df68-4e98-94de-823d68c667a7,Pie Filling - Apple,94.97,92.91,wood,Crimson,73.258,7.36,Fanoodle,669.86,7/31/2013
+956,2aa097fa-4597-4dc8-afd5-844c8cb53f70,"Cod - Salted, Boneless",92.36,1.27,crystal,Puce,94.416,6.31,Quire,661.84,11/15/2015
+957,8237628b-0524-4dc6-a1ae-e134765694f8,Monkfish Fresh - Skin Off,16.45,23.48,plastic,Fuscia,66.2767,7.89,Plajo,247.92,4/8/2012
+958,1819ed43-95c2-4175-b2d8-a7a443ed0b77,Beef - Eye Of Round,18.77,79.74,stone,Maroon,62.6873,5.17,Jayo,582.3,4/24/2002
+959,22ce6d3c-5565-4942-b4ff-4b597ef4d90f,Lychee,7.87,3.94,stone,Purple,138.4272,9.03,Lajo,281.17,1/27/2009
+960,fb0ccedc-db82-4d97-9aea-eeb40b3f7f5a,"Nut - Pine Nuts, Whole",84.12,21.05,wood,Orange,189.1218,8.61,Yombu,902.35,6/26/2002
+961,2a29351a-cb93-4785-ad8e-a62a0fac6db9,Quinoa,56.44,41.15,metal,Blue,172.4518,7.98,Skinder,332.42,6/1/2014
+962,14e48384-1b9b-4308-aed2-fb0b8caf9693,Praline Paste,41.27,75.07,sand,Turquoise,145.1953,5.94,Vipe,495.02,5/17/2012
+963,e2780aeb-c3b3-458e-bb77-9e2403fe25f0,Flour - Rye,23.98,18.73,fabric,Puce,126.0264,5.79,Bluejam,996.96,7/21/2017
+964,0e4d4503-329d-4e43-9146-1fc60afeaed3,Capers - Pickled,63.18,86.12,marble,Teal,63.8595,5.8,Youopia,379.45,10/19/2017
+965,a0b18540-76d2-4523-899c-d45196edc4dd,Wine - Barossa Valley Estate,5.19,6.17,marble,Teal,98.5735,5.6,Skiptube,647.06,10/6/2015
+966,6bf22e65-c799-4a8a-9a88-9595ff098118,Dragon Fruit,89.28,24.81,glass,Yellow,131.7103,8.59,Talane,668.07,4/23/2018
+967,34a2aed3-1b05-4e6c-8e05-a2fe89cbcdcd,Beer - Original Organic Lager,48.09,34.56,glass,Purple,169.1113,7.57,Gabtune,562.89,8/15/2004
+968,abafd144-5c2d-4ad4-922f-f782f399f578,Pear - Packum,89.86,40.92,plastic,Pink,16.2037,5.0,Flashset,42.19,2/18/2001
+969,3ea07d2c-0f78-4198-9403-0ad95dc3f7df,"Wine - Cahors Ac 2000, Clos",77.65,97.34,wood,Purple,163.9745,6.54,Dynabox,693.51,4/27/2001
+970,3e56e715-038c-4cac-b610-3583b11070d9,Soho Lychee Liqueur,39.46,71.83,metal,Aquamarine,32.9071,8.65,Dynava,293.73,7/1/2009
+971,03e73682-de08-4996-80de-4c744320efed,Pear - Halves,85.99,1.53,glass,Puce,180.3764,8.25,Oba,289.94,10/24/2008
+972,dc27ed81-de46-435f-b8dc-c99a9a422902,French Kiss Vanilla,61.97,78.71,metal,Violet,134.1454,8.52,Blogpad,773.89,2/2/2012
+973,6424c047-c26c-4a1b-9849-b6da08434b2a,Nantucket Pine Orangebanana,71.4,54.45,metal,Goldenrod,63.6548,8.44,Bubbletube,306.33,3/2/2022
+974,2b64ee41-0bf7-4162-81c2-6db7bca029ab,Cream - 10%,29.53,3.4,metal,Purple,24.8236,9.8,Cogidoo,43.83,2/24/2019
+975,e25d4236-b49b-4c02-abd5-b4984f687eaa,Flour - Whole Wheat,49.24,72.98,plastic,Purple,150.3348,9.56,Browsezoom,488.38,12/9/2003
+976,835420a8-60d2-4db2-897e-8addd17c9473,Chicken Breast Wing On,64.54,18.32,sand,Red,166.392,,Dablist,838.2,12/28/2009
+977,7f856160-87dc-402f-ba29-095e7470128a,"Mop Head - Cotton, 24 Oz",42.22,19.2,stone,Violet,144.3878,8.55,Dabfeed,240.65,7/7/2009
+978,0bbe4df2-b8f0-44bd-becb-d08e12458596,Shrimp - Prawn,46.32,58.3,wood,Khaki,145.3586,7.83,Brainsphere,425.39,4/8/2019
+979,4b253dda-d986-4e20-9bcd-7b2c4917a9bc,Bar - Granola Trail Mix Fruit Nut,30.51,56.21,plastic,Crimson,193.3737,9.68,Quatz,736.22,11/24/2011
+980,f04118fe-7a08-42dd-ae59-2715a3914816,Sloe Gin - Mcguinness,27.08,80.6,crystal,Aquamarine,11.3343,,Skidoo,337.06,1/22/2010
+981,7555b577-d9e0-4c1f-9853-f4cc35bb0fe1,"Chicken - Diced, Cooked",89.15,69.37,sand,Khaki,79.9846,8.33,Rhyloo,477.63,5/16/2011
+982,c5a0e2a3-c277-4ff0-91c1-4aa965f56940,Ham - Black Forest,25.91,39.67,stone,Green,73.0046,6.05,Aimbo,535.02,8/13/2021
+983,13c89dc5-950d-4d8c-b49f-e7261decef44,Soup - Campbells Tomato Ravioli,61.18,26.11,glass,Fuscia,105.0474,8.19,Quamba,645.78,6/16/2015
+984,0fe0e0a9-1dee-4f52-99aa-c807d70f1f97,"Seedlings - Mix, Organic",95.06,65.55,plastic,Green,124.6229,6.75,Brainbox,622.12,4/19/2006
+985,28929644-cff5-4d8f-99e1-299bd0b44d38,Table Cloth 62x114 Colour,56.83,57.77,stone,Red,10.2294,8.77,Jabbersphere,544.28,6/25/2004
+986,4eccda85-95eb-49b7-b1e7-abd76e7136ad,Pastry - Chocolate Marble Tea,58.57,90.98,stone,Red,120.2168,8.77,Bubbletube,298.32,10/17/2015
+987,c7ed2977-6ebf-4728-ac50-c84b4c0afd25,Pork - Backfat,34.0,85.39,metal,Green,142.5573,5.91,Pixoboo,518.42,2/15/2004
+988,18cfb6ed-df45-46b9-a659-45a06a19e788,"Salmon - Smoked, Sliced",48.7,36.64,metal,Orange,123.0897,6.78,Dynava,319.4,9/12/2009
+989,343a4883-8380-4daf-91c7-3daa7385ad51,Venison - Ground,47.63,27.13,plastic,Teal,184.5974,9.63,Mycat,890.13,4/8/2016
+990,28a105d2-3d6b-4be8-9dfc-1971ca4dc62b,Nestea - Iced Tea,25.09,92.27,glass,Maroon,170.4915,5.73,Ooba,687.04,1/20/2015
+991,afd84bc8-a7fe-4dab-bb03-5e66002b254c,Lime Cordial - Roses,12.75,52.94,stone,Maroon,158.3197,6.37,Devify,417.73,5/18/2022
+992,8e4233cd-38fe-4890-a235-03e5e7a8f21a,Wine - Balbach Riverside,75.45,91.16,plastic,Blue,96.8994,7.53,Brainbox,598.61,2/5/2005
+993,dfa7ca94-9eaa-4b61-a9f0-7250701b86c7,"Mushroom - Shitake, Fresh",80.87,87.15,marble,Red,23.5837,9.8,Babblestorm,634.66,8/18/2022
+994,8d252ff8-b6fc-4637-9319-d21e156e8eef,Raisin - Golden,1.7,27.99,glass,Pink,149.391,5.19,Kayveo,540.28,10/31/2020
+995,ee9f7219-de7f-4736-b8cf-37b2e3002e85,"Pork - Butt, Boneless",17.69,39.59,crystal,Crimson,153.9134,6.1,Eadel,961.47,4/29/2000
+996,ee257b38-fe8b-4587-baeb-2949a11313e1,Creme De Banane - Marie,50.16,72.15,crystal,Orange,182.4936,6.5,Mydo,918.28,1/5/2018
+997,72be389b-ed31-473b-bbb5-a065f660b058,Kohlrabi,76.89,83.14,crystal,Blue,93.5955,5.19,Aivee,564.07,5/22/2002
+998,e53daa1f-7568-455b-a089-d436fa9482fe,"Wine - White, Pinot Grigio",16.71,22.61,marble,Green,102.7572,6.18,Skibox,93.89,7/20/2022
+999,a1bb77a5-dddb-447d-b332-951ad1a209e7,Basil - Thai,78.82,37.98,fabric,Fuscia,22.9722,5.27,Zoombox,109.04,10/30/2007
+1000,71bcf631-6572-4e55-9de5-ecb3ccadf83f,Filling - Mince Meat,92.86,29.03,stone,Blue,133.1807,7.69,Bubblemix,291.18,3/26/2020

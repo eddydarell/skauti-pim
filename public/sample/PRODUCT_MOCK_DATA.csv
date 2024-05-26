@@ -1,0 +1,1001 @@
+product_id,product_name,product_width,product_length,material,color,packaging_weight,manufacturer,price,release_date
+1,"Pork - Bacon, Sliced",37.82,94.63,plastic,Orange,7.78,Voolia,88.17,10/3/2006
+2,Lamb Shoulder Boneless Nz,88.28,58.52,plastic,Red,2.54,Kwideo,86.28,11/25/2022
+3,Sesame Seed,62.54,62.37,glass,Violet,6.25,Flashpoint,695.5,1/25/2001
+4,Sea Bass - Fillets,33.29,42.66,wood,Blue,4.12,Trudoo,430.38,7/11/2002
+5,Tea - Earl Grey,26.83,35.32,wood,Indigo,9.9,Teklist,293.66,9/11/2000
+6,Wine - Montecillo Rioja Crianza,21.17,55.16,plastic,Blue,6.51,Jabbersphere,204.37,6/16/2010
+7,Wine - Magnotta - Pinot Gris Sr,17.78,46.1,plastic,Orange,2.08,Realfire,822.6,5/5/2022
+8,Oven Mitt - 13 Inch,71.83,24.43,wood,Teal,8.14,Feedfish,35.55,5/29/2019
+9,The Pop Shoppe - Black Cherry,69.6,92.16,glass,Teal,8.43,Realcube,32.5,12/5/2011
+10,Honey - Liquid,99.85,48.43,plastic,Puce,1.35,Layo,6.88,6/12/2013
+11,Chocolate - White,80.86,26.52,metal,Violet,7.83,Latz,927.87,7/25/2021
+12,"Lobster - Tail, 3 - 4 Oz",69.87,12.84,glass,Aquamarine,5.03,Topicblab,172.83,4/15/2002
+13,"Shrimp - 16 - 20 Cooked, Peeled",5.03,65.0,glass,Indigo,2.69,Yakijo,572.66,6/29/2003
+14,Wine - Tio Pepe Sherry Fino,56.61,32.67,glass,Goldenrod,2.69,Voonix,601.19,11/17/2017
+15,"Bread - White, Sliced",13.82,16.83,plastic,Crimson,7.32,Meejo,848.26,4/1/2002
+16,Tea - Green,28.25,47.34,metal,Goldenrod,5.87,Zooveo,501.27,9/7/2020
+17,Mince Meat - Filling,65.49,77.49,wood,Red,6.66,Reallinks,951.87,4/4/2005
+18,"Veal - Tenderloin, Untrimmed",15.45,46.32,plastic,Khaki,3.74,Demizz,127.27,3/21/2018
+19,Bread Base - Goodhearth,19.95,11.48,glass,Puce,4.37,Vimbo,671.98,9/20/2019
+20,"Rum - Dark, Bacardi, Black",81.62,32.75,plastic,Goldenrod,4.95,Browsedrive,677.76,1/3/2018
+21,Nantucket Pine Orangebanana,46.23,14.43,metal,Crimson,3.07,Avavee,664.17,7/22/2007
+22,Lettuce - Red Leaf,3.59,4.07,metal,Crimson,6.59,Zooxo,742.88,6/10/2003
+23,Magnotta - Bel Paese White,65.76,16.59,wood,Violet,8.57,Meemm,942.77,12/5/2015
+24,Spice - Montreal Steak Spice,24.2,88.16,glass,Yellow,8.8,Talane,996.29,12/7/2014
+25,Wine - Vineland Estate Semi - Dry,10.14,76.5,wood,Goldenrod,5.71,Twimm,685.16,12/25/2012
+26,"Asparagus - White, Fresh",9.27,2.95,wood,Maroon,1.8,Bluejam,363.1,5/25/2003
+27,Squash - Acorn,21.21,41.77,glass,Purple,1.77,Yakitri,921.31,12/25/2011
+28,Wine - Montecillo Rioja Crianza,56.69,14.7,glass,Violet,8.18,Zoomlounge,433.3,4/8/2019
+29,Bacardi Breezer - Tropical,60.92,21.41,glass,Goldenrod,0.33,Realbuzz,64.19,7/1/2002
+30,Bread - Olive,85.12,39.82,wood,Yellow,3.3,Twitterbridge,610.41,1/24/2000
+31,Sour Puss - Tangerine,37.33,28.9,wood,Teal,5.07,Meedoo,909.3,1/17/2020
+32,Ice Cream - Chocolate,86.59,65.83,plastic,Maroon,3.97,Npath,556.37,2/27/2007
+33,Sunflower Seed Raw,14.45,54.31,wood,Red,7.98,Twimm,859.01,1/27/2018
+34,"Juice - Apple, 1.36l",82.78,23.57,plastic,Orange,5.32,Yotz,455.56,2/12/2016
+35,Sponge Cake Mix - Vanilla,15.48,94.97,plastic,Mauv,6.17,Oodoo,352.19,11/24/2016
+36,Napkin White,58.63,19.05,plastic,Goldenrod,0.24,Voolia,367.46,12/10/2019
+37,Bread - Triangle White,90.53,53.5,metal,Fuscia,7.0,Realpoint,775.11,8/9/2016
+38,Greens Mustard,41.15,49.53,plastic,Aquamarine,7.28,Jetwire,661.73,9/6/2021
+39,Quail - Jumbo,65.18,72.5,metal,Goldenrod,0.32,Bubbletube,859.77,7/4/2003
+40,"Trout - Rainbow, Fresh",33.62,9.05,plastic,Blue,0.82,Centizu,640.54,11/1/2003
+41,Tea - Black Currant,23.22,1.61,wood,Indigo,1.25,Wordify,541.54,11/6/2016
+42,Cod - Fillets,79.01,47.5,plastic,Crimson,5.24,Feedspan,848.9,12/13/2009
+43,Soup - Tomato Mush. Florentine,8.64,13.76,glass,Red,3.51,Tagchat,228.76,5/5/2015
+44,Crab - Soft Shell,24.5,68.26,plastic,Yellow,1.17,Tekfly,447.27,7/16/2005
+45,"Beef - Tongue, Cooked",42.32,93.43,metal,Turquoise,6.55,Twitterwire,503.33,4/7/2004
+46,Buffalo - Tenderloin,66.29,28.85,glass,Khaki,2.44,Leenti,455.27,3/30/2020
+47,Cake - French Pear Tart,55.48,19.05,metal,Crimson,8.97,Gigazoom,980.72,3/2/2013
+48,Tray - 12in Rnd Blk,92.53,22.65,glass,Green,8.02,Oozz,953.51,3/28/2003
+49,Arizona - Green Tea,8.3,86.65,plastic,Orange,2.67,Ozu,987.54,4/2/2017
+50,Coffee - Frthy Coffee Crisp,96.65,58.91,plastic,Red,6.89,Zoombeat,954.99,3/16/2010
+51,"Artichokes - Knobless, White",32.02,35.54,plastic,Puce,2.09,Meezzy,461.04,1/23/2012
+52,Wine - Vidal Icewine Magnotta,39.32,83.66,metal,Orange,9.63,Mynte,283.17,5/8/2022
+53,"Lettuce - Romaine, Heart",48.5,1.34,glass,Khaki,3.62,Zoomcast,212.59,11/16/2010
+54,Compound - Strawberry,9.4,46.72,glass,Turquoise,8.48,Jaxbean,11.45,10/1/2009
+55,Chutney Sauce - Mango,92.48,61.4,glass,Fuscia,2.28,Feedmix,542.28,7/6/2017
+56,"Ecolab - Orange Frc, Cleaner",17.32,38.25,wood,Indigo,6.12,Riffpath,591.17,5/30/2015
+57,Beer - Rickards Red,85.87,37.23,metal,Indigo,7.78,Ailane,360.88,11/14/2018
+58,Bacardi Mojito,37.29,99.23,glass,Puce,3.66,Devcast,802.96,4/18/2014
+59,Muffin Puck Ww Carrot,86.16,77.61,metal,Fuscia,0.36,DabZ,953.74,12/4/2002
+60,Buffalo - Short Rib Fresh,31.07,28.59,plastic,Yellow,7.02,Meevee,204.84,7/27/2006
+61,Lighter - Bbq,7.97,8.35,glass,Goldenrod,9.81,Mydeo,603.31,6/20/2015
+62,Sunflower Seed Raw,14.98,23.08,metal,Purple,8.17,Zoomdog,117.37,10/8/2008
+63,"Yogurt - Raspberry, 175 Gr",76.84,61.59,metal,Blue,9.31,Lazz,521.32,8/12/2018
+64,Cilantro / Coriander - Fresh,27.85,31.01,metal,Puce,10.0,Jabberstorm,77.92,5/9/2000
+65,Toamtoes 6x7 Select,36.43,67.32,plastic,Orange,4.67,Podcat,543.87,6/7/2009
+66,"Jam - Strawberry, 20 Ml Jar",85.79,48.87,wood,Turquoise,7.79,Teklist,193.3,5/27/2004
+67,Venison - Racks Frenched,69.36,18.91,plastic,Purple,2.01,Lazzy,291.89,12/18/2019
+68,V8 Pet,63.93,34.13,wood,Puce,4.57,Dablist,418.98,5/17/2019
+69,"Pasta - Bauletti, Chicken White",67.9,15.57,plastic,Blue,4.84,Skilith,52.94,5/21/2006
+70,"Gin - Gilbeys London, Dry",10.06,31.89,wood,Turquoise,1.29,Youspan,31.67,6/1/2021
+71,Flax Seed,81.79,80.71,plastic,Indigo,0.89,Skippad,300.13,10/3/2012
+72,Pork - Ham Hocks - Smoked,16.94,91.19,metal,Crimson,6.55,Edgewire,73.72,6/14/2015
+73,"Sparkling Wine - Rose, Freixenet",24.03,35.88,glass,Crimson,3.66,Skyndu,450.14,9/17/2014
+74,"Placemat - Scallop, White",79.25,75.39,metal,Goldenrod,1.65,Innojam,964.96,10/25/2004
+75,Container Clear 8 Oz,67.36,45.64,glass,Orange,0.94,Quire,168.0,1/3/2004
+76,Tart - Butter Plain Squares,68.06,28.75,wood,Teal,9.21,Twitterworks,291.67,4/13/2020
+77,Canada Dry,69.96,34.61,plastic,Fuscia,2.56,Edgepulse,653.47,10/22/2017
+78,"Club Soda - Schweppes, 355 Ml",26.61,88.46,wood,Puce,9.83,Photolist,183.05,10/18/2014
+79,Lamb - Loin Chops,37.09,84.43,plastic,Teal,7.59,Blogpad,274.68,7/17/2007
+80,Papayas,73.91,90.87,plastic,Aquamarine,3.6,Ailane,388.65,3/29/2011
+81,Sambuca - Ramazzotti,33.2,10.54,glass,Teal,1.58,Jetpulse,570.08,8/19/2015
+82,Oven Mitt - 13 Inch,89.14,34.04,plastic,Indigo,0.95,Photobug,378.74,4/23/2016
+83,"Mushroom - Morels, Dry",77.97,52.12,plastic,Blue,5.41,Wikizz,836.26,2/15/2021
+84,"Tortillas - Flour, 12",6.33,60.09,plastic,Green,2.56,Katz,388.49,1/25/2007
+85,Cheese - Swiss,13.04,18.67,metal,Orange,2.22,BlogXS,977.47,11/13/2011
+86,"Bread - Dark Rye, Loaf",76.24,89.92,plastic,Puce,4.07,Fivechat,991.88,2/8/2011
+87,Bandage - Flexible Neon,60.38,51.22,glass,Turquoise,6.07,InnoZ,363.86,4/14/2017
+88,Wine - Port Late Bottled Vintage,44.38,88.43,plastic,Turquoise,4.86,Dabshots,894.76,4/30/2007
+89,V8 Splash Strawberry Kiwi,62.92,89.54,glass,Puce,4.94,Fivebridge,341.58,5/28/2011
+90,Lettuce - Baby Salad Greens,96.45,79.7,metal,Red,4.17,Fiveclub,438.11,10/2/2017
+91,Bananas,98.93,81.93,plastic,Maroon,8.1,Dynazzy,209.12,6/16/2005
+92,Myers Planters Punch,78.63,94.91,plastic,Khaki,5.18,Ooba,892.56,10/6/2009
+93,Propel Sport Drink,36.62,24.43,plastic,Green,3.28,Jabbersphere,145.29,9/7/2008
+94,Sesame Seed,13.98,90.94,wood,Mauv,1.25,Kayveo,333.25,12/17/2019
+95,Chevril,16.32,69.4,glass,Indigo,9.65,Dynabox,729.35,3/29/2006
+96,Milk - 1%,91.56,72.59,wood,Aquamarine,3.87,DabZ,489.0,12/23/2003
+97,Coriander - Seed,31.95,85.57,metal,Purple,5.45,Avavee,79.6,2/19/2013
+98,Soup Campbells Mexicali Tortilla,21.74,11.67,glass,Crimson,2.59,Eamia,731.93,7/8/2020
+99,Buffalo - Striploin,94.3,31.7,metal,Teal,2.24,Demivee,636.04,7/8/2012
+100,Ice Cream - Turtles Stick Bar,10.3,41.27,plastic,Crimson,9.88,Aimbu,791.62,8/27/2017
+101,"Wine - Red, Cooking",73.02,24.57,wood,Puce,8.05,Trudeo,554.33,8/10/2003
+102,"Sauce - Bernaise, Mix",7.19,19.03,plastic,Fuscia,9.84,Yodoo,219.94,5/21/2002
+103,Mix - Cocktail Ice Cream,79.34,23.09,metal,Khaki,6.04,Bluejam,655.14,11/20/2014
+104,Juice - Lagoon Mango,64.44,16.4,wood,Fuscia,6.34,Eamia,547.41,3/23/2013
+105,Bagel - 12 Grain Preslice,63.28,84.19,plastic,Red,8.64,Gabcube,435.47,10/24/2003
+106,Samosa - Veg,6.68,63.81,glass,Green,9.03,InnoZ,898.05,7/22/2018
+107,"Pepper - Black, Crushed",15.56,95.41,metal,Pink,9.46,Cogidoo,625.29,4/12/2012
+108,Arrowroot,47.05,47.48,wood,Mauv,3.6,Rooxo,340.11,1/11/2016
+109,Emulsifier,55.94,52.12,metal,Fuscia,3.48,Youtags,655.02,4/19/2019
+110,Cauliflower,67.03,14.28,metal,Violet,6.8,Zoonder,757.24,4/13/2019
+111,Tea - Herbal - 6 Asst,88.76,97.56,metal,Yellow,4.59,Youbridge,71.36,9/4/2009
+112,Milk - Chocolate 250 Ml,24.46,57.7,plastic,Goldenrod,7.77,Aimbu,98.08,7/18/2001
+113,Sansho Powder,67.32,43.83,plastic,Yellow,6.45,Rhycero,68.83,5/13/2000
+114,Juice - Lemon,78.43,87.52,plastic,Teal,1.51,Demimbu,847.01,10/15/2006
+115,Muffin Chocolate Individual Wrap,55.29,53.53,glass,Khaki,5.99,Twitterbeat,532.7,2/3/2004
+116,Soup - Campbells Beef Noodle,57.65,35.98,metal,Blue,1.81,Ainyx,156.69,10/29/2022
+117,Energy Drink - Franks Pineapple,25.66,12.64,wood,Indigo,7.61,Riffpedia,419.38,11/1/2000
+118,"Wine - White, Chardonnay",42.98,38.7,wood,Aquamarine,4.92,Rhynoodle,281.18,1/30/2003
+119,"Wine - Niagara,vqa Reisling",41.89,84.26,metal,Mauv,7.43,Flipopia,319.6,7/17/2016
+120,Ocean Spray - Ruby Red,7.46,45.45,plastic,Aquamarine,9.71,Flipbug,501.05,9/3/2020
+121,Cheese - Pied De Vents,65.35,23.33,metal,Blue,0.26,Quimm,183.15,4/9/2014
+122,Bread - Corn Muffaleta Onion,8.53,61.63,plastic,Goldenrod,5.67,Vitz,456.63,10/6/2019
+123,Whmis - Spray Bottle Trigger,89.12,74.72,plastic,Pink,8.17,Gigashots,33.8,8/20/2008
+124,Beef - Tenderloin,63.17,33.64,metal,Maroon,1.25,Blogpad,795.21,4/23/2002
+125,Crawfish,8.83,43.74,plastic,Maroon,5.68,Thoughtbeat,400.13,8/10/2017
+126,"Beans - Black Bean, Canned",35.78,89.93,plastic,Aquamarine,0.59,Tagopia,769.88,11/1/2014
+127,"Yogurt - Raspberry, 175 Gr",79.72,77.97,metal,Yellow,2.36,Twitterbeat,873.47,10/14/2005
+128,Wine - Vineland Estate Semi - Dry,46.11,85.22,plastic,Mauv,8.6,Tagchat,277.53,7/8/2012
+129,"Wine - White, Lindemans Bin 95",49.55,47.19,metal,Green,7.21,Gigabox,21.21,1/6/2008
+130,Appetizer - Smoked Salmon / Dill,50.87,42.36,wood,Purple,7.68,Twiyo,266.25,11/24/2002
+131,Pike - Frozen Fillet,89.85,33.29,plastic,Goldenrod,0.39,Flipbug,622.95,7/10/2010
+132,Broom - Corn,14.99,96.28,wood,Puce,3.42,Devbug,553.76,11/12/2011
+133,Beef - Cow Feet Split,63.36,39.82,metal,Fuscia,2.56,Muxo,318.05,2/2/2020
+134,"Cheese - Havarti, Salsa",83.55,77.39,wood,Puce,2.36,JumpXS,259.57,12/31/2015
+135,Orange Roughy 6/8 Oz,84.64,3.43,plastic,Yellow,4.45,Babbleset,983.07,1/9/2014
+136,Energy Drink - Franks Original,6.29,37.78,glass,Crimson,2.19,Twitterlist,531.49,5/12/2020
+137,Mace,26.08,70.06,metal,Orange,3.78,Rooxo,229.05,5/10/2005
+138,Tray - 12in Rnd Blk,39.81,75.93,wood,Crimson,7.16,Jayo,619.21,8/14/2014
+139,"Cheese - Mozzarella, Shredded",21.78,77.45,glass,Blue,4.48,Jabberstorm,888.85,5/21/2007
+140,Salad Dressing,71.6,72.08,plastic,Purple,9.83,Thoughtblab,428.35,3/16/2004
+141,Ecolab Digiclean Mild Fm,74.39,8.49,wood,Pink,4.95,JumpXS,436.63,10/31/2005
+142,Walkers Special Old Whiskey,87.15,54.43,wood,Violet,1.57,Realpoint,285.99,4/3/2019
+143,Bacardi Mojito,93.07,19.41,glass,Teal,8.29,Flipstorm,428.93,7/14/2014
+144,Veal - Kidney,77.68,10.34,plastic,Pink,2.07,Dabfeed,707.39,2/23/2012
+145,Paper Cocktail Umberlla 80 - 180,56.25,85.89,plastic,Turquoise,2.41,Muxo,938.62,10/11/2011
+146,Sausage - Chorizo,88.99,1.68,wood,Green,4.64,Twimm,20.83,9/28/2002
+147,Appetizer - Seafood Assortment,34.85,32.37,wood,Yellow,5.91,Tagpad,853.74,2/15/2002
+148,Turkey Leg With Drum And Thigh,75.56,53.0,glass,Blue,3.81,Jabbertype,529.8,2/16/2015
+149,V8 Splash Strawberry Kiwi,6.41,74.93,plastic,Pink,3.09,Flipstorm,873.8,8/2/2001
+150,Cake - Mini Cheesecake,41.65,42.4,metal,Teal,0.72,Edgetag,220.17,5/25/2002
+151,Beef - Eye Of Round,79.41,59.28,plastic,Indigo,5.98,Livepath,94.59,10/7/2002
+152,Cabbage Roll,32.59,18.3,metal,Fuscia,0.73,BlogXS,461.07,10/23/2009
+153,Latex Rubber Gloves Size 9,65.22,55.37,wood,Pink,4.58,Jetpulse,288.89,12/28/2002
+154,Beer - Labatt Blue,48.84,79.67,wood,Pink,7.85,Edgeify,782.41,4/28/2002
+155,Beans - Fava Fresh,33.48,47.0,wood,Blue,8.55,Rhynoodle,845.17,10/3/2002
+156,Chickhen - Chicken Phyllo,35.07,97.87,glass,Fuscia,3.09,Kazio,583.38,4/7/2019
+157,Tea - Earl Grey,54.01,69.97,metal,Red,5.36,Rhynoodle,616.58,1/13/2012
+158,Soup Campbells - Tomato Bisque,8.22,98.48,metal,Teal,5.92,Skiba,274.18,6/2/2002
+159,Paper Towel Touchless,30.91,50.12,plastic,Purple,2.46,Zoomlounge,580.0,4/16/2011
+160,Tart - Butter Plain Squares,67.6,47.69,plastic,Aquamarine,4.23,Buzzshare,516.86,9/2/2011
+161,Syrup - Pancake,8.62,23.56,plastic,Goldenrod,4.73,Pixonyx,654.73,9/9/2001
+162,Squash - Acorn,28.72,42.94,wood,Pink,8.91,Demizz,464.27,8/10/2022
+163,"Nut - Almond, Blanched, Whole",45.39,64.59,glass,Turquoise,4.0,Livepath,178.8,1/21/2003
+164,Mushroom - White Button,94.07,90.74,wood,Puce,1.97,Lazzy,377.46,1/6/2004
+165,"Tarragon - Primerba, Paste",44.89,98.15,wood,Puce,1.96,Gabcube,65.54,2/19/2008
+166,Gloves - Goldtouch Disposable,65.19,19.77,metal,Violet,8.22,Buzzster,607.84,11/10/2009
+167,"Wine - Harrow Estates, Vidal",45.03,99.5,metal,Indigo,7.91,LiveZ,488.26,4/12/2005
+168,Muffin - Zero Transfat,93.01,4.84,metal,Indigo,7.73,Dynabox,619.37,6/18/2008
+169,Coffee - Espresso,27.98,20.99,metal,Pink,1.17,Gabvine,756.53,4/6/2013
+170,"Soup - Campbells, Creamy",2.18,48.01,wood,Teal,4.52,Youtags,867.54,5/14/2017
+171,Fruit Mix - Light,47.25,91.26,wood,Khaki,3.39,Buzzshare,691.13,10/16/2005
+172,Yeast Dry - Fermipan,75.87,12.4,plastic,Green,3.96,Realblab,482.45,2/6/2017
+173,Sugar - Invert,15.97,27.98,plastic,Indigo,0.22,Ntags,854.28,5/22/2000
+174,Coffee Decaf Colombian,64.31,58.04,metal,Puce,8.49,Gabtune,673.92,1/4/2013
+175,Pastry - Cheese Baked Scones,40.13,3.38,wood,Indigo,4.97,Dabtype,257.96,10/9/2000
+176,Bread - French Baquette,54.81,83.65,metal,Purple,9.55,Tekfly,717.45,10/29/2014
+177,Eggplant Italian,86.54,59.63,metal,Maroon,1.18,Browsetype,215.14,2/25/2006
+178,"Wine - Red, Cabernet Sauvignon",15.18,13.99,wood,Pink,9.35,Twinte,530.36,12/22/2012
+179,Glucose,69.98,70.99,glass,Red,5.32,Omba,836.7,4/24/2022
+180,Sherry - Dry,97.9,50.06,plastic,Maroon,7.67,Quimm,766.99,5/30/2006
+181,Truffle Shells - White Chocolate,34.39,41.69,metal,Orange,5.96,Zoomdog,775.47,6/5/2018
+182,Cookie Dough - Chocolate Chip,25.18,59.8,wood,Turquoise,4.62,Demizz,40.01,7/24/2013
+183,Soup - Campbells - Chicken Noodle,87.82,30.89,wood,Puce,5.37,Dynabox,463.08,6/9/2017
+184,Piping Jelly - All Colours,31.92,50.96,plastic,Blue,4.74,Chatterbridge,250.07,4/29/2009
+185,Sprouts - Pea,64.52,74.14,glass,Crimson,5.06,Miboo,92.66,9/25/2015
+186,"Beef - Ground, Extra Lean, Fresh",88.25,79.68,glass,Pink,9.09,Rhycero,770.68,8/14/2013
+187,Ecolab - Solid Fusion,17.84,63.4,wood,Fuscia,1.46,Linklinks,485.54,2/28/2005
+188,"Beans - Black Bean, Canned",33.12,64.41,wood,Crimson,2.49,Jabbersphere,791.9,2/10/2018
+189,Milk - 2%,49.14,51.5,wood,Mauv,3.96,Topicware,350.76,6/12/2002
+190,Wine - Pinot Noir Pond Haddock,15.77,99.32,wood,Indigo,9.02,Thoughtsphere,795.13,2/10/2018
+191,Fib N9 - Prague Powder,66.34,79.66,wood,Yellow,4.31,Jaxspan,148.82,8/13/2002
+192,Muffin Mix - Carrot,86.17,84.35,glass,Yellow,1.53,Fiveclub,451.36,5/27/2014
+193,Fond - Neutral,3.62,8.53,glass,Yellow,2.98,Photofeed,535.41,12/20/2022
+194,Irish Cream - Butterscotch,88.64,14.01,metal,Green,5.41,Quaxo,925.55,9/17/2021
+195,Jolt Cola,2.92,52.87,wood,Blue,7.83,Skynoodle,203.36,11/16/2001
+196,Mushroom - Chanterelle Frozen,59.75,92.26,metal,Orange,1.45,Yodel,655.86,1/9/2000
+197,Jolt Cola - Electric Blue,71.0,13.11,plastic,Mauv,8.17,Mydeo,234.65,2/15/2006
+198,Soup - Campbells Bean Medley,7.23,39.12,wood,Maroon,0.6,Cogidoo,899.35,9/26/2022
+199,Paste - Black Olive,5.91,52.47,glass,Purple,8.01,Divape,384.77,4/28/2017
+200,Pear - Halves,78.1,22.22,plastic,Indigo,2.84,Eare,672.08,4/23/2012
+201,"Crab - Blue, Frozen",2.37,13.55,wood,Khaki,8.86,Tagchat,936.28,4/12/2004
+202,Melon - Cantaloupe,73.32,56.13,plastic,Orange,3.52,Skiptube,302.89,7/24/2003
+203,Longos - Cheese Tortellini,80.41,27.3,metal,Yellow,5.89,Skynoodle,14.98,8/1/2018
+204,"Beef - Ox Tongue, Pickled",73.94,82.5,metal,Turquoise,7.28,Thoughtsphere,69.2,11/8/2022
+205,Kiwi,86.14,54.47,plastic,Pink,0.66,Aimbo,0.53,3/5/2012
+206,Scallops - In Shell,30.8,33.32,wood,Green,0.33,Katz,166.35,9/8/2011
+207,Cup - Translucent 7 Oz Clear,22.32,14.4,wood,Khaki,1.16,Kwilith,898.49,7/21/2018
+208,Sour Puss Raspberry,85.33,61.93,wood,Puce,8.55,Livefish,870.91,6/1/2020
+209,Milk 2% 500 Ml,78.88,46.57,wood,Puce,1.36,Meejo,718.03,9/16/2014
+210,Beer - Labatt Blue,71.3,67.03,plastic,Indigo,7.2,Katz,885.23,9/18/2019
+211,Pate - Liver,65.58,99.6,glass,Fuscia,3.33,Tagtune,921.54,12/21/2022
+212,"Lemonade - Natural, 591 Ml",91.99,30.65,wood,Orange,6.82,Oyonder,824.6,12/11/2017
+213,Canadian Emmenthal,47.07,5.83,wood,Aquamarine,8.72,Dynava,33.75,4/11/2021
+214,Wine - Dubouef Macon - Villages,69.92,35.12,wood,Teal,7.55,Skipstorm,416.88,3/28/2020
+215,Oil - Hazelnut,40.67,92.71,glass,Aquamarine,1.93,Zoombox,525.92,7/17/2019
+216,Emulsifier,10.04,40.79,wood,Puce,2.78,Feedfish,47.65,7/12/2022
+217,Vaccum Bag - 14x20,51.92,81.53,plastic,Fuscia,8.15,Gabvine,926.02,11/23/2010
+218,Sherbet - Raspberry,18.97,40.23,plastic,Maroon,0.35,Einti,814.14,1/20/2008
+219,Raspberries - Frozen,43.22,34.82,metal,Aquamarine,7.53,Voonte,535.21,11/15/2009
+220,"Champagne - Brights, Dry",32.57,42.49,plastic,Yellow,3.11,Zoomdog,873.89,6/14/2003
+221,Pepper Squash,97.08,7.55,metal,Green,5.36,Youopia,192.08,8/6/2005
+222,Pork - Back Ribs,40.36,94.91,plastic,Turquoise,0.94,Mynte,253.92,5/15/2003
+223,Lentils - Green Le Puy,26.95,8.9,metal,Violet,1.21,Twimm,985.47,8/5/2004
+224,Mushroom - King Eryingii,77.7,68.5,metal,Khaki,1.75,Snaptags,709.21,2/14/2014
+225,Carbonated Water - Strawberry,31.87,58.62,plastic,Pink,4.01,Bluejam,112.15,7/2/2019
+226,Wanton Wrap,33.54,9.26,wood,Blue,7.94,Rhyzio,607.08,9/3/2007
+227,"Cheese - Brie, Cups 125g",20.4,90.51,glass,Puce,7.49,Realmix,246.12,5/7/2010
+228,Anisette - Mcguiness,76.31,76.17,plastic,Aquamarine,1.61,Pixonyx,96.91,6/19/2000
+229,Turnip - Mini,37.66,62.2,glass,Khaki,2.31,Fadeo,293.15,9/14/2011
+230,Bagelers - Cinn / Brown Sugar,70.03,24.27,wood,Turquoise,8.0,Fadeo,83.43,11/4/2013
+231,Cookies - Englishbay Wht,73.73,69.43,metal,Red,0.13,Brainverse,533.24,2/25/2018
+232,Baking Soda,93.22,32.72,plastic,Indigo,4.39,Trilia,198.61,2/11/2000
+233,Appetizer - Lobster Phyllo Roll,54.24,26.56,glass,Khaki,0.29,Reallinks,392.89,9/1/2001
+234,Clam Nectar,57.48,25.85,glass,Maroon,6.26,Skidoo,231.5,10/1/2010
+235,"Nut - Hazelnut, Ground, Natural",46.15,90.72,plastic,Goldenrod,2.51,Quatz,802.4,10/17/2017
+236,Pastry - Trippleberry Muffin - Mini,73.02,95.68,metal,Blue,4.07,Skinte,679.45,2/11/2006
+237,Grand Marnier,47.75,81.85,metal,Aquamarine,7.32,Eabox,328.7,7/31/2021
+238,Puree - Mango,39.78,33.33,glass,Violet,4.47,Quatz,858.21,12/26/2022
+239,"Rum - Light, Captain Morgan",58.22,80.09,glass,Teal,8.94,Trudeo,419.39,12/22/2015
+240,"Bread - Roll, Whole Wheat",86.69,10.62,glass,Blue,4.32,Fivespan,593.63,9/2/2014
+241,Cherries - Fresh,34.71,7.91,metal,Orange,1.87,Thoughtbeat,723.37,4/12/2010
+242,Onion Powder,42.25,9.88,plastic,Puce,4.61,Fivechat,871.81,4/15/2022
+243,Mushrooms - Honey,44.09,78.13,wood,Maroon,7.4,Yakitri,737.45,4/29/2008
+244,Wine - Crozes Hermitage E.,12.03,62.7,wood,Pink,0.45,Yakitri,814.23,11/9/2005
+245,Guinea Fowl,20.22,47.83,glass,Red,6.31,Zoomlounge,274.83,3/28/2009
+246,Wine - Charddonnay Errazuriz,91.8,63.54,plastic,Blue,9.57,Skyble,661.63,9/10/2020
+247,Beef - Sushi Flat Iron Steak,96.9,12.46,wood,Yellow,1.7,Realpoint,44.07,1/31/2002
+248,"Soup - Knorr, Chicken Noodle",29.01,25.32,plastic,Orange,9.72,Youfeed,171.98,5/13/2019
+249,Coffee Beans - Chocolate,49.88,41.13,metal,Pink,9.3,Gabtype,983.64,8/31/2022
+250,Lid - 3oz Med Rec,91.53,95.51,wood,Goldenrod,4.66,Photospace,369.74,6/23/2018
+251,Salt And Pepper Mix - Black,60.04,68.91,wood,Violet,4.59,Skipstorm,304.02,7/17/2013
+252,Initation Crab Meat,89.59,61.82,wood,Teal,2.46,Plambee,975.71,11/1/2002
+253,Taro Leaves,70.24,16.49,metal,Teal,4.42,Skipstorm,678.59,12/13/2006
+254,Wine - Hardys Bankside Shiraz,50.48,42.99,plastic,Aquamarine,8.03,Wordtune,995.63,4/1/2014
+255,Mushrooms - Honey,6.84,34.93,glass,Pink,5.34,Bubblemix,70.64,1/9/2019
+256,Beer - Upper Canada Lager,12.52,13.36,metal,Red,3.0,Eire,53.5,12/21/2012
+257,"Lemonade - Natural, 591 Ml",36.43,47.63,metal,Khaki,9.78,Bluezoom,281.41,8/19/2019
+258,Rabbit - Frozen,72.6,68.04,metal,Crimson,5.77,Twitterbeat,854.06,12/8/2013
+259,Lid - 3oz Med Rec,59.28,77.93,plastic,Aquamarine,2.34,Quinu,672.08,3/12/2019
+260,Beans - French,16.35,41.34,metal,Pink,0.31,Buzzster,121.99,11/20/2016
+261,"Sauce - Bernaise, Mix",45.9,67.71,plastic,Mauv,4.45,Demimbu,9.23,8/26/2021
+262,Bananas,58.96,88.74,metal,Indigo,1.28,Katz,731.01,10/6/2002
+263,"Mushroom - Porcini, Dry",2.68,49.41,plastic,Fuscia,2.54,Rooxo,42.32,6/25/2001
+264,Wine - Redchard Merritt,13.37,96.05,wood,Maroon,0.14,Photobug,11.93,2/19/2004
+265,"Pork - Bacon, Double Smoked",10.83,29.56,metal,Red,1.6,Linktype,417.88,12/29/2020
+266,Appetizer - Chicken Satay,15.69,48.65,wood,Purple,4.46,Skalith,425.54,5/6/2006
+267,Horseradish - Prepared,16.83,41.95,glass,Red,5.46,Myworks,931.12,9/10/2011
+268,"Bread - Roll, Canadian Dinner",37.86,84.39,glass,Turquoise,8.82,Realblab,299.68,8/19/2014
+269,Irish Cream - Butterscotch,17.89,63.84,plastic,Indigo,1.31,Kazu,49.0,3/25/2019
+270,Coffee - Hazelnut Cream,17.47,96.98,glass,Puce,6.04,Eadel,210.85,1/31/2021
+271,Food Colouring - Green,28.4,73.52,wood,Green,3.63,Abatz,830.56,4/6/2005
+272,Veal - Kidney,36.79,33.68,glass,Mauv,1.25,Mycat,455.96,8/13/2000
+273,Cup - Paper 10oz 92959,46.97,99.03,plastic,Fuscia,2.88,Oba,90.11,7/29/2013
+274,Vinegar - Cider,48.15,94.8,glass,Fuscia,0.11,Einti,443.79,4/29/2021
+275,Lettuce - Treviso,5.6,97.38,glass,Crimson,7.28,Skinte,406.49,3/27/2010
+276,Boogies,54.0,16.62,glass,Violet,7.26,Fiveclub,726.6,1/18/2009
+277,Curry Powder,11.73,78.83,glass,Indigo,3.44,Devpoint,509.42,11/14/2005
+278,Turnip - Mini,85.63,67.83,glass,Crimson,3.75,Ailane,339.43,12/16/2021
+279,V8 - Vegetable Cocktail,12.02,31.93,plastic,Red,6.92,Babbleblab,12.5,5/7/2019
+280,Coffee Cup 8oz 5338cd,88.74,8.22,wood,Goldenrod,3.39,Wikido,716.27,11/15/2010
+281,Soup - Tomato Mush. Florentine,43.68,42.16,glass,Orange,5.64,Quimm,480.44,4/15/2009
+282,Cup - 4oz Translucent,7.62,48.45,glass,Turquoise,3.54,Tazz,958.32,11/3/2017
+283,"Cherries - Bing, Canned",91.78,71.69,glass,Maroon,3.63,Realcube,626.24,3/9/2016
+284,Pasta - Angel Hair,61.29,64.24,wood,Blue,7.31,Leenti,20.95,10/9/2000
+285,Lettuce - Escarole,16.39,66.92,metal,Khaki,8.82,Quamba,982.43,1/22/2009
+286,Vinegar - Balsamic,71.07,6.37,metal,Purple,7.16,Zoombox,32.04,1/24/2013
+287,Tea - Jasmin Green,17.65,30.09,plastic,Green,2.16,Kamba,415.33,6/1/2017
+288,Persimmons,87.65,27.58,wood,Goldenrod,6.34,Realpoint,716.64,4/7/2012
+289,Juice - Propel Sport,45.74,19.11,metal,Orange,0.72,Riffwire,62.36,12/3/2001
+290,Spice - Peppercorn Melange,87.89,99.9,metal,Yellow,4.54,Youfeed,142.22,12/14/2012
+291,Bread - Crusty Italian Poly,97.52,80.68,metal,Khaki,4.15,Eidel,220.94,8/16/2001
+292,Pork - Bones,68.57,31.4,wood,Fuscia,4.9,Omba,120.14,1/15/2018
+293,Bread - Wheat Baguette,51.68,13.41,glass,Khaki,8.99,Rooxo,630.23,8/27/2007
+294,Beets - Mini Golden,76.02,58.36,wood,Goldenrod,2.02,Cogidoo,543.8,11/14/2015
+295,Pork Loin Bine - In Frenched,76.94,80.64,glass,Teal,6.48,Wikizz,89.63,7/21/2017
+296,"Mushrooms - Black, Dried",59.83,12.79,glass,Maroon,9.67,Rhynyx,611.8,8/15/2018
+297,Pear - Halves,89.81,38.47,wood,Teal,9.63,Kwilith,722.21,11/19/2019
+298,"Water - Mineral, Natural",31.11,57.33,plastic,Red,6.87,Ntag,521.19,12/24/2021
+299,"Beans - Long, Chinese",89.52,38.6,plastic,Green,3.99,Quaxo,771.35,12/17/2015
+300,Radish - Pickled,66.8,54.77,plastic,Fuscia,3.5,Topicblab,828.15,4/25/2000
+301,"Rum - Cream, Amarula",88.13,53.68,wood,Pink,7.79,Lajo,912.64,1/17/2015
+302,Jam - Raspberry,57.61,2.09,wood,Fuscia,3.63,Teklist,567.82,11/19/2021
+303,Cream - 10%,54.37,81.19,metal,Khaki,2.43,Voolith,442.88,6/30/2003
+304,"Mop Head - Cotton, 24 Oz",9.71,37.63,wood,Goldenrod,4.45,Twitterbridge,790.58,8/7/2019
+305,Butcher Twine 4r,31.25,74.11,glass,Violet,0.61,Mynte,679.46,9/28/2008
+306,"Mushroom - Enoki, Fresh",74.05,97.13,metal,Yellow,3.55,Dabtype,944.16,1/5/2005
+307,"Chocolate - Pistoles, Lactee, Milk",65.12,15.28,plastic,Red,4.4,Quinu,19.45,7/29/2019
+308,Beer - Blue,81.89,34.93,wood,Yellow,4.76,Rhynoodle,156.51,12/26/2001
+309,Beef - Tenderloin Tails,90.47,8.83,glass,Goldenrod,9.21,Zoovu,769.48,1/30/2010
+310,Plasticspoonblack,29.82,31.93,wood,Yellow,9.58,Eayo,108.11,3/24/2019
+311,"Melon - Watermelon, Seedless",27.9,34.05,wood,Purple,8.43,Browsetype,503.54,10/4/2003
+312,"Cake Circle, Foil, Scallop",1.73,94.6,glass,Khaki,1.13,Browsetype,344.48,10/25/2013
+313,Sole - Fillet,86.66,62.63,glass,Teal,4.84,Divavu,258.71,1/13/2003
+314,Bar Nature Valley,88.02,69.73,metal,Indigo,4.05,Skyba,656.71,4/22/2012
+315,Sansho Powder,62.65,78.6,metal,Orange,7.26,Shuffledrive,472.24,8/18/2013
+316,"Cherries - Bing, Canned",18.55,92.68,metal,Orange,3.04,Kare,821.28,9/26/2022
+317,Tamarind Paste,68.64,25.28,glass,Indigo,2.79,Livetube,133.95,1/20/2001
+318,Towels - Paper / Kraft,12.58,16.74,wood,Puce,4.47,Riffpath,335.93,10/30/2004
+319,Wine - Two Oceans Cabernet,70.65,28.03,plastic,Crimson,5.68,Oyoloo,987.01,7/11/2001
+320,Wine - Crozes Hermitage E.,90.38,74.57,plastic,Fuscia,7.24,Buzzbean,520.9,3/25/2018
+321,Beer - Molson Excel,18.61,66.26,wood,Pink,1.74,Eidel,131.68,2/25/2012
+322,Green Tea Refresher,11.4,63.19,metal,Indigo,4.12,Mybuzz,156.92,10/31/2004
+323,Chocolate - White,6.75,89.54,glass,Puce,4.77,Tagfeed,366.48,6/9/2018
+324,Longos - Grilled Chicken With,50.76,39.46,wood,Orange,4.13,Realmix,816.75,2/18/2019
+325,Cheese - Comte,90.2,31.78,glass,Mauv,8.8,Yakijo,220.32,4/7/2015
+326,Coffee - Egg Nog Capuccino,89.85,57.97,glass,Goldenrod,8.3,Skimia,334.36,4/1/2005
+327,"Soup - Campbells, Classic Chix",74.87,46.1,glass,Teal,4.48,Yambee,40.65,1/10/2008
+328,Piping Jelly - All Colours,17.99,34.37,plastic,Blue,6.91,Agimba,460.73,7/14/2007
+329,"Napkin - Dinner, White",27.87,48.87,plastic,Yellow,7.9,Youspan,288.47,3/9/2017
+330,Soup - Campbells - Chicken Noodle,6.95,25.3,plastic,Purple,2.28,Meevee,609.95,11/20/2004
+331,Longos - Grilled Veg Sandwiches,63.25,78.62,plastic,Purple,6.42,Dabtype,78.04,3/7/2009
+332,Juice - Mango,59.5,73.89,wood,Red,9.48,Jayo,286.72,6/17/2013
+333,Yoghurt Tubes,79.32,43.91,metal,Purple,3.01,Livetube,203.69,3/20/2018
+334,Muffin - Banana Nut Individual,55.97,16.66,plastic,Puce,2.56,Yakitri,769.63,6/3/2005
+335,Nantucket - Pomegranate Pear,44.42,88.01,metal,Red,0.25,Linklinks,665.38,9/15/2010
+336,Bread - Italian Roll With Herbs,35.63,64.08,plastic,Goldenrod,1.61,Youopia,997.27,10/7/2006
+337,Pastry - Baked Cinnamon Stick,52.27,39.43,wood,Indigo,6.67,Gabcube,880.49,8/2/2013
+338,"Beef - Tongue, Cooked",1.72,51.54,metal,Crimson,8.81,Realmix,794.99,2/23/2003
+339,Pike - Frozen Fillet,95.94,22.03,metal,Turquoise,2.07,Quinu,360.0,4/16/2019
+340,"Bread - Roll, Italian",21.14,46.76,glass,Crimson,2.18,Wikizz,157.37,5/10/2007
+341,Pate - Liver,27.77,68.21,glass,Mauv,9.82,Yakitri,50.63,6/8/2005
+342,Dome Lid Clear P92008h,43.36,29.49,wood,Green,6.69,Yambee,379.97,9/24/2020
+343,"Jam - Blackberry, 20 Ml Jar",19.96,40.39,metal,Puce,7.84,Oyondu,399.45,10/14/2021
+344,Soup - Chicken And Wild Rice,85.71,98.25,plastic,Crimson,2.52,Zoomdog,280.37,6/21/2005
+345,Bread - Multigrain Oval,97.43,14.3,metal,Violet,9.14,Oba,817.01,5/21/2003
+346,Lamb - Rack,90.88,84.4,metal,Aquamarine,4.25,Eare,22.26,1/2/2007
+347,Appetizer - Southwestern,27.45,19.34,wood,Goldenrod,8.51,Flipstorm,25.47,5/31/2012
+348,Soup Campbells Mexicali Tortilla,41.98,40.01,glass,Yellow,7.92,Skimia,316.95,8/16/2002
+349,Trueblue - Blueberry 12x473ml,67.0,58.95,metal,Blue,7.73,Blogpad,508.85,9/27/2020
+350,Bandage - Flexible Neon,3.1,46.3,glass,Puce,4.84,Skippad,507.36,1/13/2017
+351,Bar - Granola Trail Mix Fruit Nut,19.36,51.28,plastic,Turquoise,5.99,Abata,314.72,8/21/2003
+352,"Oil - Truffle, Black",20.43,85.35,plastic,Pink,7.59,Yabox,595.36,3/8/2018
+353,Pastry - Banana Muffin - Mini,7.16,40.54,glass,Turquoise,8.06,Twimbo,174.8,2/21/2012
+354,French Pastries,61.75,10.49,wood,Turquoise,0.52,Chatterbridge,461.03,9/13/2008
+355,Fenngreek Seed,19.57,92.66,metal,Aquamarine,6.66,Skipfire,413.98,6/18/2017
+356,"Chicken - Base, Ultimate",26.41,2.43,wood,Pink,7.76,Kwilith,456.02,3/21/2013
+357,Lamb Tenderloin Nz Fr,46.04,88.74,metal,Fuscia,3.34,Blogspan,154.82,4/8/2018
+358,"Pepper - Black, Ground",65.51,40.44,glass,Crimson,1.3,Geba,682.58,11/5/2014
+359,Mahi Mahi,34.77,70.81,metal,Purple,0.19,Zoomzone,121.6,9/30/2016
+360,Fork - Plastic,2.76,66.56,metal,Violet,7.42,Browsetype,495.77,5/23/2017
+361,Beer - True North Strong Ale,58.56,26.08,wood,Maroon,3.01,Quire,12.3,3/19/2006
+362,Sausage - Meat,55.39,32.75,glass,Pink,0.4,Tazz,629.88,3/29/2000
+363,Beans - Green,21.34,79.42,plastic,Maroon,1.71,Wikibox,628.52,8/21/2019
+364,"Iced Tea - Lemon, 460 Ml",37.03,45.64,wood,Puce,2.14,Brainverse,446.63,4/23/2003
+365,The Pop Shoppe - Root Beer,31.26,44.29,wood,Indigo,8.79,Divanoodle,36.39,10/29/2018
+366,"Tomatoes - Vine Ripe, Red",2.26,53.64,plastic,Puce,7.19,Zooxo,388.75,10/18/2015
+367,Bagel - Sesame Seed Presliced,54.34,82.75,glass,Turquoise,3.47,Cogilith,247.43,1/1/2002
+368,Chinese Foods - Chicken,87.92,14.82,glass,Indigo,5.88,Skinix,282.47,4/20/2016
+369,Carbonated Water - Peach,68.49,35.61,glass,Orange,4.92,Meemm,473.4,8/25/2021
+370,Venison - Racks Frenched,61.43,36.05,wood,Violet,5.28,Tazz,279.97,2/14/2004
+371,"Cookies - Oreo, 4 Pack",69.01,79.54,glass,Indigo,1.96,Leexo,485.81,7/11/2015
+372,Latex Rubber Gloves Size 9,33.05,91.22,glass,Red,3.26,Quinu,298.24,11/6/2010
+373,"Rum - Coconut, Malibu",97.75,89.45,plastic,Khaki,1.53,Topiczoom,142.42,4/28/2001
+374,Broom - Corn,18.47,38.83,metal,Yellow,4.17,Tagopia,407.8,11/28/2008
+375,Muffin Mix - Banana Nut,37.88,91.99,glass,Orange,3.3,Zoozzy,106.75,5/16/2014
+376,Shrimp - Black Tiger 16/20,55.55,4.43,plastic,Turquoise,1.2,Twitterbridge,54.48,9/13/2015
+377,Jameson Irish Whiskey,58.67,94.9,plastic,Blue,8.3,Leenti,217.96,10/14/2012
+378,Russian Prince,88.98,43.81,wood,Fuscia,3.37,Fliptune,938.04,12/7/2021
+379,Sauce - Oyster,74.6,34.07,glass,Orange,1.14,Yotz,613.79,11/29/2012
+380,Mix - Cocktail Strawberry Daiquiri,23.99,65.4,plastic,Fuscia,2.24,Jabbersphere,211.47,12/25/2008
+381,"Soup - Campbells, Chix Gumbo",48.28,49.32,wood,Red,1.08,Twitternation,935.02,11/24/2012
+382,Gloves - Goldtouch Disposable,65.58,19.25,wood,Teal,9.67,Fatz,476.6,5/1/2007
+383,Milk - Condensed,54.97,7.82,wood,Purple,5.35,Myworks,645.06,12/17/2017
+384,Coffee Swiss Choc Almond,63.66,32.11,plastic,Pink,8.18,Roombo,95.96,2/1/2021
+385,Squash - Pepper,42.6,89.94,wood,Khaki,0.71,Twimm,221.71,7/14/2010
+386,Sauce - Oyster,94.39,71.23,wood,Goldenrod,5.54,Demizz,498.27,1/5/2019
+387,Napkin - Beverage 1 Ply,66.06,57.61,metal,Red,0.71,Tambee,549.59,11/29/2019
+388,Vanilla Beans,50.59,87.26,glass,Crimson,4.74,Cogibox,159.65,1/4/2000
+389,"Chocolate - Semi Sweet, Calets",12.04,38.81,metal,Crimson,4.65,Centimia,666.44,5/28/2001
+390,Soup - Cream Of Potato / Leek,87.89,54.47,plastic,Crimson,2.72,Skinix,639.42,5/10/2007
+391,Salmon Steak - Cohoe 8 Oz,58.6,37.79,glass,Yellow,8.88,Jatri,962.1,9/11/2022
+392,Fork - Plastic,42.36,63.53,plastic,Purple,0.69,Mymm,677.35,7/28/2005
+393,"Yogurt - Raspberry, 175 Gr",90.1,18.82,wood,Goldenrod,1.51,Rhybox,792.19,9/4/2016
+394,Rabbit - Frozen,26.51,48.11,glass,Fuscia,8.12,Centizu,422.17,2/11/2001
+395,Pork - Sausage Casing,87.03,65.37,plastic,Aquamarine,5.56,Browsezoom,241.92,1/5/2021
+396,Soup Campbells - Tomato Bisque,98.9,91.56,wood,Pink,8.88,Edgeify,98.19,2/16/2020
+397,Sage Ground Wiberg,24.91,49.06,metal,Pink,2.69,Brightbean,443.97,12/10/2018
+398,Curry Powder Madras,54.39,8.49,plastic,Pink,4.3,Photofeed,840.35,10/10/2008
+399,Lemon Balm - Fresh,48.74,49.1,plastic,Pink,8.18,Tagtune,359.47,1/26/2017
+400,Pomegranates,49.89,70.96,glass,Mauv,6.15,Edgeblab,533.89,9/19/2013
+401,"Brocolinni - Gaylan, Chinese",71.11,93.07,plastic,Orange,6.75,Eadel,275.28,7/11/2006
+402,Pickles - Gherkins,66.77,82.08,metal,Yellow,4.1,Twitterbridge,466.19,12/4/2003
+403,Sour Puss Sour Apple,64.39,36.38,metal,Khaki,3.94,Lazz,38.74,6/1/2008
+404,"Nut - Pistachio, Shelled",82.59,52.62,metal,Goldenrod,5.3,Vipe,969.93,12/28/2005
+405,Pop - Club Soda Can,44.29,91.02,wood,Violet,4.95,Blogpad,56.31,11/12/2001
+406,Milk - Chocolate 250 Ml,56.49,78.89,plastic,Indigo,2.99,Topdrive,740.13,7/20/2008
+407,Paste - Black Olive,98.08,5.3,glass,Goldenrod,7.12,Realbuzz,90.93,2/17/2007
+408,Slt - Individual Portions,91.83,71.49,metal,Turquoise,6.73,Livepath,807.19,6/9/2013
+409,Danishes - Mini Raspberry,95.59,58.48,glass,Maroon,8.63,Realfire,363.55,12/25/2021
+410,Longos - Grilled Chicken With,33.58,76.05,glass,Aquamarine,7.88,Zooveo,320.17,12/19/2013
+411,Aspic - Amber,61.38,76.74,metal,Yellow,5.59,Skajo,735.23,8/19/2000
+412,Yeast Dry - Fermipan,71.98,7.75,plastic,Crimson,9.17,Realbuzz,1.26,9/13/2019
+413,Wine - Chianti Classica Docg,44.34,58.92,plastic,Yellow,5.43,Yoveo,102.48,3/1/2006
+414,"Champagne - Brights, Dry",2.25,11.29,wood,Aquamarine,8.96,Dynabox,92.4,9/7/2007
+415,Duck - Legs,47.58,2.44,plastic,Fuscia,3.2,Oyope,444.17,12/29/2011
+416,Apple - Fuji,70.51,10.92,plastic,Goldenrod,1.5,Meetz,392.52,6/16/2008
+417,Bread - Onion Focaccia,7.18,72.3,plastic,Violet,9.63,Skyble,478.72,9/8/2011
+418,"Crab - Dungeness, Whole",26.06,24.72,wood,Pink,6.24,Aivee,813.08,11/27/2021
+419,Chickensplit Half,21.3,31.47,metal,Green,2.0,Zoonder,709.33,2/9/2009
+420,Bread Base - Italian,34.73,80.3,plastic,Crimson,1.75,Eare,320.95,12/13/2004
+421,Onion Powder,35.2,39.64,metal,Indigo,0.73,Skyndu,811.13,10/25/2020
+422,"Nut - Pecan, Pieces",41.8,50.48,metal,Fuscia,1.92,Yambee,57.38,11/8/2002
+423,"Tart Shells - Savory, 4",41.5,87.44,wood,Violet,2.02,Mita,263.35,6/14/2005
+424,Puree - Mango,54.38,35.72,glass,Orange,3.85,Jayo,777.82,7/7/2018
+425,"Zucchini - Mini, Green",52.71,69.08,glass,Purple,7.07,Tagcat,865.34,5/3/2016
+426,Phyllo Dough,12.61,84.22,wood,Goldenrod,9.21,Latz,604.41,10/17/2007
+427,Veal - Liver,12.78,75.2,wood,Purple,2.99,Zoozzy,955.28,1/30/2006
+428,Whmis - Spray Bottle Trigger,69.76,81.9,wood,Khaki,0.37,Zoombeat,52.98,12/23/2005
+429,Cheese - Sheep Milk,80.53,58.56,plastic,Puce,4.48,Dynava,503.56,8/2/2020
+430,"Beef - Bones, Marrow",38.49,74.08,wood,Violet,9.2,Jaloo,445.28,6/13/2019
+431,Cheese - Swiss Sliced,66.24,36.14,plastic,Purple,3.91,Youspan,2.34,9/26/2010
+432,Arrowroot,60.67,49.53,metal,Indigo,7.01,Twitterwire,531.51,11/29/2009
+433,"Nut - Hazelnut, Whole",38.86,79.61,glass,Violet,9.99,Lazz,813.61,8/14/2013
+434,Vol Au Vents,90.06,97.53,metal,Goldenrod,1.14,Twimm,747.31,4/4/2002
+435,Bar - Sweet And Salty Chocolate,11.68,73.79,metal,Fuscia,6.34,Skaboo,376.83,4/12/2008
+436,Thyme - Dried,16.16,33.06,glass,Yellow,0.12,Yabox,665.05,8/31/2005
+437,Basil - Fresh,39.62,33.85,wood,Blue,3.38,Yodo,901.32,6/4/2017
+438,Parsley Italian - Fresh,77.18,24.83,wood,Mauv,2.03,Jabbersphere,857.44,8/8/2014
+439,Pop - Club Soda Can,12.25,76.63,metal,Aquamarine,4.92,Abata,201.83,6/27/2002
+440,"Lemonade - Kiwi, 591 Ml",69.17,68.68,wood,Crimson,3.37,Oloo,714.3,12/25/2007
+441,Chinese Foods - Cantonese,37.18,59.62,metal,Crimson,6.4,Twitterbeat,121.95,8/21/2018
+442,Ecolab Digiclean Mild Fm,71.25,63.0,wood,Aquamarine,6.82,Blogtags,0.72,8/10/2000
+443,Shallots,86.43,88.53,plastic,Green,1.99,Skidoo,611.21,9/1/2007
+444,Magnotta - Bel Paese White,77.45,73.66,plastic,Green,7.61,Gigashots,922.32,10/6/2009
+445,Chocolate - Sugar Free Semi Choc,61.9,49.79,plastic,Turquoise,7.22,Miboo,78.17,9/18/2018
+446,Bacardi Limon,72.45,38.49,wood,Teal,1.36,Flipstorm,869.98,1/8/2016
+447,Asparagus - Mexican,88.79,5.72,glass,Red,7.61,Zoomcast,565.62,11/21/2017
+448,Wine - Conde De Valdemar,10.75,29.6,glass,Purple,4.48,Dabshots,438.16,2/12/2018
+449,Haggis,99.87,32.13,glass,Fuscia,9.64,Zoonoodle,432.51,6/7/2011
+450,Smoked Tongue,61.02,15.39,plastic,Yellow,0.63,Lajo,687.39,11/21/2018
+451,Flavouring - Raspberry,72.56,90.37,glass,Maroon,7.32,Aimbo,850.47,1/24/2009
+452,"Tarragon - Primerba, Paste",86.8,12.18,glass,Indigo,3.63,Talane,518.11,6/20/2002
+453,Mountain Dew,57.29,21.06,glass,Blue,2.36,Eare,179.2,11/27/2020
+454,"Bread - Bagels, Mini",87.58,64.29,wood,Aquamarine,9.83,Dabvine,954.82,7/11/2016
+455,Pineapple - Golden,13.97,23.18,glass,Blue,7.44,Gigazoom,261.61,11/15/2013
+456,Tumeric,30.25,83.29,metal,Mauv,5.48,Babbleset,504.21,1/10/2003
+457,Cinnamon Rolls,28.25,81.38,glass,Khaki,4.56,Skajo,23.26,8/9/2013
+458,Muffin Chocolate Individual Wrap,50.61,17.91,wood,Blue,6.98,Brightbean,995.79,8/16/2006
+459,Milk - Buttermilk,55.93,42.82,plastic,Orange,3.07,Cogibox,945.59,1/21/2021
+460,"Tarragon - Primerba, Paste",57.74,53.63,glass,Violet,1.43,Bluezoom,520.52,2/9/2005
+461,Muffins - Assorted,50.14,89.1,glass,Orange,7.76,Viva,458.66,3/22/2008
+462,"Loaf Pan - 2 Lb, Foil",94.21,81.19,metal,Turquoise,8.83,Jatri,887.01,5/9/2001
+463,Lettuce - Radicchio,71.58,70.76,glass,Aquamarine,5.35,Meejo,343.9,8/9/2012
+464,Sobe - Lizard Fuel,86.39,87.3,glass,Blue,4.42,Oba,838.44,4/4/2005
+465,Pate - Cognac,26.4,52.31,plastic,Yellow,7.98,Rooxo,507.15,4/8/2010
+466,"Chicken - Diced, Cooked",67.97,13.59,glass,Crimson,0.47,Aimbo,858.4,8/3/2005
+467,Coffee - Ristretto Coffee Capsule,79.34,39.6,glass,Fuscia,7.29,Skipstorm,130.64,2/12/2000
+468,Wine - Chablis 2003 Champs,39.97,57.07,plastic,Violet,4.94,Jaxspan,986.01,5/30/2006
+469,Blueberries - Frozen,4.97,35.31,glass,Red,9.73,Mynte,37.68,6/21/2003
+470,Olives - Nicoise,58.98,92.45,plastic,Maroon,9.39,Eayo,492.67,8/9/2006
+471,Pastry - Plain Baked Croissant,48.93,58.35,plastic,Orange,1.36,Dynazzy,331.37,10/8/2005
+472,"Oil - Food, Lacquer Spray",75.65,71.95,glass,Teal,1.24,Skajo,396.84,12/7/2019
+473,Bread Base - Toscano,60.58,38.58,metal,Orange,6.5,Feedbug,936.49,8/29/2007
+474,Fork - Plastic,45.05,22.41,metal,Purple,1.47,Abatz,43.28,1/5/2014
+475,"Cheese - Brie, Triple Creme",17.83,55.89,plastic,Fuscia,2.49,Eayo,463.87,1/31/2007
+476,Mushroom - Portebello,26.2,8.88,wood,Indigo,9.26,Shuffledrive,71.95,3/6/2010
+477,Bread - French Stick,3.1,32.8,plastic,Fuscia,5.32,Bubblebox,220.34,2/8/2017
+478,Ice Cream - Super Sandwich,62.19,83.62,metal,Maroon,5.47,Ooba,611.73,3/2/2018
+479,Cardamon Seed / Pod,39.84,27.21,metal,Orange,0.57,Linkbuzz,905.06,5/30/2016
+480,Pepper - Scotch Bonnet,45.0,73.72,metal,Mauv,5.05,Kayveo,158.93,1/20/2020
+481,"Beef - Tenderlion, Center Cut",83.57,94.16,plastic,Yellow,2.6,Meevee,23.57,3/6/2017
+482,Beets - Mini Golden,5.64,19.81,wood,Green,5.48,Riffpedia,931.06,1/22/2010
+483,Blueberries,42.19,51.5,metal,Violet,1.06,Topicware,681.45,8/25/2014
+484,Dragon Fruit,88.53,70.54,wood,Crimson,3.12,Cogibox,608.12,2/26/2019
+485,"Corn - Cream, Canned",78.51,77.22,wood,Crimson,8.61,Bubbletube,817.12,10/21/2021
+486,Urban Zen Drinks,23.53,45.8,glass,Pink,6.66,Wordware,113.68,3/20/2013
+487,Pastry - Mini French Pastries,86.82,4.4,plastic,Green,6.37,Zooveo,727.31,1/20/2012
+488,Soup Knorr Chili With Beans,58.05,17.51,glass,Fuscia,0.52,Twimbo,160.17,2/7/2001
+489,Propel Sport Drink,95.63,71.34,plastic,Maroon,1.56,Edgeblab,280.52,2/24/2009
+490,"Beans - Kidney, Canned",98.06,38.15,plastic,Goldenrod,3.14,Jamia,492.65,3/22/2005
+491,Wine - Alicanca Vinho Verde,1.37,90.75,metal,Yellow,5.56,Riffpath,379.04,11/20/2018
+492,Turnip - Wax,82.16,70.75,metal,Khaki,1.91,Linkbuzz,466.58,1/25/2009
+493,"Lamb - Pieces, Diced",36.96,32.68,wood,Pink,1.4,Einti,106.41,7/18/2001
+494,Pasta - Orecchiette,63.24,89.66,glass,Green,3.44,Mita,372.81,3/10/2021
+495,Wine - Piper Heidsieck Brut,39.54,67.08,glass,Khaki,4.32,Fivebridge,834.71,1/12/2004
+496,Zucchini - Green,25.29,98.22,wood,Teal,3.64,Oyonder,578.4,9/12/2010
+497,"Chilli Paste, Ginger Garlic",6.69,33.91,glass,Puce,3.63,Wordtune,304.73,12/3/2021
+498,Mushroom Morel Fresh,53.09,26.04,wood,Crimson,3.38,Zoomcast,732.12,12/8/2020
+499,Dates,59.45,4.59,wood,Puce,2.55,Teklist,11.64,11/17/2002
+500,"Lobster - Tail, 3 - 4 Oz",26.58,25.14,plastic,Maroon,2.4,Yabox,571.19,8/24/2016
+501,Pepper - Yellow Bell,36.41,63.17,wood,Orange,0.88,Skinder,557.85,4/18/2002
+502,"Bread - Roll, Canadian Dinner",84.02,90.54,metal,Mauv,7.8,Fatz,923.24,10/13/2020
+503,Beer - Sleemans Honey Brown,5.84,35.45,plastic,Teal,8.63,Blogspan,133.76,1/2/2018
+504,Bread - Olive Dinner Roll,58.86,59.64,wood,Aquamarine,3.4,Flipstorm,137.71,7/16/2018
+505,Raspberries - Frozen,10.58,76.76,plastic,Pink,6.01,Kare,174.39,2/2/2020
+506,Coconut Milk - Unsweetened,83.82,57.07,plastic,Red,4.2,Brainsphere,303.44,3/20/2017
+507,Cod - Fillets,77.33,58.15,glass,Pink,2.27,Divanoodle,625.35,4/18/2008
+508,Bread - Kimel Stick Poly,57.76,26.76,glass,Blue,2.95,Edgeblab,670.18,11/22/2015
+509,Chevril,23.33,60.33,plastic,Mauv,3.35,Meezzy,639.91,8/1/2005
+510,Duck - Fat,41.07,97.98,glass,Purple,3.32,Buzzshare,573.26,4/23/2015
+511,Wine - Placido Pinot Grigo,26.31,63.73,plastic,Turquoise,8.71,Zoomcast,404.95,6/13/2005
+512,Pork - Inside,65.12,98.22,wood,Turquoise,2.65,Eimbee,379.49,4/12/2003
+513,"Tabasco Sauce, 2 Oz",46.3,81.88,wood,Maroon,2.75,Yata,797.53,11/16/2010
+514,Nescafe - Frothy French Vanilla,41.53,22.37,metal,Fuscia,7.83,Voonyx,143.74,5/28/2002
+515,Puree - Mango,67.06,50.21,plastic,Blue,4.54,Rhyzio,655.8,8/27/2017
+516,Lettuce - Lambs Mash,18.33,19.04,metal,Puce,2.94,Skivee,295.05,9/17/2013
+517,"Pineapple - Canned, Rings",64.16,84.73,glass,Turquoise,6.09,Browsetype,211.87,1/9/2008
+518,"Juice - V8, Tomato",71.56,93.71,glass,Puce,2.05,Skyndu,823.84,12/5/2019
+519,Buffalo - Short Rib Fresh,60.17,54.61,wood,Blue,0.6,Jatri,604.79,12/31/2009
+520,Pastry - Chocolate Marble Tea,74.4,23.22,glass,Puce,5.75,Avamba,327.71,1/7/2005
+521,Wine - White Cab Sauv.on,35.42,49.23,metal,Crimson,1.82,Tagfeed,972.4,12/6/2004
+522,"Mushroom - Trumpet, Dry",54.66,72.87,metal,Khaki,2.46,Quinu,944.79,8/20/2003
+523,Limes,73.01,20.58,plastic,Indigo,8.95,Minyx,944.84,9/26/2017
+524,Soup Bowl Clear 8oz92008,61.12,6.59,metal,Blue,4.29,Jaloo,668.87,2/27/2009
+525,"Lemonade - Mandarin, 591 Ml",20.88,65.23,glass,Yellow,8.94,Wikibox,736.15,8/7/2008
+526,Foie Gras,1.51,71.02,metal,Purple,3.34,Skimia,268.99,4/16/2017
+527,"Crab - Claws, Snow 16 - 24",15.23,74.49,metal,Turquoise,0.19,Realcube,303.31,8/22/2002
+528,"Yogurt - Strawberry, 175 Gr",73.2,17.94,glass,Blue,1.65,Viva,135.83,7/20/2009
+529,Beer - Sleemans Honey Brown,43.51,64.84,metal,Goldenrod,4.69,Youtags,48.34,3/12/2008
+530,External Supplier,81.87,31.25,metal,Khaki,5.51,Reallinks,120.94,10/26/2011
+531,Juice - Orange 1.89l,90.84,17.53,wood,Goldenrod,8.6,Dynava,17.21,4/1/2008
+532,Soup - Campbells Chili,41.76,82.13,wood,Green,9.49,Zoomdog,459.66,1/15/2012
+533,Appetizer - Crab And Brie,90.5,39.52,plastic,Teal,0.57,Gabvine,178.73,7/26/2002
+534,Appetizer - Chicken Satay,41.91,76.32,wood,Purple,1.31,Voolith,915.08,2/13/2014
+535,Relish,44.63,78.36,wood,Maroon,1.85,Twitterbeat,954.84,5/12/2008
+536,Bandage - Flexible Neon,27.1,31.82,metal,Blue,2.61,Feednation,189.66,2/9/2012
+537,Onion - Dried,65.18,2.92,glass,Red,1.8,Zoovu,66.13,1/26/2003
+538,Soup - Campbells Mushroom,73.35,77.43,plastic,Aquamarine,1.92,Vipe,441.54,9/17/2002
+539,Sauce - Chili,4.75,17.13,wood,Turquoise,2.96,Chatterpoint,749.3,10/5/2008
+540,Cheese - Oka,98.92,97.35,wood,Violet,4.11,Voonder,767.49,8/24/2021
+541,"Crab - Claws, 26 - 30",6.33,87.74,wood,Teal,4.65,Yodel,190.62,4/3/2013
+542,Wine - Sauvignon Blanc Oyster,85.88,69.93,metal,Mauv,0.76,Skynoodle,347.7,12/16/2000
+543,Muffin Batt - Carrot Spice,60.31,77.55,wood,Indigo,7.66,Meevee,392.69,12/21/2006
+544,Soup Campbells - Tomato Bisque,19.88,72.63,metal,Puce,9.44,Feedmix,818.18,4/17/2019
+545,"Napkin - Cocktail,beige 2 - Ply",66.16,92.83,metal,Indigo,4.71,Photospace,532.33,1/18/2011
+546,Kiwi,32.27,38.99,plastic,Aquamarine,4.45,Zoomzone,440.31,11/5/2011
+547,Wine - Ice Wine,93.83,1.7,metal,Khaki,8.44,Thoughtmix,188.14,3/7/2017
+548,Huck White Towels,81.33,54.58,metal,Violet,8.18,Eabox,621.56,6/18/2021
+549,Muffin Mix - Lemon Cranberry,4.56,22.24,plastic,Puce,9.35,Youspan,787.35,10/18/2005
+550,Beer - Camerons Cream Ale,32.32,85.74,metal,Yellow,7.33,Cogilith,381.62,7/30/2022
+551,Drambuie,38.62,15.23,wood,Teal,3.26,Riffpath,465.62,9/22/2008
+552,Flour - Teff,62.55,64.17,wood,Crimson,9.78,Pixope,412.97,5/31/2017
+553,Nantucket Apple Juice,1.73,24.39,wood,Yellow,4.76,Zoonder,644.03,4/21/2014
+554,Wine - Port Late Bottled Vintage,28.32,4.81,wood,Blue,7.38,Youopia,746.66,12/27/2017
+555,Brandy - Bar,57.5,33.97,plastic,Indigo,9.57,Photofeed,274.91,7/14/2018
+556,Tea - Vanilla Chai,21.89,97.82,wood,Pink,2.66,Tagcat,798.12,9/20/2003
+557,Lychee,83.57,98.71,plastic,Indigo,1.34,Gigaclub,677.5,9/16/2002
+558,Kirsch - Schloss,41.11,37.3,glass,Green,9.74,Quimm,662.99,1/9/2010
+559,Beef - Ox Tongue,12.72,3.08,plastic,Red,0.64,Quinu,851.54,4/16/2012
+560,"Pasta - Bauletti, Chicken White",13.9,88.3,glass,Purple,1.45,Youspan,571.82,5/10/2010
+561,Wine - Barbera Alba Doc 2001,76.46,88.89,glass,Khaki,9.16,Oyonder,936.02,8/8/2008
+562,Cheese - Wine,34.88,48.07,metal,Orange,4.13,Cogilith,320.53,8/26/2008
+563,Grapefruit - White,7.57,51.29,metal,Mauv,9.43,Mymm,521.93,9/6/2013
+564,Wine - Ej Gallo Sierra Valley,97.46,63.46,wood,Aquamarine,1.55,Aimbo,874.24,1/14/2003
+565,Clams - Canned,19.54,38.03,wood,Blue,1.1,Realpoint,704.94,4/6/2008
+566,"Bread - Sticks, Thin, Plain",11.26,80.44,plastic,Fuscia,5.3,Oozz,70.91,12/4/2002
+567,Venison - Ground,34.44,45.92,glass,Red,0.5,Zoomdog,288.83,8/25/2007
+568,Goat - Whole Cut,37.12,74.99,wood,Khaki,3.55,Thoughtbeat,948.96,5/29/2010
+569,Soup - Campbells Broccoli,45.87,24.05,plastic,Fuscia,0.6,Yodoo,350.95,2/16/2011
+570,Sponge Cake Mix - Chocolate,95.64,40.82,plastic,Khaki,4.71,Jaxspan,269.61,9/2/2011
+571,Lobak,41.99,74.29,metal,Violet,1.68,Wordtune,571.0,1/30/2001
+572,Bread - Raisin,97.57,3.97,wood,Yellow,9.9,Flashpoint,479.88,12/28/2007
+573,Wine - Cousino Macul Antiguas,11.88,96.39,plastic,Goldenrod,9.32,Tambee,931.83,9/26/2015
+574,Pumpkin,26.21,16.93,plastic,Teal,5.0,Devpulse,903.26,6/29/2011
+575,Triple Sec - Mcguinness,45.19,31.65,metal,Purple,9.35,Photobug,566.47,10/3/2005
+576,Compound - Strawberry,37.61,70.78,wood,Puce,3.78,Omba,556.09,11/25/2007
+577,Foie Gras,34.52,28.04,metal,Teal,7.06,Meedoo,886.87,4/27/2016
+578,Breakfast Quesadillas,59.35,91.68,glass,Aquamarine,1.0,Fadeo,117.89,7/13/2012
+579,Wine - Manischewitz Concord,35.46,97.53,wood,Green,9.32,Skinder,253.91,8/12/2022
+580,Muffin - Mix - Bran And Maple 15l,32.76,89.91,wood,Teal,7.03,Centidel,926.57,5/16/2017
+581,Muffin Chocolate Individual Wrap,38.3,51.91,wood,Orange,7.92,Quimba,299.29,5/15/2004
+582,Containter - 3oz Microwave Rect.,12.54,82.18,glass,Goldenrod,9.05,Devify,614.66,1/26/2015
+583,Truffle - Whole Black Peeled,19.8,23.39,glass,Pink,1.57,Pixoboo,515.08,12/15/2019
+584,Russian Prince,92.57,3.71,metal,Pink,9.1,Innojam,4.24,4/14/2001
+585,Apple - Granny Smith,66.92,27.05,wood,Purple,3.29,Dabtype,9.37,1/12/2006
+586,Wine - Piper Heidsieck Brut,11.73,97.64,glass,Aquamarine,0.98,Browsebug,303.24,7/17/2004
+587,Cocoa Butter,75.92,6.07,plastic,Indigo,9.18,Realpoint,218.17,1/28/2012
+588,Oil - Pumpkinseed,76.59,82.83,metal,Pink,1.62,Ntag,491.02,11/20/2018
+589,Praline Paste,6.23,40.85,metal,Teal,6.53,Agimba,795.15,7/12/2004
+590,"Beans - Black Bean, Preserved",3.34,67.9,glass,Mauv,1.13,Oyonder,844.93,3/30/2004
+591,Cookie Choc,79.8,53.88,glass,Orange,7.44,Eadel,541.69,3/17/2005
+592,"Flour - Corn, Fine",28.68,68.22,glass,Fuscia,7.41,Yodo,686.53,6/7/2018
+593,Banana Turning,79.72,46.93,metal,Turquoise,9.73,Mynte,893.12,1/4/2016
+594,Crackers - Melba Toast,60.09,68.29,plastic,Khaki,3.89,Quaxo,217.81,4/13/2019
+595,Lettuce - Romaine,24.76,44.34,metal,Orange,1.02,Photospace,537.32,11/17/2017
+596,Rolled Oats,22.67,82.75,glass,Red,0.19,Chatterbridge,11.04,7/1/2013
+597,Beer - Pilsner Urquell,29.03,71.03,glass,Khaki,0.18,Quimba,602.96,12/25/2000
+598,Cream Of Tartar,4.84,32.82,metal,Orange,8.85,Miboo,895.43,4/3/2019
+599,Rabbit - Whole,95.31,45.54,metal,Teal,6.28,Flipbug,991.52,3/25/2003
+600,"Cheese - Mozzarella, Buffalo",31.4,49.18,wood,Yellow,3.04,Reallinks,605.71,11/22/2018
+601,Lettuce - Boston Bib,52.44,69.45,glass,Crimson,1.62,Blognation,276.48,3/27/2014
+602,Shallots,7.03,13.71,metal,Crimson,2.07,Vimbo,100.9,12/29/2020
+603,Bread - Rosemary Focaccia,63.31,64.79,glass,Red,2.75,Pixonyx,415.28,7/7/2000
+604,Wine - Rosso Toscano Igt,5.1,98.96,glass,Violet,1.33,Talane,327.57,4/13/2016
+605,Gatorade - Cool Blue Raspberry,84.15,33.47,plastic,Green,0.31,Demizz,19.61,5/15/2000
+606,Calypso - Black Cherry Lemonade,18.15,47.64,glass,Purple,1.78,Teklist,79.11,5/5/2022
+607,Teriyaki Sauce,71.7,82.27,wood,Green,4.76,Twimm,774.72,4/12/2022
+608,Onions - Cooking,48.52,97.56,metal,Green,5.98,Skinix,251.1,6/25/2009
+609,Table Cloth 62x120 White,53.47,89.44,plastic,Mauv,3.81,Bluejam,739.6,7/14/2015
+610,Fondant - Icing,30.25,8.59,metal,Teal,6.12,Voomm,810.83,1/2/2009
+611,"Nut - Almond, Blanched, Ground",14.63,64.09,plastic,Khaki,1.09,Brainlounge,372.33,2/16/2012
+612,Turnip - Wax,42.15,39.82,wood,Puce,1.57,Wikibox,965.88,5/24/2003
+613,Pastry - Mini French Pastries,80.45,71.71,wood,Aquamarine,6.43,Quimm,938.66,9/13/2016
+614,Pear - Prickly,63.04,82.24,metal,Blue,0.38,Podcat,428.12,12/12/2009
+615,"Pasta - Fettuccine, Dry",49.86,22.12,glass,Teal,0.67,Topiclounge,805.35,2/28/2019
+616,Anchovy In Oil,43.38,79.81,wood,Khaki,9.5,Eazzy,791.32,2/18/2012
+617,"Pepper - Black, Crushed",95.6,6.86,glass,Aquamarine,1.57,Roomm,865.84,5/31/2011
+618,Ice Cream Bar - Rolo Cone,59.07,52.81,metal,Blue,6.42,Dabtype,98.51,8/21/2018
+619,Soup - Campbells - Chicken Noodle,80.12,43.22,glass,Blue,4.22,Vinder,690.71,2/18/2000
+620,Cocoa Butter,27.37,4.6,wood,Turquoise,2.08,Tagchat,986.98,1/27/2022
+621,Bread Base - Italian,15.27,42.32,metal,Violet,2.03,Viva,375.33,11/11/2007
+622,Bowl 12 Oz - Showcase 92012,37.82,3.76,glass,Pink,6.12,Browsedrive,986.77,6/22/2014
+623,Jameson - Irish Whiskey,55.96,63.63,glass,Red,0.79,Skinix,652.11,12/4/2015
+624,Lettuce - Radicchio,71.58,74.44,metal,Fuscia,1.31,Aimbo,91.07,7/31/2000
+625,Beer - Guiness,83.53,86.66,wood,Violet,2.46,Wikibox,246.66,6/27/2001
+626,Cleaner - Comet,38.09,77.56,wood,Turquoise,6.48,Jatri,280.73,4/13/2008
+627,Soup - Campbells Pasta Fagioli,44.78,60.05,plastic,Goldenrod,7.6,Tekfly,171.34,7/20/2016
+628,Foil Cont Round,26.7,57.99,wood,Khaki,8.65,Rhynoodle,322.41,2/26/2013
+629,Baking Powder,11.82,19.91,plastic,Green,2.01,Jabberstorm,823.21,6/17/2007
+630,Halibut - Steaks,51.09,39.78,wood,Blue,1.59,Youtags,209.9,7/22/2010
+631,Foil Wrap,23.41,51.66,glass,Pink,7.5,Jayo,281.82,2/2/2020
+632,"Wine - Magnotta, Merlot Sr Vqa",78.18,44.04,plastic,Indigo,6.74,Rhybox,231.38,2/17/2000
+633,External Supplier,8.63,30.33,metal,Fuscia,4.97,Innotype,360.26,7/26/2015
+634,"Rum - Spiced, Captain Morgan",83.92,50.02,plastic,Blue,3.12,Ooba,49.88,4/3/2008
+635,Wasabi Powder,11.23,85.25,wood,Maroon,8.26,Talane,807.11,2/1/2014
+636,Cocoa Powder - Natural,45.35,9.85,plastic,Teal,7.38,Skipstorm,442.38,6/9/2000
+637,Turnip - Wax,46.29,78.15,glass,Puce,3.97,Feedfire,15.1,9/3/2001
+638,Pastry - Chocolate Marble Tea,8.77,25.55,metal,Red,8.43,Jaloo,198.52,1/1/2020
+639,Containter - 3oz Microwave Rect.,2.82,36.32,glass,Teal,0.55,Trunyx,555.88,7/26/2013
+640,Wine - Crozes Hermitage E.,25.76,71.29,glass,Red,1.41,Tekfly,306.21,4/5/2007
+641,Wine - Piper Heidsieck Brut,18.1,68.83,glass,Orange,3.93,Katz,625.51,5/5/2000
+642,Lettuce - Frisee,61.3,95.41,glass,Orange,8.19,Topicblab,25.63,2/15/2021
+643,"Rum - White, Gg White",81.81,59.5,glass,Red,4.14,Meezzy,347.31,1/10/2000
+644,Pastry - Plain Baked Croissant,74.83,48.66,plastic,Crimson,8.46,Voonte,583.15,12/18/2002
+645,Shallots,94.36,16.07,metal,Aquamarine,0.8,Trudoo,362.27,10/21/2004
+646,Wine - Casillero Del Diablo,63.47,87.17,plastic,Aquamarine,3.24,Mymm,304.6,6/24/2004
+647,Plate Pie Foil,28.9,25.71,metal,Green,4.68,Thoughtsphere,381.58,10/27/2010
+648,Wine - Stoneliegh Sauvignon,47.82,25.5,wood,Violet,6.86,Yacero,165.71,9/7/2017
+649,"Veal - Chops, Split, Frenched",48.18,5.63,plastic,Violet,2.98,Twitternation,253.2,7/10/2016
+650,Steam Pan Full Lid,99.92,94.3,glass,Turquoise,4.14,Skiba,502.88,6/5/2007
+651,Carbonated Water - Orange,13.61,30.12,glass,Red,9.91,Skilith,724.06,7/26/2001
+652,"Veal - Inside, Choice",76.53,12.38,glass,Green,7.72,Trudeo,201.04,6/19/2015
+653,"Pepper - Julienne, Frozen",98.29,29.28,metal,Mauv,5.79,Avamm,263.62,5/7/2009
+654,Scallops - Live In Shell,4.74,38.27,wood,Green,0.86,Gigabox,296.41,11/12/2019
+655,Pork - Hock And Feet Attached,18.69,54.98,wood,Teal,3.07,Divape,811.79,7/3/2022
+656,Apron,8.99,77.33,plastic,Mauv,3.75,JumpXS,969.49,2/6/2011
+657,"Chilli Paste, Sambal Oelek",66.85,27.25,glass,Purple,5.0,Meejo,763.29,8/20/2012
+658,Soup - Cream Of Potato / Leek,63.7,82.21,plastic,Green,2.51,Topdrive,751.56,3/14/2000
+659,"Bread - Sticks, Thin, Plain",29.2,1.2,plastic,Yellow,6.9,Zoozzy,497.4,4/7/2007
+660,Squash - Pepper,57.55,30.95,wood,Maroon,3.58,Muxo,596.35,8/15/2012
+661,"Pasta - Gnocchi, Potato",99.67,44.05,wood,Fuscia,6.96,Abatz,79.75,5/20/2002
+662,Steamers White,65.01,20.75,metal,Red,4.27,Jatri,839.34,7/24/2013
+663,Sprouts - Alfalfa,81.73,50.84,plastic,Crimson,7.65,Skippad,62.2,12/24/2002
+664,Flour Dark Rye,49.27,39.97,wood,Indigo,0.48,InnoZ,787.36,9/2/2017
+665,Rabbit - Frozen,11.35,79.09,plastic,Yellow,1.99,Jabbersphere,808.98,3/11/2003
+666,"Bread - Rolls, Rye",93.47,15.57,wood,Blue,3.87,Quatz,789.66,4/19/2018
+667,Water - Tonic,76.25,53.62,wood,Pink,3.96,Skimia,355.31,3/21/2016
+668,Pheasants - Whole,76.82,95.2,glass,Violet,9.39,Riffpedia,847.4,6/23/2003
+669,Oil - Olive,9.83,18.1,wood,Red,3.41,Gabspot,891.63,3/13/2009
+670,"Noodles - Cellophane, Thin",30.59,58.78,metal,Teal,9.67,Realbridge,376.15,1/9/2002
+671,Island Oasis - Cappucino Mix,71.97,42.96,plastic,Crimson,7.24,Feedmix,886.28,6/4/2019
+672,Icecream - Dibs,95.86,33.81,wood,Mauv,1.74,Zoomdog,199.78,4/15/2005
+673,"Bread - Roll, Italian",52.56,62.18,metal,Blue,1.12,Jayo,423.96,7/2/2014
+674,Fond - Chocolate,97.51,70.14,glass,Teal,4.63,Einti,781.42,7/9/2015
+675,Oxtail - Cut,32.54,14.56,glass,Purple,8.34,Trilith,582.57,9/26/2007
+676,Mushroom - Crimini,71.0,31.1,plastic,Pink,4.25,Voomm,873.22,2/15/2011
+677,Wine - George Duboeuf Rose,87.37,68.73,wood,Yellow,5.48,Rhybox,101.23,9/2/2013
+678,Flower - Commercial Bronze,92.26,50.35,glass,Green,9.9,Wordware,87.08,2/11/2021
+679,"Shrimp - Baby, Cold Water",12.51,7.54,glass,Crimson,5.48,Kaymbo,782.36,1/27/2010
+680,Skirt - 29 Foot,85.37,27.2,glass,Orange,2.09,Fliptune,760.81,5/23/2019
+681,Cranberries - Dry,66.97,22.39,metal,Indigo,1.95,Voolia,220.83,1/4/2016
+682,Wine - Delicato Merlot,86.44,42.39,wood,Turquoise,1.55,Yata,670.28,2/29/2020
+683,Cotton Wet Mop 16 Oz,82.99,17.56,metal,Red,3.02,Skyba,45.46,4/29/2004
+684,Broom Handle,95.35,80.99,glass,Goldenrod,3.33,Flashpoint,695.81,10/10/2008
+685,"Mushroom - Enoki, Dry",58.11,7.1,wood,Puce,6.76,Yacero,822.1,10/1/2022
+686,Loquat,88.39,41.66,metal,Pink,3.04,Innojam,735.52,9/20/2009
+687,"Juice - Pineapple, 341 Ml",94.76,59.88,plastic,Fuscia,0.52,Zoomdog,913.61,3/6/2017
+688,Pancetta,70.19,37.3,wood,Crimson,0.53,Pixonyx,624.42,7/23/2004
+689,Kellogs Special K Cereal,23.21,24.86,metal,Yellow,9.25,Layo,349.5,6/10/2022
+690,Spic And Span All Purpose,75.28,61.9,plastic,Mauv,9.11,Wordtune,335.55,10/15/2012
+691,Lid - 0090 Clear,58.62,60.16,wood,Aquamarine,6.15,Realcube,358.25,2/18/2004
+692,"Mushroom - Enoki, Dry",9.26,41.55,metal,Goldenrod,7.11,Skalith,749.4,4/11/2017
+693,Appetizer - Chicken Satay,31.96,35.35,glass,Puce,2.57,Tagchat,308.19,6/2/2005
+694,Spice - Paprika,90.41,65.75,wood,Blue,4.88,Skynoodle,305.05,7/13/2010
+695,"Cheese - Woolwich Goat, Log",69.17,87.77,metal,Khaki,7.3,Dynava,318.61,3/30/2008
+696,Butter Ripple - Phillips,56.16,90.54,plastic,Khaki,6.72,Yotz,720.01,2/26/2003
+697,"Artichokes - Knobless, White",42.91,24.14,plastic,Fuscia,4.71,Dabtype,126.38,5/18/2008
+698,Bread - Pain Au Liat X12,22.87,97.47,plastic,Pink,4.77,Mymm,200.62,6/27/2009
+699,Cinnamon Rolls,5.26,87.75,wood,Violet,4.34,Shufflebeat,521.19,12/18/2015
+700,Pork - Liver,92.51,29.03,glass,Maroon,3.8,Innotype,445.01,6/10/2005
+701,Ice Cream Bar - Oreo Sandwich,3.73,54.91,metal,Mauv,5.76,Katz,907.59,11/20/2007
+702,"Wine - Saint - Bris 2002, Sauv",69.52,25.39,metal,Fuscia,8.9,Dablist,751.39,6/4/2021
+703,Veal - Loin,19.96,82.16,glass,Blue,3.14,Dabshots,186.68,1/4/2003
+704,Energy Drink Bawls,74.12,93.41,glass,Orange,1.93,Fadeo,35.41,10/21/2005
+705,Shrimp - 150 - 250,34.97,83.55,wood,Aquamarine,9.85,Topicblab,529.58,3/14/2009
+706,Cheese - St. Paulin,21.99,55.1,wood,Mauv,0.78,Blognation,711.09,10/30/2014
+707,Sauce - Demi Glace,72.52,1.63,metal,Crimson,1.67,Twitterbeat,304.74,7/1/2017
+708,"Pasta - Fettuccine, Dry",81.81,61.75,wood,Mauv,1.09,Katz,815.45,6/1/2005
+709,Creme De Menth - White,4.5,38.54,plastic,Fuscia,1.13,Zazio,318.42,4/4/2016
+710,Chips Potato All Dressed - 43g,77.29,10.58,plastic,Pink,7.39,Izio,695.08,7/8/2019
+711,Wine - Prosecco Valdobiaddene,2.73,57.15,plastic,Pink,1.01,Gigashots,973.44,11/11/2002
+712,"Tortillas - Flour, 12",8.48,46.96,wood,Mauv,3.05,Devpulse,126.8,2/15/2013
+713,Beans - French,29.37,54.18,wood,Mauv,7.81,Skinix,141.17,1/9/2008
+714,"Clams - Littleneck, Whole",31.81,12.39,glass,Teal,8.68,Ailane,419.61,2/3/2002
+715,Nantucket - Kiwi Berry Cktl.,12.25,48.41,plastic,Teal,6.35,Eimbee,990.9,1/13/2002
+716,Plate Foam Laminated 9in Blk,39.96,37.52,glass,Khaki,8.93,Jaxworks,172.48,10/4/2020
+717,"Wine - White, Antinore Orvieto",74.29,62.5,wood,Violet,3.13,Flipbug,603.65,5/9/2019
+718,Wine - Ruffino Chianti,90.14,75.22,wood,Yellow,6.8,Meedoo,749.96,6/2/2007
+719,Muffin Mix - Chocolate Chip,87.93,55.91,wood,Indigo,5.57,Ntags,108.19,2/12/2016
+720,Soup Campbells Split Pea And Ham,46.8,71.33,wood,Indigo,5.85,Rhyloo,522.43,2/3/2010
+721,Oil - Cooking Spray,17.49,64.05,wood,Turquoise,0.98,Zoomzone,911.76,6/11/2015
+722,Carrots - Jumbo,4.1,26.79,glass,Violet,0.38,Jaxworks,114.17,11/6/2007
+723,Sponge Cake Mix - Chocolate,17.12,87.39,plastic,Turquoise,2.23,Youfeed,745.43,1/18/2021
+724,Mangostein,62.69,68.03,metal,Mauv,6.82,Yata,51.84,6/6/2003
+725,Spinach - Packaged,88.35,77.12,wood,Aquamarine,1.83,Rhyloo,350.22,10/29/2002
+726,"Corn - Cream, Canned",20.16,45.74,metal,Crimson,9.37,Aibox,968.22,8/18/2002
+727,"Nut - Almond, Blanched, Whole",53.08,11.7,glass,Yellow,5.48,Layo,38.73,3/27/2004
+728,"Chicken - Breast, 5 - 7 Oz",92.5,62.28,wood,Pink,2.56,Meevee,934.56,5/30/2012
+729,Soup - Verve - Chipotle Chicken,92.67,37.15,glass,Puce,9.57,Midel,115.69,11/6/2019
+730,"Olives - Black, Pitted",59.01,57.48,metal,Orange,0.42,Oyoyo,271.52,12/3/2006
+731,"Wine - White, Mosel Gold",72.66,50.49,glass,Mauv,6.97,Brightbean,299.87,8/3/2018
+732,"Mushroom - Oyster, Fresh",11.56,22.3,glass,Fuscia,1.22,Wordtune,116.27,8/5/2021
+733,Daves Island Stinger,36.94,14.09,metal,Fuscia,5.24,Ooba,591.19,12/17/2020
+734,Yogurt - French Vanilla,15.63,1.11,metal,Indigo,3.1,Skiba,919.24,4/20/2019
+735,"Sauce - White, Mix",26.24,41.05,metal,Fuscia,2.42,Meejo,872.39,9/8/2019
+736,"Tuna - Canned, Flaked, Light",88.65,28.21,plastic,Green,8.1,Wordpedia,732.77,6/13/2007
+737,Pastry - Key Limepoppy Seed Tea,45.35,71.27,glass,Puce,3.87,Dynazzy,439.76,11/25/2007
+738,Wine - Savigny - Les - Beaune,79.76,79.96,glass,Purple,3.37,Dynazzy,0.96,4/15/2005
+739,Cucumber - English,18.48,92.11,glass,Purple,9.05,Snaptags,695.13,10/27/2014
+740,Nougat - Paste / Cream,71.88,20.51,metal,Purple,3.78,Fliptune,946.54,10/22/2004
+741,Wine - Chardonnay South,30.1,11.16,glass,Orange,4.62,Yotz,525.72,2/6/2007
+742,Cod - Black Whole Fillet,10.61,16.72,metal,Yellow,0.99,Geba,657.77,6/1/2022
+743,Amarula Cream,51.0,86.26,plastic,Crimson,5.61,Feedspan,723.98,7/26/2018
+744,"Placemat - Scallop, White",8.61,39.8,plastic,Maroon,7.45,Skyble,429.8,12/20/2014
+745,Wine - Chateauneuf Du Pape,98.69,80.18,plastic,Orange,9.78,Flipstorm,605.28,6/23/2021
+746,Veal - Eye Of Round,7.77,76.93,wood,Teal,3.6,Tanoodle,498.72,8/30/2017
+747,Juice - Happy Planet,17.91,81.53,glass,Mauv,0.59,Realcube,746.63,2/1/2014
+748,Ginger - Crystalized,84.48,19.15,plastic,Aquamarine,1.25,Kwideo,763.3,2/9/2001
+749,Island Oasis - Cappucino Mix,65.28,30.4,wood,Pink,2.88,Quinu,73.5,4/29/2013
+750,Beets - Golden,46.3,13.91,wood,Turquoise,7.32,Roodel,753.68,8/16/2006
+751,Lid - 3oz Med Rec,31.71,88.65,glass,Teal,1.72,Skinte,903.16,12/22/2000
+752,"Chicken - Wings, Tip Off",27.45,20.14,plastic,Mauv,8.2,Mydeo,76.41,7/22/2020
+753,Aspic - Clear,22.35,89.89,metal,Green,3.87,Avavee,563.26,2/24/2012
+754,Cheese - Camembert,8.32,69.99,plastic,Orange,6.3,Zoovu,7.55,1/29/2001
+755,Onions - Red Pearl,16.43,38.86,wood,Khaki,8.47,Tagfeed,476.91,2/6/2022
+756,Paper - Brown Paper Mini Cups,26.42,31.07,wood,Turquoise,8.11,Jaloo,297.02,1/15/2021
+757,Wine - Hardys Bankside Shiraz,53.5,92.96,metal,Red,3.57,Omba,562.19,7/8/2007
+758,Creme De Banane - Marie,92.91,7.51,metal,Pink,4.2,Zooveo,928.95,1/12/2003
+759,Bread - Kimel Stick Poly,25.4,54.66,glass,Violet,2.04,Wikibox,545.85,5/6/2004
+760,Sea Bass - Fillets,97.93,55.95,wood,Turquoise,8.14,Yozio,383.81,3/20/2017
+761,"Chestnuts - Whole,canned",62.4,9.83,plastic,Purple,0.42,Flipbug,746.8,7/1/2001
+762,Cranberries - Fresh,11.46,77.65,metal,Red,3.47,Roomm,143.18,3/4/2021
+763,Banana - Leaves,88.37,36.95,metal,Violet,9.11,Skippad,307.64,8/5/2010
+764,Wine - Placido Pinot Grigo,68.16,94.23,wood,Violet,6.65,Cogibox,191.28,3/26/2015
+765,Bread - Bistro Sour,48.9,53.6,plastic,Teal,6.77,Oyoba,957.18,10/7/2012
+766,"Wine - White, Colubia Cresh",97.22,40.76,plastic,Aquamarine,7.3,Izio,514.74,10/23/2005
+767,Pork - Shoulder,52.78,24.42,metal,Blue,7.32,Youfeed,923.77,12/24/2011
+768,Bag - Clear 7 Lb,85.41,78.56,glass,Goldenrod,3.83,Meejo,380.43,12/9/2011
+769,"Pasta - Cappellini, Dry",92.47,50.18,plastic,Indigo,1.42,Katz,539.52,11/12/2021
+770,Flower - Daisies,89.36,11.0,glass,Indigo,9.07,Skilith,578.77,2/24/2000
+771,Cookie Dough - Chunky,92.28,70.62,metal,Turquoise,3.67,Midel,56.35,8/12/2001
+772,Appetizer - Sausage Rolls,67.22,56.08,metal,Turquoise,6.55,Voonix,680.91,4/19/2021
+773,The Pop Shoppe - Lime Rickey,20.05,32.49,metal,Khaki,3.23,Ainyx,779.3,12/11/2005
+774,Sobe - Tropical Energy,55.43,13.79,plastic,Violet,8.49,Trunyx,951.92,3/14/2019
+775,Yoplait - Strawbrasp Peac,99.34,78.09,glass,Maroon,7.02,Topiclounge,801.56,6/6/2005
+776,Plate Foam Laminated 9in Blk,30.5,14.48,glass,Maroon,0.87,Skibox,596.66,10/25/2001
+777,"Sauce - Black Current, Dry Mix",61.71,45.42,plastic,Turquoise,7.24,Trudoo,170.5,12/7/2022
+778,Peach - Halves,95.37,74.88,metal,Teal,5.49,Edgetag,213.13,12/27/2001
+779,Creme De Banane - Marie,3.71,67.42,metal,Orange,4.28,Quimba,601.0,4/24/2018
+780,Salami - Genova,6.63,35.13,glass,Orange,8.73,Bluejam,445.93,3/17/2005
+781,Soup - Campbells Chili,78.99,86.91,metal,Yellow,2.71,JumpXS,206.81,9/15/2000
+782,Pork - Liver,17.06,58.24,metal,Fuscia,8.96,Meezzy,775.27,6/13/2019
+783,Maintenance Removal Charge,77.22,76.36,metal,Green,1.07,Eamia,637.74,9/5/2011
+784,"Cheese - Mozzarella, Shredded",66.25,36.81,plastic,Purple,3.71,Realbridge,251.62,8/19/2019
+785,Chicken - Bones,72.55,34.25,metal,Green,0.12,Tambee,264.94,3/23/2010
+786,Hipnotiq Liquor,24.93,28.09,plastic,Purple,5.72,Vitz,836.33,12/18/2011
+787,Bread - Raisin Walnut Oval,61.75,96.67,plastic,Yellow,8.82,Tekfly,96.37,1/21/2001
+788,Allspice - Jamaican,45.66,3.82,glass,Violet,7.8,Innojam,571.62,9/28/2013
+789,Mustard - Seed,94.8,35.09,glass,Green,3.89,Meetz,339.72,6/7/2006
+790,"Bread - White, Unsliced",78.29,42.33,plastic,Turquoise,8.07,Twitterlist,555.3,4/9/2020
+791,Pasta - Agnolotti - Butternut,38.29,7.74,wood,Crimson,2.86,Rhynoodle,893.41,8/17/2012
+792,Dip - Tapenade,12.36,49.27,wood,Pink,4.74,Jatri,230.63,12/25/2014
+793,Soup Campbells Split Pea And Ham,25.25,1.91,plastic,Indigo,4.87,Jaxnation,773.15,10/8/2015
+794,"Oil - Truffle, White",80.18,84.47,wood,Puce,8.45,Mudo,499.82,9/17/2003
+795,Extract - Rum,1.51,37.63,plastic,Blue,0.88,Jayo,36.9,5/19/2012
+796,Bread - Kimel Stick Poly,73.53,56.94,metal,Teal,9.03,Kazu,56.88,9/24/2014
+797,Milk - 2% 250 Ml,13.3,10.87,metal,Purple,3.32,Devify,287.36,7/18/2021
+798,"Fish - Atlantic Salmon, Cold",58.51,61.57,wood,Crimson,2.06,Roomm,251.69,1/29/2014
+799,Wine - Vineland Estate Semi - Dry,86.24,92.69,wood,Fuscia,7.12,Quinu,5.33,3/1/2021
+800,Wonton Wrappers,94.59,42.48,plastic,Teal,1.4,Meedoo,607.47,3/18/2016
+801,Banana Turning,40.64,39.14,wood,Turquoise,1.67,Brainbox,993.84,4/22/2001
+802,"Bread - Multigrain, Loaf",24.58,97.13,wood,Mauv,2.89,Oozz,920.5,2/17/2006
+803,"Wine - Red, Cooking",48.86,97.82,metal,Maroon,6.1,Ntag,188.62,9/18/2016
+804,"Pasta - Rotini, Dry",80.14,45.68,plastic,Green,9.03,Yabox,82.11,3/22/2012
+805,Mussels - Frozen,11.04,29.06,metal,Puce,8.09,Mydo,374.66,8/19/2004
+806,Wine - Red Oakridge Merlot,2.61,26.52,wood,Purple,3.49,Kazu,557.58,5/11/2001
+807,Sword Pick Asst,60.3,62.71,glass,Puce,9.97,Blogpad,11.26,11/16/2003
+808,Sauce Tomato Pouch,93.73,79.12,plastic,Puce,8.04,Fliptune,804.41,11/29/2020
+809,Wine - Zinfandel California 2002,32.46,29.62,plastic,Aquamarine,5.56,Tazzy,762.62,6/27/2013
+810,Mushroom Morel Fresh,18.58,58.54,glass,Goldenrod,0.56,Blogtags,555.88,7/25/2021
+811,Plastic Arrow Stir Stick,39.66,58.84,wood,Aquamarine,7.2,Einti,776.17,3/13/2022
+812,"Turkey - Breast, Smoked",35.29,63.14,wood,Purple,6.14,Katz,878.78,10/10/2000
+813,The Pop Shoppe - Black Cherry,28.06,94.44,wood,Red,4.21,Eire,472.09,8/7/2002
+814,Lid - 0090 Clear,86.63,3.95,wood,Puce,2.6,Realmix,537.22,3/1/2006
+815,Chicken - Tenderloin,25.52,8.93,wood,Teal,2.64,Thoughtstorm,214.32,11/13/2011
+816,Wine - Chardonnay South,3.81,95.03,plastic,Fuscia,1.39,Riffpedia,223.57,9/3/2004
+817,Butter - Unsalted,73.34,40.38,metal,Blue,0.18,Skidoo,204.48,11/5/2004
+818,Grenadine,30.87,25.98,wood,Orange,4.8,Edgeclub,171.82,2/10/2018
+819,Wine - Two Oceans Cabernet,85.24,15.91,glass,Puce,7.82,Brainbox,972.61,7/20/2008
+820,Miso - Soy Bean Paste,76.34,65.89,metal,Pink,7.59,Aivee,742.06,10/12/2001
+821,Compound - Pear,30.79,6.84,glass,Red,3.14,Jatri,980.68,9/8/2017
+822,Towel Dispenser,15.32,79.26,plastic,Indigo,9.88,Dabvine,109.41,1/2/2009
+823,Pepper - Roasted Red,38.74,98.39,metal,Indigo,9.02,Eamia,719.91,7/7/2010
+824,Bread - French Stick,35.37,77.62,glass,Turquoise,2.19,Mynte,610.7,12/9/2014
+825,Gelatine Leaves - Envelopes,27.46,74.51,wood,Fuscia,9.94,Realbuzz,697.78,2/4/2007
+826,Mince Meat - Filling,52.37,69.46,plastic,Goldenrod,0.59,Teklist,619.76,10/5/2020
+827,"Wine - Red, Harrow Estates, Cab",81.92,27.24,glass,Aquamarine,7.88,Skyble,802.18,6/13/2004
+828,Cardamon Ground,75.4,84.85,glass,Puce,0.7,Centizu,180.03,3/20/2017
+829,Crawfish,21.61,27.97,plastic,Indigo,9.94,Rhycero,583.58,11/19/2013
+830,Tea - Herbal I Love Lemon,66.18,1.13,metal,Fuscia,7.01,Dabshots,19.38,1/22/2012
+831,Spice - Pepper Portions,69.89,93.41,wood,Blue,3.69,Topicstorm,261.58,9/2/2000
+832,Carbonated Water - Raspberry,46.73,47.77,metal,Orange,9.62,Yabox,992.08,1/31/2005
+833,Coffee - Espresso,95.49,86.73,metal,Indigo,7.27,Camido,544.76,1/27/2004
+834,Beer - Labatt Blue,6.45,23.8,wood,Goldenrod,5.22,Izio,516.8,4/16/2001
+835,"Wine - Red, Harrow Estates, Cab",81.39,54.23,plastic,Violet,6.47,Devify,675.18,4/10/2001
+836,"Turkey - Breast, Boneless Sk On",6.56,51.63,wood,Goldenrod,4.24,Centidel,193.46,9/3/2009
+837,Celery,20.0,37.51,wood,Khaki,8.15,Talane,391.3,3/30/2005
+838,"Nut - Chestnuts, Whole",75.43,23.3,plastic,Yellow,2.17,Feedfish,964.36,1/29/2019
+839,Pasta - Fusili Tri - Coloured,91.34,46.11,wood,Fuscia,2.69,Tambee,490.09,8/3/2004
+840,Buttons,2.37,19.65,glass,Fuscia,8.08,Dabshots,521.29,12/27/2006
+841,Noodles - Steamed Chow Mein,90.25,57.44,plastic,Violet,0.34,Flipbug,604.29,7/8/2007
+842,Appetizer - Southwestern,43.94,18.33,wood,Yellow,8.73,Kayveo,284.12,9/19/2008
+843,Beef - Tenderloin Tails,60.6,27.72,wood,Aquamarine,7.02,Flashdog,452.66,7/23/2011
+844,Wine - Remy Pannier Rose,17.72,4.55,glass,Crimson,2.09,Izio,118.52,5/27/2012
+845,Coffee Swiss Choc Almond,25.55,55.88,plastic,Purple,7.78,Jamia,108.83,7/7/2019
+846,Pork - Bones,33.02,49.0,glass,Khaki,5.73,Browsedrive,921.89,2/27/2001
+847,Vinegar - White Wine,89.21,72.31,metal,Goldenrod,3.71,Voolia,630.85,2/18/2022
+848,Longos - Chicken Curried,25.58,13.14,wood,Blue,1.95,Photospace,883.09,9/11/2005
+849,Nantucket Orange Juice,80.32,40.65,glass,Khaki,4.35,Voolia,780.08,6/28/2000
+850,Shrimp - 150 - 250,12.39,67.06,metal,Crimson,5.17,Youfeed,95.35,3/19/2016
+851,Cornish Hen,19.83,77.54,wood,Yellow,7.0,Centidel,156.92,9/30/2009
+852,Soup - Campbells Chili,78.27,4.18,wood,Blue,0.93,Linklinks,231.54,5/10/2006
+853,"Wine - Saint - Bris 2002, Sauv",61.79,3.88,metal,Fuscia,1.01,Bluezoom,908.96,10/12/2021
+854,"Pork - Bacon,back Peameal",42.84,95.58,wood,Maroon,1.22,Realblab,53.6,9/19/2007
+855,Chocolate Bar - Reese Pieces,60.84,36.9,plastic,Indigo,8.84,Meezzy,135.5,4/9/2013
+856,Soup - Campbells - Tomato,45.49,11.17,metal,Khaki,4.24,Omba,180.95,8/18/2018
+857,"Pasta - Shells, Medium, Dry",80.49,58.62,glass,Violet,4.87,Wordpedia,456.46,12/17/2003
+858,Juice - Apple 284ml,66.52,70.49,glass,Indigo,0.86,Photojam,814.08,6/24/2002
+859,Bread - Olive,85.74,91.14,plastic,Mauv,5.46,Linkbuzz,501.16,2/1/2013
+860,Cognac - Courvaisier,65.43,51.52,metal,Red,4.68,Jabbertype,549.55,1/31/2015
+861,Juice - Apple 284ml,40.27,49.61,wood,Mauv,6.86,Thoughtsphere,529.19,6/9/2011
+862,"Beef - Baby, Liver",47.0,59.79,metal,Green,7.74,Skivee,418.76,7/18/2006
+863,Juice - Apple 284ml,58.07,92.08,plastic,Violet,9.45,Skilith,230.98,1/3/2004
+864,Lettuce - Romaine,75.1,58.33,glass,Violet,9.76,Photojam,722.87,3/6/2009
+865,Whmis - Spray Bottle Trigger,30.13,38.64,glass,Puce,3.25,Wordware,209.51,1/15/2012
+866,Cookies - Englishbay Oatmeal,19.33,17.22,glass,Yellow,1.15,Edgetag,582.85,7/11/2008
+867,Coffee - 10oz Cup 92961,36.61,61.73,wood,Red,3.28,Jaxspan,664.0,2/14/2017
+868,Wine - Jafflin Bourgongone,53.92,47.3,wood,Mauv,1.55,Devshare,911.27,9/25/2009
+869,Cookie Dough - Oatmeal Rasin,67.02,61.64,metal,Red,9.49,Bubbletube,717.71,12/23/2021
+870,"Pork - Ham, Virginia",2.77,70.75,plastic,Turquoise,2.43,Vitz,242.21,10/6/2021
+871,Bagel - Everything,39.91,50.35,wood,Teal,8.15,Skimia,39.86,12/21/2006
+872,Dried Cherries,61.45,67.61,metal,Maroon,9.63,Meejo,38.08,4/5/2000
+873,Bread - Raisin Walnut Oval,91.78,51.25,wood,Puce,3.78,Dabshots,473.0,9/25/2015
+874,Extract Vanilla Pure,65.55,23.44,plastic,Indigo,3.79,Brainsphere,364.5,6/19/2008
+875,French Pastry - Mini Chocolate,67.51,58.63,wood,Purple,2.98,Aimbo,875.26,11/2/2018
+876,Melon - Honey Dew,64.26,5.97,plastic,Purple,0.72,Fatz,617.6,9/29/2001
+877,Nantucket Apple Juice,48.77,4.75,wood,Teal,1.95,Dynabox,636.57,11/3/2002
+878,Pork - Back Ribs,29.5,80.06,plastic,Turquoise,5.22,Quatz,34.51,11/16/2004
+879,"Red Snapper - Fillet, Skin On",60.62,67.56,wood,Puce,6.21,Katz,249.92,7/8/2009
+880,"Sugar - Sweet N Low, Individual",39.78,33.48,glass,Pink,9.97,Agimba,293.42,1/26/2000
+881,Tea - Honey Green Tea,38.58,80.79,metal,Teal,0.3,Aimbu,750.23,7/1/2000
+882,Table Cloth 54x54 White,27.45,34.57,glass,Teal,3.65,Linkbuzz,29.69,3/15/2021
+883,"Apple - Delicious, Golden",41.72,48.66,glass,Maroon,4.55,Livetube,321.13,2/2/2017
+884,Puree - Passion Fruit,48.86,52.02,glass,Red,1.9,Miboo,529.45,7/13/2003
+885,Spaghetti Squash,56.38,73.85,plastic,Purple,7.85,Thoughtworks,62.97,5/17/2000
+886,Arrowroot,75.11,6.39,glass,Orange,8.72,Aivee,149.56,5/20/2007
+887,Currants,45.34,2.31,plastic,Aquamarine,2.75,InnoZ,986.68,6/19/2009
+888,Cranberries - Fresh,34.9,40.36,wood,Puce,4.23,Layo,431.77,4/5/2012
+889,Persimmons,95.68,42.73,metal,Blue,8.74,Shufflester,232.07,4/27/2019
+890,"Bread - Sticks, Thin, Plain",53.41,26.31,metal,Crimson,8.84,Realcube,606.44,3/11/2000
+891,"Tart Shells - Barquettes, Savory",45.06,9.93,metal,Green,6.35,Yozio,671.96,4/9/2022
+892,"Vinegar - Balsamic, White",55.73,53.63,wood,Purple,1.52,Topdrive,80.67,12/14/2006
+893,Squid - U - 10 Thailand,81.67,31.48,metal,Yellow,5.68,Skynoodle,172.34,12/22/2010
+894,Wine - Taylors Reserve,38.35,79.41,metal,Yellow,2.28,Browsebug,291.68,3/30/2015
+895,Beer - Creemore,57.01,80.72,wood,Blue,7.57,Meedoo,919.14,2/25/2001
+896,Truffle - Whole Black Peeled,48.03,52.65,glass,Green,8.92,Devbug,131.21,5/25/2012
+897,Bread - Rye,18.57,3.01,metal,Orange,9.04,Dabtype,427.63,9/21/2011
+898,"Tortillas - Flour, 12",15.56,61.47,wood,Purple,6.38,Topicstorm,99.0,5/14/2004
+899,Flower - Commercial Bronze,41.11,50.11,glass,Red,0.85,Gigazoom,424.95,5/21/2000
+900,Honey - Lavender,53.63,1.99,metal,Green,0.6,Realbridge,833.84,12/14/2017
+901,Apple - Fuji,69.24,77.62,metal,Pink,0.3,Jamia,939.2,10/29/2018
+902,Ham Black Forest,9.53,31.38,metal,Puce,2.15,Trudeo,879.96,9/13/2011
+903,"Garlic - Primerba, Paste",78.21,26.09,glass,Indigo,7.33,Flashspan,554.93,7/12/2010
+904,Beef - Texas Style Burger,3.33,25.94,metal,Purple,6.57,Topiczoom,176.21,2/22/2015
+905,"Vodka - Lemon, Absolut",18.99,78.21,metal,Maroon,3.33,Skivee,939.3,12/2/2014
+906,Sour Puss Sour Apple,26.58,87.5,glass,Khaki,6.16,Thoughtsphere,271.25,10/2/2017
+907,Wine - Vidal Icewine Magnotta,16.94,85.14,wood,Puce,7.14,Centidel,157.72,3/30/2019
+908,Wine - Jaboulet Cotes Du Rhone,26.26,42.11,glass,Blue,7.05,Kwimbee,673.02,9/6/2011
+909,Soup Campbells Mexicali Tortilla,54.91,12.74,glass,Indigo,5.01,Cogibox,233.07,2/22/2015
+910,Lotus Rootlets - Canned,17.55,35.65,metal,Aquamarine,8.16,Skyble,794.45,4/16/2002
+911,Longan,93.91,10.77,wood,Mauv,8.17,Realcube,272.64,4/28/2017
+912,Skirt - 29 Foot,59.05,32.91,wood,Mauv,5.78,Twitterwire,62.19,8/26/2022
+913,Mudslide,66.32,48.88,glass,Green,3.13,Skalith,358.6,1/27/2009
+914,Bread Ww Cluster,52.57,78.49,glass,Fuscia,1.96,Vinder,721.88,5/2/2017
+915,Beef - Striploin Aa,79.75,6.93,plastic,Pink,6.15,Buzzbean,783.17,2/6/2012
+916,Coffee Cup 8oz 5338cd,61.69,23.73,wood,Blue,9.77,Quatz,771.41,12/4/2000
+917,Lamb Shoulder Boneless Nz,90.97,21.52,plastic,Orange,9.54,Rhybox,420.39,1/19/2018
+918,Veal - Striploin,19.18,69.06,metal,Goldenrod,8.54,LiveZ,527.51,12/4/2004
+919,"Nut - Walnut, Pieces",57.42,74.83,plastic,Red,2.41,Zava,879.0,8/31/2015
+920,"Nut - Almond, Blanched, Whole",4.03,88.15,metal,Teal,9.36,Skibox,2.27,1/10/2000
+921,"Capon - Breast, Double, Wing On",69.74,76.44,metal,Turquoise,4.6,Trunyx,516.85,6/15/2010
+922,"Coconut - Shredded, Unsweet",79.62,62.6,wood,Puce,1.4,Youspan,972.35,6/9/2001
+923,Dome Lid Clear P92008h,25.46,25.81,plastic,Fuscia,9.84,Rhybox,333.5,4/6/2002
+924,"Pork - Bacon, Sliced",5.9,71.22,metal,Mauv,8.33,Viva,95.1,2/15/2001
+925,Plasticforkblack,33.28,32.72,wood,Aquamarine,3.73,Pixope,938.16,11/26/2014
+926,"Wine - White, Antinore Orvieto",6.9,74.39,glass,Khaki,7.67,Wikizz,804.75,9/20/2010
+927,Cheese - Grie Des Champ,22.14,88.15,metal,Khaki,8.67,Demimbu,527.44,4/26/2019
+928,Bread - Raisin Walnut Oval,42.68,59.28,plastic,Pink,6.48,Gabvine,297.42,8/17/2000
+929,Artichoke - Fresh,1.46,7.52,metal,Orange,5.09,Gabvine,328.86,10/27/2017
+930,"Pepsi, 355 Ml",65.41,96.49,plastic,Goldenrod,9.73,Zava,907.06,4/26/2008
+931,Fish - Bones,22.93,11.44,metal,Teal,4.21,Youopia,88.13,12/13/2021
+932,Potatoes - Idaho 80 Count,89.34,31.67,glass,Mauv,4.4,Ozu,93.22,6/21/2013
+933,Garlic - Elephant,66.28,77.71,plastic,Teal,0.42,Shufflebeat,242.79,4/6/2017
+934,"Lamb - Whole, Fresh",94.13,1.96,wood,Turquoise,9.9,Teklist,653.19,10/29/2019
+935,Smoked Paprika,29.87,10.68,plastic,Fuscia,9.02,Skalith,266.79,10/25/2010
+936,Wine - White Cab Sauv.on,21.3,8.75,wood,Mauv,5.87,Youspan,638.19,4/26/2001
+937,Eggplant Italian,63.65,1.04,glass,Khaki,8.21,Youfeed,759.64,4/21/2014
+938,"Basil - Dry, Rubbed",59.69,99.84,metal,Violet,0.24,Trilith,344.99,8/30/2017
+939,Ostrich - Fan Fillet,44.06,11.83,glass,Fuscia,2.69,Trudeo,195.25,10/24/2011
+940,Olives - Morracan Dired,22.4,68.52,wood,Pink,7.63,Realblab,639.34,12/21/2000
+941,Pork - Liver,20.21,99.31,wood,Red,9.67,Linktype,337.58,3/21/2014
+942,Calypso - Black Cherry Lemonade,46.91,49.58,plastic,Violet,9.3,Devbug,899.39,2/5/2020
+943,Salt - Kosher,9.37,66.8,wood,Indigo,4.88,Trudeo,494.06,3/27/2008
+944,Island Oasis - Peach Daiquiri,57.51,36.14,metal,Purple,4.93,Trilia,886.26,3/6/2001
+945,Wine - Savigny - Les - Beaune,83.47,22.93,glass,Orange,2.68,Jaxnation,153.68,12/12/2012
+946,Pecan Raisin - Tarts,73.21,46.05,plastic,Fuscia,6.12,Twinder,12.61,11/9/2001
+947,Veal - Eye Of Round,87.54,72.12,metal,Turquoise,1.21,Mymm,78.36,12/25/2013
+948,Steel Wool,75.64,65.21,wood,Violet,2.29,Meemm,982.43,2/27/2001
+949,Milk - 2%,93.43,89.26,plastic,Violet,8.61,Jabberstorm,375.58,4/12/2021
+950,Poppy Seed,74.95,7.64,wood,Fuscia,4.49,Voolith,665.17,8/11/2015
+951,Ice Cream - Fudge Bars,37.61,36.92,glass,Purple,5.68,Bubblebox,954.41,2/9/2019
+952,Sausage - Blood Pudding,25.62,99.99,glass,Red,5.77,Chatterpoint,514.05,10/8/2019
+953,Truffle Paste,5.62,30.41,glass,Indigo,0.73,Photojam,441.08,5/16/2007
+954,Dip - Tapenade,71.79,43.12,metal,Violet,5.2,Twinte,751.19,11/3/2017
+955,Appetizer - Lobster Phyllo Roll,94.18,46.99,metal,Red,5.86,Meemm,122.9,4/25/2016
+956,Cookie - Oreo 100x2,30.44,10.42,glass,Red,4.57,Tanoodle,205.08,7/7/2005
+957,Triple Sec - Mcguinness,77.74,89.92,metal,Khaki,7.0,Ntags,895.15,8/11/2021
+958,"Lemonade - Island Tea, 591 Ml",38.06,65.08,metal,Puce,8.62,Divavu,118.27,12/17/2010
+959,Cheese - Parmesan Cubes,43.24,65.58,metal,Yellow,3.62,Cogidoo,41.19,3/1/2021
+960,Shichimi Togarashi Peppeers,53.56,56.7,plastic,Mauv,7.24,Browseblab,919.54,7/24/2021
+961,Rice Wine - Aji Mirin,23.95,73.42,wood,Mauv,4.27,Realpoint,466.45,2/10/2015
+962,Dried Figs,24.09,24.26,wood,Yellow,1.2,Kazio,434.42,5/19/2013
+963,Chinese Foods - Pepper Beef,33.87,96.16,metal,Goldenrod,9.38,Devcast,861.12,8/13/2016
+964,"Beans - Fava, Canned",22.59,29.83,wood,Red,7.1,Demimbu,489.91,8/8/2014
+965,Chutney Sauce,20.24,3.33,glass,Blue,8.65,Dynazzy,904.77,6/6/2019
+966,Oven Mitt - 13 Inch,45.39,97.88,wood,Yellow,2.91,Shuffledrive,387.95,5/29/2009
+967,Garlic - Elephant,47.58,18.35,glass,Green,5.87,Realpoint,926.89,1/12/2008
+968,Juice - Ocean Spray Cranberry,62.51,89.92,plastic,Mauv,7.27,Abata,75.69,8/26/2007
+969,Cookie Dough - Peanut Butter,22.18,36.23,glass,Aquamarine,2.72,Cogidoo,890.21,8/13/2014
+970,Kumquat,26.93,55.26,metal,Red,8.39,Zoomcast,755.3,2/8/2017
+971,Nectarines,71.36,75.4,wood,Blue,8.39,Camido,498.37,3/22/2015
+972,Garbage Bag - Clear,24.58,59.55,metal,Green,6.8,Babbleblab,982.75,9/20/2006
+973,"Pasta - Penne Primavera, Single",87.29,36.01,plastic,Yellow,7.82,Myworks,215.1,6/30/2006
+974,Sea Bass - Fillets,68.73,44.26,glass,Violet,6.52,Oyondu,424.5,2/24/2005
+975,"Wine - Magnotta, White",8.57,82.46,metal,Fuscia,8.79,Topicblab,281.9,10/16/2003
+976,Cheese - Camembert,69.7,5.76,wood,Maroon,3.16,Jaloo,404.59,11/4/2019
+977,Isomalt,40.0,1.2,glass,Fuscia,0.98,Vimbo,247.8,3/24/2022
+978,"Jam - Marmalade, Orange",2.21,27.1,glass,Turquoise,6.01,Einti,795.41,3/15/2017
+979,Mcgillicuddy Vanilla Schnap,14.5,88.39,glass,Aquamarine,5.31,Youspan,638.82,2/15/2006
+980,"Halibut - Whole, Fresh",31.49,71.76,plastic,Pink,4.26,Feednation,296.91,1/11/2016
+981,Vinegar - White Wine,14.65,78.03,wood,Red,2.6,Kaymbo,18.08,1/12/2007
+982,Longos - Penne With Pesto,26.59,60.31,plastic,Yellow,1.29,Twimbo,606.48,8/7/2013
+983,Pork - Kidney,59.76,83.8,plastic,Pink,8.25,Mydeo,982.33,2/28/2010
+984,Eggwhite Frozen,76.88,87.99,wood,Yellow,5.08,Tavu,535.37,3/15/2012
+985,Maple Syrup,65.48,84.23,glass,Turquoise,7.63,Gabcube,540.99,9/10/2000
+986,Tarragon - Fresh,70.7,77.81,wood,Teal,5.21,Blogpad,980.31,5/12/2012
+987,Grouper - Fresh,4.68,45.64,metal,Indigo,3.03,Layo,572.23,8/12/2004
+988,Sultanas,67.97,40.26,glass,Mauv,0.48,Mydeo,107.26,11/29/2000
+989,Gelatine Leaves - Bulk,42.96,39.68,plastic,Aquamarine,5.75,Dabfeed,533.61,1/18/2020
+990,Sausage - Liver,82.38,21.32,glass,Pink,7.14,Nlounge,475.31,3/1/2006
+991,"Tabasco Sauce, 2 Oz",57.2,34.52,plastic,Mauv,4.68,DabZ,542.74,4/26/2019
+992,Lid - 3oz Med Rec,45.88,43.64,glass,Pink,1.33,Wikizz,403.76,12/13/2016
+993,Pomello,81.7,38.49,plastic,Orange,2.66,Chatterbridge,337.06,3/9/2012
+994,Bread - Pain Au Liat X12,14.27,81.19,wood,Orange,3.84,Tanoodle,265.43,12/2/2000
+995,"Wine - Red, Pinot Noir, Chateau",46.91,2.86,wood,Crimson,6.12,Youspan,147.31,1/14/2009
+996,Muffin - Mix - Strawberry Rhubarb,2.65,72.53,metal,Red,0.78,Edgeclub,250.83,4/28/2021
+997,Energy Drink - Franks Pineapple,34.98,4.96,wood,Indigo,9.8,Tagtune,17.17,9/5/2022
+998,Pepper - Jalapeno,81.16,96.43,metal,Purple,8.47,Browsetype,349.82,7/4/2003
+999,Lid Tray - 12in Dome,51.75,48.5,plastic,Red,6.14,Viva,982.43,6/6/2015
+1000,Veal - Knuckle,62.11,87.19,glass,Indigo,9.02,Jabberbean,538.03,9/26/2000
